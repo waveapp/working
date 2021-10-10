@@ -1,0 +1,586 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:3:1-214:12
+INJECTED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:3:1-214:12
+INJECTED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:3:1-214:12
+INJECTED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:3:1-214:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\167641784eb30b9e3d2af97430fc5393\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\ea7cdeeeec888737879dbed53efcdec1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\48d97fa408d02caabb75ab6a72723b85\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\2631e4a0a52f7cf86b133000fdcb14ff\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\34b028ca60681b1257bf9d036db26b81\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\b1b296e49aeac57e01520bb716fe1bd1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\ed7a53217aecf745ecd6e324471fd0e0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\8ef4f89ffaa8709101d3d4f5033c5dee\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\af833ca416382e0368567b81aa7c1307\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\b39ad0acb66807350631f2a513674d7d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\d097396aa70ec50da321f18ad698466a\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\87e9ef559334d7fce0abdc966a59bd93\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\473471a48fdd757ba8e15f7af5cd6d33\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\4d214dacdb608d690edaa0cff55b5957\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\3cb7a7e73f9a6ccfe5374400ba17ed0d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\bcc4c719e0ef133a54fc714f6ca8f3e3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\59f4eb08baf3fe31f77ec34b554e5499\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\07bcfec28fb447cc4f81e4006b50fa11\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\1beaa4b9b317b2afe19322bdb6e7b3e4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\725b72e55cfd78b3acfa03a8a86e56ee\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\5e6d7b6fcdfdd5a21903dc861a14ae2c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\ed31308ac3dd1b9b671a5a3c69db2944\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\99332d9f6f6b63d88aff9e9b6d673744\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\ca711f3133c626503a3a7b33a94c8e3d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\508628b23971ad27ffa26f13f54ce7b1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\23a1ea102a4d9b582119758c1215fe10\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\c9f6b09bb9592e3fc5407671d399cb86\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\927fba78da4658239d0dba14079419f8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\43f2e61e7ff9ccb63d334d60a23e9459\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\618a79afa4de67c1002de169eae86475\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\cc134bb8183832e5dd058f9d81a0c2af\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\ae7d143b302beac0fdf7ff2dc2b93b4a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\05a6d6619837dcd7a4ec218040b87d13\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\0278264a16ca910744881c8b171d593e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\b7e402c037b1e73c8f357edaccdfbfd3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7e37de2b67526068ebd2113b01fd7cb7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\605b39c13cf38e25dea1dd9ec90c4b12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-base:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\0e18ce1d577f2894d663fcb7b3bf4592\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:3:1-214:12
+INJECTED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:3:1-214:12
+INJECTED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:3:1-214:12
+	package
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:7:7-39
+		INJECTED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml
+		INJECTED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:6:7-35
+		INJECTED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml
+		INJECTED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:4:4-62
+	android:versionCode
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:5:7-31
+		INJECTED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml
+		INJECTED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.telephony
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:19:2-64
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:19:16-57
+uses-feature#android.hardware.screen.portrait
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:20:2-68
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:20:16-63
+uses-feature#android.hardware.touchscreen
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:21:2-65
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:21:16-59
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:23:5-72
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:23:22-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:24:5-69
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:24:22-66
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:25:5-75
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:25:22-72
+uses-permission#android.permission.READ_CALENDAR
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:28:2-68
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:28:19-66
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:29:2-69
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:29:19-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:31:2-78
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:31:19-75
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:32:2-77
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:32:19-74
+uses-permission-sdk-23#android.permission.WRITE_SETTINGS
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:34:2-77
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:34:26-74
+uses-permission-sdk-23#android.permission.CHANGE_CONFIGURATION
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:35:5-86
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:35:29-83
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:36:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\34b028ca60681b1257bf9d036db26b81\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\34b028ca60681b1257bf9d036db26b81\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\8ef4f89ffaa8709101d3d4f5033c5dee\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\8ef4f89ffaa8709101d3d4f5033c5dee\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:36:22-65
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:37:2-64
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:37:19-61
+uses-permission#android.permission.VIBRATE
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:38:2-63
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:38:19-60
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:41:2-74
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:41:19-71
+uses-permission#android.permission.INTERNET
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:44:2-64
+MERGED from [com.google.android.gms:play-services-ads-lite:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\48d97fa408d02caabb75ab6a72723b85\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\48d97fa408d02caabb75ab6a72723b85\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\34b028ca60681b1257bf9d036db26b81\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\34b028ca60681b1257bf9d036db26b81\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\8ef4f89ffaa8709101d3d4f5033c5dee\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\8ef4f89ffaa8709101d3d4f5033c5dee\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:44:19-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:45:2-76
+MERGED from [com.google.android.gms:play-services-ads-lite:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\48d97fa408d02caabb75ab6a72723b85\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\48d97fa408d02caabb75ab6a72723b85\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\34b028ca60681b1257bf9d036db26b81\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\34b028ca60681b1257bf9d036db26b81\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\8ef4f89ffaa8709101d3d4f5033c5dee\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\8ef4f89ffaa8709101d3d4f5033c5dee\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:45:19-73
+uses-permission#android.permission.ACCESS_FIND_LOCATION
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:46:2-76
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:46:19-73
+uses-permission#com.android.vending.BILLING
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:47:2-64
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:47:19-61
+uses-permission-sdk-23#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:50:2-79
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:50:26-77
+application
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:53:5-213:19
+MERGED from [com.google.android.gms:play-services-ads-lite:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\48d97fa408d02caabb75ab6a72723b85\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-ads-lite:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\48d97fa408d02caabb75ab6a72723b85\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\2631e4a0a52f7cf86b133000fdcb14ff\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\2631e4a0a52f7cf86b133000fdcb14ff\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\34b028ca60681b1257bf9d036db26b81\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\34b028ca60681b1257bf9d036db26b81\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\b1b296e49aeac57e01520bb716fe1bd1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\b1b296e49aeac57e01520bb716fe1bd1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\ed7a53217aecf745ecd6e324471fd0e0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\ed7a53217aecf745ecd6e324471fd0e0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\8ef4f89ffaa8709101d3d4f5033c5dee\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\8ef4f89ffaa8709101d3d4f5033c5dee\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\af833ca416382e0368567b81aa7c1307\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\af833ca416382e0368567b81aa7c1307\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\b39ad0acb66807350631f2a513674d7d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\b39ad0acb66807350631f2a513674d7d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\d097396aa70ec50da321f18ad698466a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\d097396aa70ec50da321f18ad698466a\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\23a1ea102a4d9b582119758c1215fe10\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\23a1ea102a4d9b582119758c1215fe10\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\c9f6b09bb9592e3fc5407671d399cb86\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\c9f6b09bb9592e3fc5407671d399cb86\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-base:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\0e18ce1d577f2894d663fcb7b3bf4592\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\0e18ce1d577f2894d663fcb7b3bf4592\AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\23a1ea102a4d9b582119758c1215fe10\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:55:6-38
+	android:configChanges
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:56:6-63
+	android:icon
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:54:6-35
+	android:allowBackup
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:58:6-33
+	android:theme
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:57:6-42
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:59:6-27
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:62:3-64:60
+	android:value
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:64:4-58
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:63:4-60
+activity#com.google.ads.AdActivity
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:65:3-66:92
+	android:configChanges
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:66:4-90
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:65:14-54
+activity#com.waveapp.smcalendar.ARMValidation
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:69:10-75:20
+	android:screenOrientation
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:70:14-50
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:69:21-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:71:13-74:29
+action#android.intent.action.MAIN
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:72:17-70
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:72:27-68
+category#android.intent.category.LAUNCHER
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:73:17-77
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:73:27-74
+service#com.waveapp.smcalendar.service.SmAlarm_Service
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:78:3-81:13
+	android:process
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:79:6-31
+	android:enabled
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:80:6-28
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:78:12-51
+service#com.waveapp.smcalendar.service.SmWidgetUpdate_Service
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:84:3-87:13
+	android:process
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:85:6-31
+	android:enabled
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:86:6-28
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:84:12-58
+receiver#com.waveapp.smcalendar.widget.DailyAppWidgetProvider
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:91:3-99:14
+	android:label
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:92:9-42
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:91:14-59
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:93:13-95:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:94:17-85
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:94:27-83
+meta-data#android.appwidget.provider
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:96:13-98:60
+	android:resource
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:98:17-58
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:97:17-58
+receiver#com.waveapp.smcalendar.widget.SixDaysAppWidgetProvider
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:100:3-108:14
+	android:label
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:101:9-45
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:100:14-61
+receiver#com.waveapp.smcalendar.widget.WeeklyAppWidgetProvider
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:109:3-117:14
+	android:label
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:110:9-50
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:109:14-60
+receiver#com.waveapp.smcalendar.widget.CalendarAppWidgetProvider
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:119:3-127:14
+	android:label
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:120:9-45
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:119:14-62
+activity#com.waveapp.smcalendar.PreferenceMain
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:180:3-45
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:180:13-43
+activity#com.waveapp.smcalendar.UserManager
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:181:3-182:50
+	android:windowSoftInputMode
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:182:7-48
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:181:13-40
+activity#com.waveapp.smcalendar.UserList
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:183:3-39
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:183:13-37
+activity#com.waveapp.smcalendar.ScheduleManager
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:184:3-185:50
+	android:windowSoftInputMode
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:185:7-48
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:184:13-44
+activity#com.waveapp.smcalendar.ScheduleListForUser
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:186:3-50
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:186:13-48
+activity#com.waveapp.smcalendar.CalendarMain
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:187:3-43
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:187:13-41
+activity#com.waveapp.smcalendar.ScheduleListForDate
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:188:3-51
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:188:13-48
+activity#com.waveapp.smcalendar.SpecialdayManager
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:189:3-190:50
+	android:windowSoftInputMode
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:190:7-48
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:189:13-46
+activity#com.waveapp.smcalendar.SpecialdayList
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:191:3-45
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:191:13-43
+activity#com.waveapp.smcalendar.ColorList
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:192:3-41
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:192:13-38
+activity#com.waveapp.smcalendar.ScheduleTimeTable
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:193:3-48
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:193:13-46
+activity#com.waveapp.smcalendar.ScheduleTabForDate
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:194:3-49
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:194:13-47
+activity#com.waveapp.smcalendar.SdCardBackup
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:195:3-44
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:195:13-41
+activity#com.waveapp.smcalendar.SdCardRestore
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:196:3-45
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:196:13-42
+activity#com.waveapp.smcalendar.TodoManager
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:197:3-198:50
+	android:windowSoftInputMode
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:198:7-48
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:197:13-40
+activity#com.waveapp.smcalendar.TodoList
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:199:3-40
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:199:13-37
+activity#com.waveapp.smcalendar.LunarCalendarMain
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:200:3-49
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:200:13-46
+activity#com.waveapp.smcalendar.ScheduleDayOfWeek
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:201:3-49
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:201:13-46
+activity#com.waveapp.smcalendar.Notice
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:202:3-38
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:202:13-35
+activity#com.waveapp.smcalendar.GetOtherCalendar
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:203:3-48
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:203:13-45
+activity#com.waveapp.smcalendar.SendOtherCalendar
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:204:3-49
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:204:13-46
+activity#com.waveapp.smcalendar.link.SMSLink
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:205:3-43
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:205:13-41
+activity#com.waveapp.smcalendar.service.SmAlarm_Dialog
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:206:3-53
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:206:13-51
+activity#com.waveapp.smcalendar.GoogleLogin
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:207:3-208:50
+	android:windowSoftInputMode
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:208:7-48
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:207:13-40
+activity#com.waveapp.smcalendar.SMCalendar
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:209:3-210:45
+	android:screenOrientation
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:210:7-43
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:209:13-39
+activity#com.waveapp.smcalendar.SpecialdayAllList
+ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:211:3-49
+	android:name
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml:211:13-46
+uses-sdk
+INJECTED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml
+INJECTED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml
+INJECTED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\167641784eb30b9e3d2af97430fc5393\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\167641784eb30b9e3d2af97430fc5393\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\ea7cdeeeec888737879dbed53efcdec1\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\ea7cdeeeec888737879dbed53efcdec1\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads-lite:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\48d97fa408d02caabb75ab6a72723b85\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\48d97fa408d02caabb75ab6a72723b85\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\2631e4a0a52f7cf86b133000fdcb14ff\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\2631e4a0a52f7cf86b133000fdcb14ff\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\34b028ca60681b1257bf9d036db26b81\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\34b028ca60681b1257bf9d036db26b81\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\b1b296e49aeac57e01520bb716fe1bd1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\b1b296e49aeac57e01520bb716fe1bd1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\ed7a53217aecf745ecd6e324471fd0e0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\ed7a53217aecf745ecd6e324471fd0e0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\8ef4f89ffaa8709101d3d4f5033c5dee\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\8ef4f89ffaa8709101d3d4f5033c5dee\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\af833ca416382e0368567b81aa7c1307\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\af833ca416382e0368567b81aa7c1307\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\b39ad0acb66807350631f2a513674d7d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\b39ad0acb66807350631f2a513674d7d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\d097396aa70ec50da321f18ad698466a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\d097396aa70ec50da321f18ad698466a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\87e9ef559334d7fce0abdc966a59bd93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\87e9ef559334d7fce0abdc966a59bd93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\473471a48fdd757ba8e15f7af5cd6d33\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\473471a48fdd757ba8e15f7af5cd6d33\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\4d214dacdb608d690edaa0cff55b5957\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\4d214dacdb608d690edaa0cff55b5957\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\3cb7a7e73f9a6ccfe5374400ba17ed0d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\3cb7a7e73f9a6ccfe5374400ba17ed0d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\bcc4c719e0ef133a54fc714f6ca8f3e3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\bcc4c719e0ef133a54fc714f6ca8f3e3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\59f4eb08baf3fe31f77ec34b554e5499\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\59f4eb08baf3fe31f77ec34b554e5499\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\07bcfec28fb447cc4f81e4006b50fa11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\07bcfec28fb447cc4f81e4006b50fa11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\1beaa4b9b317b2afe19322bdb6e7b3e4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\1beaa4b9b317b2afe19322bdb6e7b3e4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\725b72e55cfd78b3acfa03a8a86e56ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\725b72e55cfd78b3acfa03a8a86e56ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\5e6d7b6fcdfdd5a21903dc861a14ae2c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\5e6d7b6fcdfdd5a21903dc861a14ae2c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\ed31308ac3dd1b9b671a5a3c69db2944\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\ed31308ac3dd1b9b671a5a3c69db2944\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\99332d9f6f6b63d88aff9e9b6d673744\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\99332d9f6f6b63d88aff9e9b6d673744\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\ca711f3133c626503a3a7b33a94c8e3d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\ca711f3133c626503a3a7b33a94c8e3d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\508628b23971ad27ffa26f13f54ce7b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\508628b23971ad27ffa26f13f54ce7b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\23a1ea102a4d9b582119758c1215fe10\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\23a1ea102a4d9b582119758c1215fe10\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\c9f6b09bb9592e3fc5407671d399cb86\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\c9f6b09bb9592e3fc5407671d399cb86\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\927fba78da4658239d0dba14079419f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\927fba78da4658239d0dba14079419f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\43f2e61e7ff9ccb63d334d60a23e9459\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\43f2e61e7ff9ccb63d334d60a23e9459\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\618a79afa4de67c1002de169eae86475\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\618a79afa4de67c1002de169eae86475\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\cc134bb8183832e5dd058f9d81a0c2af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\cc134bb8183832e5dd058f9d81a0c2af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\ae7d143b302beac0fdf7ff2dc2b93b4a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\ae7d143b302beac0fdf7ff2dc2b93b4a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\05a6d6619837dcd7a4ec218040b87d13\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\05a6d6619837dcd7a4ec218040b87d13\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\0278264a16ca910744881c8b171d593e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\0278264a16ca910744881c8b171d593e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\b7e402c037b1e73c8f357edaccdfbfd3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\b7e402c037b1e73c8f357edaccdfbfd3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7e37de2b67526068ebd2113b01fd7cb7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7e37de2b67526068ebd2113b01fd7cb7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\605b39c13cf38e25dea1dd9ec90c4b12\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\605b39c13cf38e25dea1dd9ec90c4b12\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\0e18ce1d577f2894d663fcb7b3bf4592\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\0e18ce1d577f2894d663fcb7b3bf4592\AndroidManifest.xml:5:5-44
+INJECTED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml
+INJECTED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml
+INJECTED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\ea7cdeeeec888737879dbed53efcdec1\AndroidManifest.xml:23:9-49
+	android:maxSdkVersion
+		INJECTED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml
+		INJECTED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml
+		INJECTED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml
+		ADDED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml
+		INJECTED from C:\adapp\AndroidStudioProjects\SMCalendar\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\48d97fa408d02caabb75ab6a72723b85\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\48d97fa408d02caabb75ab6a72723b85\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\48d97fa408d02caabb75ab6a72723b85\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\48d97fa408d02caabb75ab6a72723b85\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\48d97fa408d02caabb75ab6a72723b85\AndroidManifest.xml:30:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\48d97fa408d02caabb75ab6a72723b85\AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\48d97fa408d02caabb75ab6a72723b85\AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\48d97fa408d02caabb75ab6a72723b85\AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\48d97fa408d02caabb75ab6a72723b85\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.1.1] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\48d97fa408d02caabb75ab6a72723b85\AndroidManifest.xml:36:13-76
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\34b028ca60681b1257bf9d036db26b81\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\34b028ca60681b1257bf9d036db26b81\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\8ef4f89ffaa8709101d3d4f5033c5dee\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\8ef4f89ffaa8709101d3d4f5033c5dee\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\34b028ca60681b1257bf9d036db26b81\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\34b028ca60681b1257bf9d036db26b81\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\8ef4f89ffaa8709101d3d4f5033c5dee\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\8ef4f89ffaa8709101d3d4f5033c5dee\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\7fdf5e970e1fedee6ba491f1a6235307\AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\d097396aa70ec50da321f18ad698466a\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\d097396aa70ec50da321f18ad698466a\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\qkrwl\.gradle\caches\transforms-2\files-2.1\d097396aa70ec50da321f18ad698466a\AndroidManifest.xml:24:13-58

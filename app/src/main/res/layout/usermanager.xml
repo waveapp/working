@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  사용자관리 (사용자등록,수정,삭제)  -->
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  style="@style/sm_background"
+  android:id="@+id/viewroot"  
+  android:orientation="vertical" >
+    <!--  공통 title : 고정 -->
+	<include 
+	  android:layout_width="fill_parent" 
+	  layout="@layout/common_top" />   
+    <!--  공통 menu: 고정 -->
+	<include 
+	  android:layout_width="fill_parent" 
+	  layout="@layout/common_menu"/>  
+ 	<ScrollView
+	  android:layout_height="fill_parent" 
+	  android:layout_width="fill_parent" 
+	  android:layout_weight="1">	
+	<LinearLayout
+	  style="@style/sm_background" 
+	  android:orientation="vertical" >
+	    <LinearLayout 
+	    	style="@style/sm_linear" 
+	    	android:id="@+id/lin_name"    
+	    	android:orientation="vertical">
+	        <TextView 	
+	        style="@style/sm_textview"
+	        android:text="@string/name" 
+	        android:id="@+id/tv_name" >
+	        </TextView>
+	        <EditText 
+	        style="@style/sm_edittext"
+	        android:id="@+id/name"         
+	        android:text=""
+	        android:maxLength="20"
+	        android:hint="@string/hint_text"/>
+	    </LinearLayout>	
+	    <!-- 
+	    <LinearLayout 
+	    	style="@style/sm_line" 
+	    	android:id="@+id/lin_line"    
+	    	android:orientation="vertical"/>
+	    	 -->	         
+	    <LinearLayout 
+	    	style="@style/sm_linear" 
+	    	android:id="@+id/lin_birth"    
+	    	android:orientation="vertical">
+	        <TextView 	
+	        style="@style/sm_textview"
+	        android:text="@string/birthday" 
+	        android:id="@+id/tv_birth" >
+	        </TextView>
+	        <Button 
+	        style="@style/sm_edittext_date_basic"
+	        android:id="@+id/birth_date"/>
+	    </LinearLayout>	 
+	    <LinearLayout 
+	    	style="@style/sm_line" 
+	    	android:id="@+id/lin_line"    
+	    	android:orientation="vertical"/>		     
+	    <LinearLayout 
+	    	style="@style/sm_linear" 
+	    	android:id="@+id/lin_relation"    
+	    	android:orientation="vertical">
+	        <TextView 	
+	        style="@style/sm_textview"
+	        android:text="@string/relation" 
+	        android:id="@+id/tv_relation" >
+	        </TextView>
+	        <Spinner 
+	        style="@style/sm_spinner"
+	        android:id="@+id/relationSpinner" />
+	    </LinearLayout>
+	    <LinearLayout 
+	    	style="@style/sm_line" 
+	    	android:id="@+id/lin_line"    
+	    	android:orientation="vertical"/>		    
+	    <LinearLayout 
+	    	style="@style/sm_linear" 
+	    	android:id="@+id/lin_color"    
+	    	android:orientation="vertical">
+	        <TextView 	
+	        style="@style/sm_textview"
+	        android:text="@string/color" 
+	        android:id="@+id/tv_color" >
+	        </TextView>
+	        <Button 
+	        style="@style/sm_spinner"
+	        android:id="@+id/usercolor"
+	        android:text=""
+	        android:height="35dip"
+	        android:layout_marginBottom="@dimen/margin_middle"
+	        android:layout_marginLeft="@dimen/margin_middle"/>
+	    </LinearLayout>	
+	    <LinearLayout 
+	    	style="@style/sm_line" 
+	    	android:id="@+id/lin_line"    
+	    	android:orientation="vertical"/>		    
+	    <LinearLayout 
+	    	style="@style/sm_linear" 
+	    	android:id="@+id/lin_addr"    
+	    	android:orientation="vertical">
+	        <TextView 	
+	        style="@style/sm_textview"
+	        android:text="@string/address" 
+	        android:id="@+id/tv_addr" >
+	        </TextView>
+	        <EditText 
+	        style="@style/sm_edittext"
+	        android:id="@+id/address"         
+	        android:text=""/>
+	    </LinearLayout>	 
+	    <LinearLayout 
+	    	style="@style/sm_line" 
+	    	android:id="@+id/lin_line"    
+	    	android:orientation="vertical"/>		       
+	    <LinearLayout 
+	    	style="@style/sm_linear2" 
+	    	android:id="@+id/lin_memo"    
+	    	android:orientation="vertical">
+	        <TextView 	
+	        style="@style/sm_textview"
+	        android:text="@string/memo" 
+	        android:id="@+id/tv_memo" />
+	        <EditText 
+	        style="@style/sm_edittext_memo"
+	        android:id="@+id/memo"         
+	        android:hint="@string/hint_memo" />
+	    </LinearLayout>
+	    <LinearLayout 
+	    	style="@style/sm_line" 
+	    	android:id="@+id/lin_line"    
+	    	android:orientation="vertical"/>		    
+	</LinearLayout> 
+	</ScrollView> 
+	
+	<!--  footer  -->	
+    <LinearLayout 
+    style="@style/sm_footeLin"
+    android:id="@+id/lin_btn"
+    android:orientation="horizontal"
+    android:layout_weight="0">
+        <Button 
+		style="@style/sm_btn" 
+		android:layout_marginLeft="@dimen/margin_basic"
+        android:id="@+id/confirm" 
+        android:text="@string/register"/>
+        <Button 
+        style="@style/sm_btn" 
+        android:id="@+id/cancel" 
+        android:text="@string/cancel"/>
+    </LinearLayout>	
+</LinearLayout>

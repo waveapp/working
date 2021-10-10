@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  리스트(확장형)  -->
+<LinearLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/sm_background"  
+    android:orientation="vertical"
+    android:gravity="center"> 
+    
+	<ExpandableListView
+	style="@style/sm_listview" 
+	android:id="@+id/list_schedule"
+	android:scrollbars="vertical"/>
+	
+</LinearLayout>

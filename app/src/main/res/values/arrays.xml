@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- relation spinner -->
+    <string-array name="arr_relation" >
+            <item>@string/arr_myself</item>
+            <item>@string/arr_family</item>        
+            <item>@string/arr_other</item>
+    </string-array>  
+    <string-array name="arr_relation_key" >
+            <item>0</item>        
+            <item>1</item>        
+            <item>10</item>
+    </string-array>     
+       
+<!-- alarm spinner -->
+    <string-array name="arr_alarm" >
+    		<item>@string/arr_none</item>
+    		<item>@string/arr_onetime</item>
+            <item>@string/arr_5mbefore</item> 
+            <item>@string/arr_10mbefore</item>        
+            <item>@string/arr_30mbefore</item>        
+            <item>@string/arr_1hbefore</item>
+            <item>@string/arr_6hbefore</item>
+            <item>@string/arr_1dbefore</item>
+    </string-array>  
+    <string-array name="arr_alarm_key" >
+    		<item></item>
+    		<item>0</item>
+            <item>5</item>
+            <item>10</item>        
+            <item>30</item>        
+            <item>60</item> 
+            <item>360</item>
+            <item>1440</item>
+    </string-array>  
+    
+    <string-array name="arr_alarmforother" >
+    		<item>@string/arr_none</item>
+    		<item>@string/arr_0dbefore</item>
+            <item>@string/arr_1dbefore</item> 
+            <item>@string/arr_2dbefore</item>        
+            <item>@string/arr_3dbefore</item>        
+            <item>@string/arr_4dbefore</item>
+            <item>@string/arr_5dbefore</item>
+            <item>@string/arr_6dbefore</item>
+            <item>@string/arr_7dbefore</item>
+    </string-array>  
+    <string-array name="arr_alarmforother_key" >
+    		<item></item>
+    		<item>0</item>
+            <item>1440</item>
+            <item>2880</item>        
+            <item>4320</item>        
+            <item>5760</item> 
+            <item>7200</item>
+            <item>8640</item>
+            <item>10080</item>
+    </string-array>       
+      
+<!-- lunar spinner -->
+    <string-array name="arr_leap" >
+            <item>@string/solar</item>        
+            <item>@string/lunarf</item>        
+            <item>@string/lunarf2</item> 
+    </string-array> 
+    <string-array name="arr_leap_key" >
+            <item>0</item>        
+            <item>1</item>        
+            <item>2</item>
+    </string-array>    
+    
+ <!-- Anniversary spinner -->
+    <string-array name="arr_event" >
+    		<item>@string/anniversaryday</item>
+            <item>@string/birthday</item>        
+            <item>@string/deathday</item>
+    </string-array> 
+    <string-array name="arr_event_key" >
+            <item>0</item>        
+            <item>1</item>        
+            <item>2</item>
+    </string-array>  
+       
+<!-- preference : 언어,국가코드는 안드로이드 locale을 기준으로 작성 --> 
+    <string-array name="arr_language" >
+            <item>@string/pre_sub_korean</item>        
+            <item>@string/pre_sub_english</item>
+            <item>@string/pre_sub_chinese</item> 
+            <item>@string/pre_sub_japanese</item>  
+    </string-array> 
+    <string-array name="arr_language_key" >
+            <item>ko</item>        
+            <item>en</item> 
+            <item>zh</item> 
+            <item>ja</item>  
+    </string-array>   
+       
+    <string-array name="arr_country" >
+            <item>@string/pre_sub_korea</item>        
+            <item>@string/pre_sub_america</item>             
+            <item>@string/pre_sub_unitedkingdom</item>   
+            <item>@string/pre_sub_china</item>
+            <item>@string/pre_sub_japan</item>
+    </string-array> 
+    <string-array name="arr_country_key" >
+            <item>KR</item>        
+            <item>US</item>
+            <item>UK</item>
+            <item>CN</item> 
+            <item>JP</item>   
+    </string-array> 
+    <!-- 
+            <item>ko_KR</item>        
+            <item>en_US</item>
+            <item>zh_CN</item> 
+            <item>ja_JP</item>       
+     -->   
+           
+    <string-array name="arr_calendar" >
+            <item>@string/pre_sub_phonecalendar</item>  
+            <item>@string/pre_sub_litecalendar</item>    
+    </string-array> 
+    <string-array name="arr_calendar_key" >
+            <item>phone</item> 
+            <item>lite</item> 
+    </string-array>  
+    
+    <!--  just lite -->
+     <string-array name="arr_calendar_lite" >
+            <item>@string/pre_sub_phonecalendar</item>   
+    </string-array> 
+    <string-array name="arr_calendar_lite_key" >
+            <item>phone</item> 
+    </string-array>    
+     
+    <string-array name="arr_alarmmode" >
+            <item>@string/sound </item>        
+            <item>@string/vibration </item> 
+            <item>@string/sound_vibmix</item>  
+    </string-array> 
+    <string-array name="arr_alarmmode_key" >
+            <item>S</item>        
+            <item>B</item> 
+            <item>SB</item>  
+    </string-array>   
+
+    <string-array name="arr_usergroup" >
+            <item>@string/arr_family</item>        
+            <item>@string/arr_friend </item> 
+            <item>@string/arr_colleague</item> 
+            <item>@string/arr_other</item> 
+    </string-array> 
+    <string-array name="arr_usergroup_key" >
+            <item></item>        
+            <item>1</item>
+            <item>2</item> 
+            <item>3</item> 
+    </string-array> 
+ 
+    <string-array name="arr_repeatdate" >   
+            <item>@string/arr_1</item> 
+            <item>@string/arr_2</item>
+            <item>@string/arr_3</item>
+            <item>@string/arr_4</item>
+            <item>@string/arr_5</item>
+            <item>@string/arr_6</item>
+            <item>@string/arr_7</item>
+            <item>@string/arr_8</item>
+            <item>@string/arr_9</item>
+            <item>@string/arr_10</item>
+            <item>@string/arr_11</item>
+            <item>@string/arr_12</item>
+            <item>@string/arr_13</item>
+            <item>@string/arr_14</item>
+            <item>@string/arr_15</item>
+            <item>@string/arr_16</item>
+            <item>@string/arr_17</item>
+            <item>@string/arr_18</item>
+            <item>@string/arr_19</item>
+            <item>@string/arr_20</item>
+            <item>@string/arr_21</item>
+            <item>@string/arr_22</item>
+            <item>@string/arr_23</item>
+            <item>@string/arr_24</item>
+            <item>@string/arr_25</item>
+            <item>@string/arr_26</item>
+            <item>@string/arr_27</item>
+            <item>@string/arr_28</item>
+            <item>@string/arr_29</item>
+            <item>@string/arr_30</item>
+            <item>@string/arr_31</item>   
+            <item>@string/arr_endmonth </item> 
+    </string-array> 
+    <string-array name="arr_repeatdate_key" >
+            <item>1</item> 
+            <item>2</item>
+            <item>3</item>
+            <item>4</item>
+            <item>5</item>
+            <item>6</item>
+            <item>7</item>
+            <item>8</item>
+            <item>9</item>
+            <item>10</item>
+            <item>11</item>
+            <item>12</item>
+            <item>13</item>
+            <item>14</item>
+            <item>15</item>
+            <item>16</item>
+            <item>17</item>
+            <item>18</item>
+            <item>19</item>
+            <item>20</item>
+            <item>21</item>
+            <item>22</item>
+            <item>23</item>
+            <item>24</item>
+            <item>25</item>
+            <item>26</item>
+            <item>27</item>
+            <item>28</item>
+            <item>29</item>
+            <item>30</item>
+            <item>31</item>
+            <item>99</item>        
+    </string-array>            
+    <!-- widget :String만 가능-->
+    <string-array name="arr_widgetback" >        
+            <item>@string/wig_transgray_white</item> 
+            <item>@string/wig_trans_white</item> 
+            <item>@string/wig_trans_black</item> 
+    </string-array> 
+    <string-array name="arr_widgetback_key" >
+            <item>tgw</item>        
+            <item>tw</item>
+            <item>tg</item> 
+    </string-array>   
+      
+    <!-- visable : 0, invisable : 1 , gone : 2 
+    <string-array name="arr_topmunuvisible" >
+            <item>@string/always_visable</item>        
+            <item>@string/always_invisable</item> 
+    </string-array> 
+    <string-array name="arr_topmunuvisible_key" >
+            <item>0</item>        
+            <item>2</item> 
+    </string-array>   
+    -->      
+</resources>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 리스트  -->
+<LinearLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:orientation="vertical"
+    android:background="@drawable/sm_info_menu_popup"
+    android:alpha="50">
+    <LinearLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/lin_menu" 
+    android:orientation="vertical" > 
+    
+   		<LinearLayout 
+   		style="@style/sm_line_horizontal_img" 
+    	android:id="@+id/lin_line"    	
+    	android:layout_marginTop="@dimen/margin_middle"
+        android:layout_marginBottom="@dimen/margin_middle"/>
+   		  		
+   		<!--  공지사항  -->
+		<LinearLayout
+			android:id="@+id/lin_notice"
+			android:layout_height="wrap_content"
+			android:layout_width="fill_parent"
+			android:layout_weight="1">	 
+		    <ImageButton
+				style="@style/sm_img_list"
+				android:id="@+id/im_notice" 
+				android:text=""				
+				android:clickable="false"
+				android:background="@drawable/sm_menu_notice"/>     		
+	        <TextView 
+		        android:layout_width="fill_parent" 
+		    	android:layout_height="wrap_content" 
+		        android:id="@+id/notice" 
+		        android:text="@string/pre_notice"
+		        android:textColor="@color/white"
+		        android:textSize="17dip"
+		        android:layout_marginTop="@dimen/margin_middle"
+		        android:layout_marginBottom="@dimen/margin_middle"
+		        android:layout_marginLeft="@dimen/margin_middle"
+		        android:layout_marginRight="@dimen/margin_middle"/>
+	    </LinearLayout>
+   		<LinearLayout 
+   		style="@style/sm_line_horizontal_img" 
+    	android:id="@+id/lin_line2"    	
+    	android:layout_marginTop="@dimen/margin_middle"
+        android:layout_marginBottom="@dimen/margin_middle"/>
+   		    
+    <!--  음력달력  -->
+        <TextView 
+        android:layout_width="fill_parent" 
+    	android:layout_height="wrap_content" 
+        android:id="@+id/lunarcalendar" 
+        android:text="@string/lunarcalendar"
+        android:textColor="@color/white"
+        android:textSize="17dip"
+        android:layout_marginTop="@dimen/margin_middle"
+        android:layout_marginBottom="@dimen/margin_middle"
+        android:layout_marginLeft="@dimen/margin_middle"
+        android:layout_marginRight="@dimen/margin_middle"/> 
+    	<!--  전체스케줄  -->
+        <TextView 
+        android:layout_width="fill_parent" 
+    	android:layout_height="wrap_content" 
+        android:id="@+id/totalschedule" 
+        android:text="@string/title_allschedule"
+        android:textColor="@color/white"
+        android:textSize="17dip"
+        android:layout_marginTop="@dimen/margin_middle"
+        android:layout_marginBottom="@dimen/margin_middle"
+        android:layout_marginLeft="@dimen/margin_middle"
+        android:layout_marginRight="@dimen/margin_middle"/> 
+    	<!--  전체기념일  -->
+        <TextView 
+        android:layout_width="fill_parent" 
+    	android:layout_height="wrap_content" 
+        android:id="@+id/totalspecialday" 
+        android:text="@string/title_allspecialday"
+        android:textColor="@color/white"
+        android:textSize="17dip"
+        android:layout_marginTop="@dimen/margin_middle"
+        android:layout_marginBottom="@dimen/margin_middle"
+        android:layout_marginLeft="@dimen/margin_middle"
+        android:layout_marginRight="@dimen/margin_middle"/> 
+    	<!--  주간스케줄  -->
+        <TextView 
+        android:layout_width="fill_parent" 
+    	android:layout_height="wrap_content" 
+        android:id="@+id/weekschedule" 
+        android:text="@string/title_weekschedule"
+        android:textColor="@color/white"
+        android:textSize="17dip"
+        android:layout_marginTop="@dimen/margin_middle"
+        android:layout_marginBottom="@dimen/margin_middle"
+        android:layout_marginLeft="@dimen/margin_middle"
+        android:layout_marginRight="@dimen/margin_middle"/>
+   		<LinearLayout 
+   		style="@style/sm_line_horizontal_img" 
+    	android:id="@+id/lin_line5"    	
+    	android:layout_marginTop="@dimen/margin_middle"
+        android:layout_marginBottom="@dimen/margin_middle"/>  	
+        
+   		
+    	<!-- 설정  -->
+        <TextView 
+        android:layout_width="fill_parent" 
+    	android:layout_height="wrap_content" 
+        android:id="@+id/preference" 
+        android:text="@string/preference"
+        android:textColor="@color/white"
+        android:textSize="17dip"
+        android:layout_marginTop="@dimen/margin_middle"
+        android:layout_marginBottom="@dimen/margin_middle"
+        android:layout_marginLeft="@dimen/margin_middle"
+        android:layout_marginRight="@dimen/margin_middle"/>	
+   		<LinearLayout 
+   		style="@style/sm_line_horizontal_img" 
+    	android:id="@+id/lin_line6"    	
+    	android:layout_marginTop="@dimen/margin_middle"
+        android:layout_marginBottom="@dimen/margin_middle"/>          	   		
+   		<!-- 	
+        <TextView 
+        android:layout_width="fill_parent" 
+    	android:layout_height="wrap_content" 
+        android:id="@+id/notice" 
+        android:text="@string/pre_notice"
+        android:textColor="@color/white"
+        android:textSize="13dip"
+        android:layout_marginLeft="@dimen/margin_middle"
+        android:layout_marginRight="@dimen/margin_middle"/>
+   		<LinearLayout 
+   		style="@style/sm_line_horizontal_img" 
+    	android:id="@+id/lin_line"    	
+        android:layout_marginBottom="@dimen/margin_middle"/>	
+         -->                
+    </LinearLayout>
+    
+</LinearLayout>

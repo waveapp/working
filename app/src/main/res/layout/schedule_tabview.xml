@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"> 
+    <!--  공통 title : 고정 -->
+	<include 
+	  android:layout_width="fill_parent" 
+	  layout="@layout/common_top" />   
+    <!--  공통 menu: 고정 -->
+	<include 
+	  android:layout_width="fill_parent" 
+	  layout="@layout/common_menu"/> 
+    
+	<!--  날짜 bar -->      
+	<LinearLayout
+		style="@style/sm_dateBarlin"
+		android:id="@+id/lin_date" >
+       	<TextView 
+		android:layout_width="40dip" 
+		android:layout_height="wrap_content" 
+		android:id="@+id/leftgap" 
+		android:text="" 
+		android:layout_weight="1"/>	 		
+        <ImageButton 
+        style="@style/sm_dateBarImgBtn"
+        android:id="@+id/previousday" 
+        android:src="@drawable/sm_press_left_arrow"
+        android:layout_weight="1"/>	
+		<RelativeLayout 
+		    android:id="@+id/rel_date" 
+		    android:layout_width="wrap_content" 
+		    android:layout_height="wrap_content" 
+		    android:layout_centerHorizontal="true" 
+		    android:layout_centerVertical="true"
+		    android:layout_weight="1"
+		    android:gravity="center">
+		    <TextView 
+		    style="@style/sm_dateBarText"
+		    android:id="@+id/year" 
+		    android:text="yyyy" />
+		    <TextView 
+		    style="@style/sm_dateBarText"
+		    android:id="@+id/year_tv" 
+		    android:text="@string/year"/>
+		    <TextView 
+		    android:layout_width="0dip" 
+		    android:layout_height="wrap_content" 
+		    android:id="@+id/gap" 
+		    android:text="" />			    
+		    <TextView 
+		    style="@style/sm_dateBarText"
+		    android:id="@+id/month" 
+		    android:text="MM"/>
+		    <TextView
+		    style="@style/sm_dateBarText" 
+		    android:id="@+id/month_tv" 
+		    android:text="@string/month"/>
+		    <TextView 
+		    style="@style/sm_dateBarText" 
+		    android:id="@+id/day" 
+		    android:text="dd"/>
+		    <TextView 
+		    style="@style/sm_dateBarText" 
+		    android:id="@+id/day_tv" 
+		    android:text="@string/day"/>
+		    <TextView 
+		    style="@style/sm_dateBarText" 
+		    android:id="@+id/dayofweek" 
+		    android:text="요일"/>		    	 			    
+	    </RelativeLayout>
+		<ImageButton 
+        style="@style/sm_dateBarImgBtn"
+        android:id="@+id/nextday" 
+        android:src="@drawable/sm_press_right_arrow"
+        android:layout_weight="1"/> 
+       	<TextView 
+		android:layout_width="5dip" 
+		android:layout_height="wrap_content" 
+		android:id="@+id/rightgap" 
+		android:text="" 
+		android:layout_weight="1"/>
+		<LinearLayout
+		style="@style/sm_linear_basic"
+		android:id="@+id/lin_add">		
+			<ImageButton
+			style="@style/sm_img_list"
+			android:id="@+id/add" 
+			android:text="@string/add"			
+			android:clickable="false"
+			android:background="@drawable/sm_press_add"/> 
+			<TextView
+			style="@style/sm_textview_submenu"
+			android:id="@+id/tv_add" 
+			android:text="@string/add"
+			android:layout_marginRight="@dimen/margin_basic"/>
+		</LinearLayout>						           
+	</LinearLayout>
+	<!-- android:id="@android:id/tabhost"  -->
+	<TabHost 
+	android:id="@android:id/tabhost" 
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent"
+	android:layout_weight="1">
+		<LinearLayout 
+		android:id="@+id/lin_schedule" 
+		android:layout_width="fill_parent" 
+		android:layout_height="fill_parent" 
+		android:orientation="vertical">
+			<TabWidget 
+			android:layout_width="fill_parent" 
+			android:layout_height="wrap_content" 
+			android:id="@android:id/tabs">
+			</TabWidget>
+			
+			<FrameLayout 
+			android:layout_width="fill_parent" 
+			android:layout_height="fill_parent" 
+			android:id="@android:id/tabcontent">
+			 <!-- 
+
+				<LinearLayout 
+				android:layout_width="fill_parent" 
+				android:layout_height="fill_parent" 
+				android:id="@+id/schedulelist"/>
+				<LinearLayout 
+				android:layout_width="fill_parent" 
+				android:layout_height="fill_parent" 
+				android:id="@+id/scheduletable"/>
+				-->
+			</FrameLayout>
+			
+		</LinearLayout>
+	</TabHost> 
+    <!--  광고배너 고정  -->
+	<LinearLayout
+		style="@style/sm_linear_basicwf"
+		android:id="@+id/lin_banner"
+		android:layout_weight="0">	
+		<include 
+	  		layout="@layout/adv_addmob"/> 
+		<include 
+	  		layout="@layout/adv_cauly"/> 	  		
+	</LinearLayout> 	 		
+</LinearLayout>

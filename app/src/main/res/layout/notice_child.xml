@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- full width : 320 -->
+<LinearLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/sm_background"  
+    android:orientation="vertical">
+	<LinearLayout
+		style="@style/sm_linear_list"
+	 	android:id="@+id/lin_notice"
+	 	android:orientation="horizontal"
+	    android:layout_marginLeft="@dimen/margin_wide"
+	    android:layout_marginRight="@dimen/margin_wide"
+	    android:layout_marginTop="@dimen/margin_basic"
+	    android:layout_marginBottom="@dimen/margin_basic">
+	 	<TextView 
+	     style="@style/sm_textview_forlist"	     
+	     android:id="@+id/content" 
+	     android:text="schedule" 
+	     android:layout_weight="1"
+	     android:textSize="13dip"/>	 
+	</LinearLayout> 
+ </LinearLayout>

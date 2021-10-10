@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- text size define -->
+    <dimen name="txSize_title"	>18dip</dimen>
+    <dimen name="txSize_body"	>16dip</dimen>
+	<dimen name="txSize_textview">16dip</dimen>
+	<dimen name="txSize_edittext">18dip</dimen>
+	<dimen name="txSize_list_title"	>18dip</dimen>
+	<dimen name="txSize_list_body"	>13dip</dimen>
+	<dimen name="txSize_togglebtn"	>13dip</dimen>
+<!-- view size define -->  
+	<dimen name="width_basic"	>320dip</dimen>
+	<dimen name="height_basic"	>60dip</dimen>
+	<dimen name="height_basic2"	>70dip</dimen>
+	<dimen name="width_linear"	>300dip</dimen>
+	<dimen name="height_linear"	>60dip</dimen>
+	<dimen name="width_linear2"	>320dip</dimen>
+	<dimen name="height_linear2">50dip</dimen>	
+	<dimen name="width_textview">300dip</dimen>
+	<dimen name="height_textview">15dip</dimen>
+
+	<dimen name="width_edittext">300dip</dimen>
+	<dimen name="height_edittext">35dip</dimen>	
+	<dimen name="width_edittext2">120dip</dimen>
+	<dimen name="height_edittext2">40dip</dimen>	
+	<dimen name="width_img">70dip</dimen>
+	<dimen name="height_img">70dip</dimen>
+	<dimen name="width_btn">150dip</dimen>
+	<dimen name="height_btn">40dip</dimen>
+	<dimen name="width_btn2">80dip</dimen>
+	<dimen name="height_btn2">50dip</dimen>	
+	<dimen name="width_btn3">42dip</dimen>
+	<dimen name="height_btn3">42dip</dimen>	
+		
+	<dimen name="width_else2">200dip</dimen>
+	
+  	<dimen name="main_viewSize"	>15pt</dimen>
+  	<dimen name="popup_viewSize">15pt</dimen>
+  	<dimen name="button_samplewidth">150dip</dimen>
+  	<dimen name="Linar_samplewidth">250dip</dimen>
+  	
+<!-- margin size define -->
+	<dimen name="margin_wide"	>15dip</dimen> 
+    <dimen name="margin_basic"	>10dip</dimen> 
+    <dimen name="margin_small"	>1dip</dimen> 
+    <dimen name="margin_doublesmall"	>2dip</dimen>
+    <dimen name="margin_triplesmall"	>3dip</dimen>  
+    <dimen name="padding_basic"	>10dip</dimen> 
+    <dimen name="padding_small"	>1dip</dimen> 
+    <dimen name="margin_middle"	>5dip</dimen> 
+    <dimen name="padding_middle">5dip</dimen>  
+    
+    <dimen name="list_linesize"	>1px</dimen>   	
+  	<dimen name="list_linesize2">4px</dimen> 
+  	
+</resources>

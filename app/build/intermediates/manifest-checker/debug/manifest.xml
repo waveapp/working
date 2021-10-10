@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 위젯의 경우 노트용 별도 처리필요 -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.waveapp.smcalendar"
+    android:versionCode="35"
+    android:versionName="1.6.01" >
+
+    <uses-sdk
+        android:maxSdkVersion="28"
+        android:minSdkVersion="24"
+        android:targetSdkVersion="28" />
+
+    <!--
+ 	<supports-screens 
+			android:smallScreens="false" 
+			android:normalScreens="true" 
+			android:largeScreens="true" 
+			android:xlargeScreens="true"
+			android:anyDensity="true" /> 
+    -->
+
+    <uses-feature android:name="android.hardware.telephony" />
+    <uses-feature android:name="android.hardware.screen.portrait" />
+    <uses-feature android:name="android.hardware.touchscreen" />
+
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <!-- 공유용 -->
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-permission-sdk-23 android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission-sdk-23 android:name="android.permission.CHANGE_CONFIGURATION" />
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <!-- API28 이상은 아래 권한이 부여되어야 포그라운드서비스가능 -->
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+
+    <!-- google . addmob -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FIND_LOCATION" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+
+    <!-- ARM -->
+    <uses-permission-sdk-23 android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- 사용자정보삭제불가, app항상실행상태(persistent) -->
+    <application
+        android:name="com.waveapp.smcalendar.SMApp"
+        android:allowBackup="false"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:configChanges="keyboardHidden|orientation|locale"
+        android:debuggable="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:testOnly="true"
+        android:theme="@style/Theme.SmStyle" >
+
+        <!-- Addmob adv. -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-2960266420718368~8291820007" />
+
+        <activity
+            android:name="com.google.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|locale|screenLayout|uiMode" />
+
+        <!-- main (title, main) -->
+        <activity
+            android:name="com.waveapp.smcalendar.ARMValidation"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- alarm service -->
+        <service
+            android:name="com.waveapp.smcalendar.service.SmAlarm_Service"
+            android:enabled="true"
+            android:process=":remote" >
+        </service>
+
+        <!-- Widget -->
+        <service
+            android:name="com.waveapp.smcalendar.service.SmWidgetUpdate_Service"
+            android:enabled="true"
+            android:process=":remote" >
+        </service>
+
+        <!-- Widget layout 1 (normal) -->
+        <receiver
+            android:name="com.waveapp.smcalendar.widget.DailyAppWidgetProvider"
+            android:label="SM Cal.(Today4x1)" >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_config_4x1" />
+        </receiver>
+        <receiver
+            android:name="com.waveapp.smcalendar.widget.SixDaysAppWidgetProvider"
+            android:label="SM Cal.(SixDays 4x1)" >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_config_4x1" />
+        </receiver>
+        <receiver
+            android:name="com.waveapp.smcalendar.widget.WeeklyAppWidgetProvider"
+            android:label="SM Cal.(Today+Weekly 4x2)" >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_config_4x2" />
+        </receiver>
+        <receiver
+            android:name="com.waveapp.smcalendar.widget.CalendarAppWidgetProvider"
+            android:label="SM Cal.(Calendar4x4)" >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_config_4x4" />
+        </receiver>
+        <!--
+		<receiver 	android:name=".widget.CalendarAppWidgetProvider"
+		    		android:label="SM Cal.(Calendar5x4)"> 
+            <intent-filter>
+                <action   android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>	
+            <meta-data 
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_config_5x4"/>	    
+		</receiver>
+        -->
+        <!--
+        Widget layout 2 (just note) 
+		<receiver 	android:name=".widget.DailyAppWidgetProvider"
+		    		android:label="SM Cal.(Today5x1)"> 
+            <intent-filter>
+                <action   android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>	
+            <meta-data 
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_config_5x1"/>                  
+		</receiver>
+		<receiver 	android:name=".widget.SixDaysAppWidgetProvider"
+		    		android:label="SM Cal.(SixDays 5x1)"> 
+            <intent-filter>
+                <action   android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>	
+            <meta-data 
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_config_5x1"/>                  
+		</receiver>			
+		<receiver 	android:name=".widget.WeeklyAppWidgetProvider"
+		    		android:label="SM Cal.(Today+Weekly 5x2)"> 
+            <intent-filter>
+                <action   android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>	
+            <meta-data 
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_config_5x2"/>                  
+		</receiver>	
+
+		<receiver 	android:name=".widget.CalendarAppWidgetProvider"
+		    		android:label="SM Cal.(Calendar)"> 
+            <intent-filter>
+                <action   android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>	
+            <meta-data 
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_config_5x5"/>	    
+		</receiver>
+        -->
+
+
+        <!-- ����ȭ�� -->
+        <activity android:name="com.waveapp.smcalendar.PreferenceMain" />
+        <activity
+            android:name="com.waveapp.smcalendar.UserManager"
+            android:windowSoftInputMode="stateHidden" />
+        <activity android:name="com.waveapp.smcalendar.UserList" />
+        <activity
+            android:name="com.waveapp.smcalendar.ScheduleManager"
+            android:windowSoftInputMode="stateHidden" />
+        <activity android:name="com.waveapp.smcalendar.ScheduleListForUser" />
+        <activity android:name="com.waveapp.smcalendar.CalendarMain" />
+        <activity android:name="com.waveapp.smcalendar.ScheduleListForDate" />
+        <activity
+            android:name="com.waveapp.smcalendar.SpecialdayManager"
+            android:windowSoftInputMode="stateHidden" />
+        <activity android:name="com.waveapp.smcalendar.SpecialdayList" />
+        <activity android:name="com.waveapp.smcalendar.ColorList" />
+        <activity android:name="com.waveapp.smcalendar.ScheduleTimeTable" />
+        <activity android:name="com.waveapp.smcalendar.ScheduleTabForDate" />
+        <activity android:name="com.waveapp.smcalendar.SdCardBackup" />
+        <activity android:name="com.waveapp.smcalendar.SdCardRestore" />
+        <activity
+            android:name="com.waveapp.smcalendar.TodoManager"
+            android:windowSoftInputMode="stateHidden" />
+        <activity android:name="com.waveapp.smcalendar.TodoList" />
+        <activity android:name="com.waveapp.smcalendar.LunarCalendarMain" />
+        <activity android:name="com.waveapp.smcalendar.ScheduleDayOfWeek" />
+        <activity android:name="com.waveapp.smcalendar.Notice" />
+        <activity android:name="com.waveapp.smcalendar.GetOtherCalendar" />
+        <activity android:name="com.waveapp.smcalendar.SendOtherCalendar" />
+        <activity android:name="com.waveapp.smcalendar.link.SMSLink" />
+        <activity android:name="com.waveapp.smcalendar.service.SmAlarm_Dialog" />
+        <activity
+            android:name="com.waveapp.smcalendar.GoogleLogin"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.waveapp.smcalendar.SMCalendar"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.waveapp.smcalendar.SpecialdayAllList" />
+
+        <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent" />
+
+        <provider
+            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
+            android:authorities="com.waveapp.smcalendar.mobileadsinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+            android:enabled="true"
+            android:exported="true"
+            android:permission="android.permission.INSTALL_PACKAGES" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+            android:enabled="true"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.waveapp.smcalendar.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

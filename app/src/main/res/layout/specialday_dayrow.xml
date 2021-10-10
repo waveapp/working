@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  user list row -->
+<LinearLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/sm_background"  
+    android:orientation="horizontal"
+    android:id="@+id/lin_main" 
+    android:background="@color/anniversarylist"	>
+	<LinearLayout
+	 	android:layout_width="fill_parent"
+	 	android:layout_height="wrap_content"
+	 	android:id="@+id/lin_list" 
+	 	android:orientation="horizontal"
+		android:background="@color/anniversarylist"
+		android:layout_marginTop="1dip"> 
+	 	<TextView 
+	     android:layout_width="30dip"
+	 	 android:layout_height="wrap_content"
+	     android:textSize="11dip" 
+	     android:id="@+id/day"
+	     android:text="DD" 
+	     android:gravity="right|center_vertical"
+	     android:textColor="@color/white"
+	     android:layout_marginLeft="10dip"/> 
+	 	<TextView 
+	     style="@style/sm_textview_forlist"
+	     android:id="@+id/gubun" 
+	     android:textSize="11dip" 
+	     android:text="/" 
+	     android:gravity="center_vertical"
+	     android:textColor="@color/black"	     
+	     android:layout_marginLeft="3dip"	     
+	     android:layout_marginRight="3dip"/> 	       
+	 	<TextView 
+	     style="@style/sm_textview_forlist"
+	     android:id="@+id/name" 
+	     android:textSize="11dip" 
+	     android:text="기념일명" 
+	     android:gravity="center_vertical"
+	     android:textColor="@color/white"/>  
+	     <!--       
+	 	<TextView 
+	     style="@style/sm_textview_forlist"
+	     android:id="@+id/dday" 
+	     android:text="d-000"  
+	     android:layout_below="@+id/name"/> 	     	  	 	
+-->	
+	</LinearLayout>
+</LinearLayout>

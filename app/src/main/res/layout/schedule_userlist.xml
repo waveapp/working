@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  리스트(확장형)  -->
+<LinearLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/viewroot"
+    style="@style/sm_background"  
+    android:orientation="vertical">
+    <!--  공통 title : 고정 -->
+	<include 
+	  android:layout_width="fill_parent" 
+	  layout="@layout/common_top" />   
+    <!--  공통 menu: 고정 -->
+	<include 
+	  android:layout_width="fill_parent" 
+	  layout="@layout/common_menu"/> 
+   
+ 	<!--  날짜 및 버튼 bar -->
+	<LinearLayout
+		style="@style/sm_listBarlin"
+		android:id="@+id/lin_date" >
+	   <RelativeLayout 
+	   		android:layout_width="wrap_content"
+	    	android:layout_height="wrap_content"
+	    	android:id="@+id/lin_period"    
+	    	android:orientation="horizontal"
+	    	android:layout_weight="1">
+	    	<TextView
+			style="@style/sm_textview"
+			android:layout_height="fill_parent"
+			android:layout_width="wrap_content"
+			android:id="@+id/beforeschedule" 
+			android:text="@string/latest"
+			android:textSize="11dip"
+			android:textColor="@color/listtop"
+			android:gravity="center"
+			android:background="@drawable/sm_option_btn"/>  	
+	    	<TextView
+			style="@style/sm_textview"
+			android:id="@+id/afterschedule" 
+			android:text="@string/previous"
+			android:textSize="11dip"
+			android:textColor="@color/listtop"
+			android:gravity="center"
+			android:background="@drawable/sm_option_btn"
+			android:layout_toRightOf="@+id/beforeschedule"/>  	
+			<TextView
+			style="@style/sm_textview"
+			android:id="@+id/allschedule" 
+			android:text="@string/all"
+			android:textSize="11dip"
+			android:textColor="@color/listtop"
+			android:gravity="center"
+			android:background="@drawable/sm_option_btn"
+			android:layout_toRightOf="@+id/afterschedule"/>	
+	    </RelativeLayout> 
+		<LinearLayout
+		style="@style/sm_linear_basic"
+		android:id="@+id/lin_add">	    
+	    	<ImageButton
+			style="@style/sm_img_list"
+			android:id="@+id/add" 
+			android:text="@string/add"
+			android:clickable="false"
+			android:background="@drawable/sm_press_add"/>  
+			<TextView
+			style="@style/sm_textview_submenu"
+			android:id="@+id/tv_add" 
+			android:text="@string/add"/>
+		</LinearLayout>	
+		<LinearLayout
+		style="@style/sm_linear_basic"
+		android:id="@+id/lin_delete">					    
+	    	<ImageButton
+			style="@style/sm_img_list"
+			android:id="@+id/deleteall" 
+			android:text="@string/delete"
+			android:clickable="false"
+			android:background="@drawable/sm_press_del"/>  	    	
+			<TextView
+			style="@style/sm_textview_submenu"
+			android:id="@+id/tv_delete" 
+			android:text="@string/delete"
+			android:layout_marginRight="@dimen/margin_basic"/>	
+		</LinearLayout>	
+	</LinearLayout>	    
+	
+   <LinearLayout
+   style="@style/sm_background"
+    android:id="@+id/lin_list" 
+    android:layout_weight="1"
+    android:orientation="vertical"
+    android:gravity="center">   
+		<ExpandableListView 
+		style="@style/sm_listview"
+		android:id="@+id/list_schedule"
+		android:scrollbars="vertical" />
+	</LinearLayout>	
+    <!--  광고배너 고정  -->
+	<LinearLayout
+		style="@style/sm_linear_basicwf"
+		android:id="@+id/lin_banner"
+		android:layout_weight="0">	
+		<include 
+	  		layout="@layout/adv_addmob"/> 
+		<include 
+	  		layout="@layout/adv_cauly"/> 	  		
+	</LinearLayout> 	
+</LinearLayout>

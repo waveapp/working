@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- full width : 320 -->
+<LinearLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/sm_background"  
+    android:id="@+id/lin_group"
+    android:orientation="vertical">
+	<LinearLayout 
+	    style="@style/sm_background"  
+	    android:id="@+id/lin_list"
+	    android:orientation="horizontal"> 
+
+	    <TextView
+	    	style="@style/sm_textview" 
+		    android:id="@+id/username_top" 
+		    android:text="" 
+		    android:textColor="@color/black"
+		    android:textStyle="bold"
+		    android:layout_marginLeft="@dimen/margin_basic"
+		    android:layout_marginTop="@dimen/margin_middle"
+		    android:layout_marginBottom="@dimen/margin_small"/>
+	  	<CheckBox 
+	     style="@style/sm_checkbox_forlist"
+	     android:id="@+id/userchoice"
+	     android:text=""
+	     android:gravity="left"
+	     android:layout_marginRight="@dimen/margin_small"/>	 	    
+	</LinearLayout>
+    <LinearLayout 
+    	style="@style/sm_line_group" 
+    	android:id="@+id/lin_line"    
+    	android:orientation="vertical"/>	    
+ </LinearLayout>

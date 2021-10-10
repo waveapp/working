@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- full width : 320 -->
+<LinearLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/sm_background_forlistrow"  
+    android:id="@+id/lin_group"
+    android:orientation="vertical">
+   	<LinearLayout
+	style="@style/sm_linear_list"
+ 	android:id="@+id/lin_left"
+ 	android:orientation="horizontal">
+	    <TextView
+	    	style="@style/sm_textview" 
+		    android:id="@+id/title" 
+		    android:text=""
+		    android:textStyle="bold"
+		    android:layout_marginLeft="30dip"
+		    android:layout_gravity="left"
+		    android:textSize="13dip"
+		    android:layout_weight="1"/>
+	    <TextView
+	    	style="@style/sm_textview" 
+		    android:id="@+id/readdate" 
+		    android:text="N"
+		    android:textColor="@color/white"
+		    android:background="@drawable/sm_notice_cnt"
+		    android:textStyle="bold"
+		    android:layout_gravity="top"
+		    android:gravity="center"
+		    android:textSize="9dip"/>		    
+	</LinearLayout>	    
+    <TextView
+    	style="@style/sm_textview" 
+	    android:id="@+id/applydate" 
+	    android:text="" 
+	    android:textColor="@color/blue"
+	    android:layout_marginRight="@dimen/margin_small"
+	    android:layout_weight="1"
+	    android:layout_gravity="right"
+	    android:textSize="10dip"/>	  
+    <LinearLayout 
+	   	style="@style/sm_line_hz" 
+	   	android:id="@+id/lin_line"    
+	   	android:orientation="horizontal"/>	      
+ </LinearLayout>

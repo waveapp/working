@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 기본 스타일  
+	-.text : sp
+	-.scale : dip
+	-.density : 160(test)
+-->
+<resources>
+<!-- 기본  -->
+    <style name="sm_txstyle_textview">
+    	<item name="android:textSize">@dimen/txSize_textview</item>
+    	<!-- 
+     	<item name="android:shadowColor">@color/black</item>
+     	 
+     	<item name="android:shadowDx">0.5</item>
+     	<item name="android:shadowDy">0.5</item>
+     	<item name="android:shadowRadius">0.2</item>
+     	-->
+    	  
+    </style>
+    <style name="sm_linear_basic">
+    	<item name="android:textSize">@dimen/txSize_body</item>
+    	<item name="android:layout_width">wrap_content</item>
+    	<item name="android:layout_height">wrap_content</item>
+    </style> 
+    <style name="sm_linear_basicwf">
+    	<item name="android:textSize">@dimen/txSize_body</item>
+    	<item name="android:layout_width">wrap_content</item>
+    	<item name="android:layout_height">wrap_content</item>
+    	<item name="android:orientation">vertical</item>
+    	
+    </style>     
+    <style name="sm_background">
+    	<item name="android:textSize">@dimen/txSize_body</item>
+    	<item name="android:layout_width">fill_parent</item>
+    	<item name="android:layout_height">fill_parent</item>
+    	<item name="android:background">@color/listback</item>
+    </style>
+    <style name="sm_background_forlistrow" 	parent="sm_txstyle_textview">>
+    	<item name="android:textSize">@dimen/txSize_body</item>
+    	<item name="android:layout_width">fill_parent</item>
+    	<item name="android:layout_height">fill_parent</item>
+    	<item name="android:orientation">vertical</item>
+    	<item name="android:background">@drawable/sm_press_listrow</item>
+    </style>    
+    <style name="sm_line">
+		<item name="android:layout_width">fill_parent</item>
+    	<item name="android:layout_height">@dimen/list_linesize</item>  
+    	<item name="android:background">@color/lightgray</item>  
+    	<item name="android:layout_marginRight">@dimen/margin_middle</item>
+    	<item name="android:layout_marginLeft">@dimen/margin_middle</item>
+    	<item name="android:layout_marginTop">@dimen/margin_middle</item>
+    	<item name="android:layout_marginBottom">@dimen/margin_middle</item>
+    </style> 
+    <style name="sm_line_group">
+		<item name="android:layout_width">fill_parent</item>
+    	<item name="android:layout_height">@dimen/list_linesize2</item>  
+    	<item name="android:background">@color/lightgray</item> 
+    </style>     
+    <style name="sm_line_hz">
+		<item name="android:layout_width">@dimen/list_linesize</item>
+    	<item name="android:layout_height">fill_parent</item>  
+    	<item name="android:background">@color/lightgray</item>  
+    </style>    
+     
+    <style name="sm_line_full">
+		<item name="android:layout_width">fill_parent</item>
+    	<item name="android:layout_height">@dimen/list_linesize</item>  
+    	<item name="android:background">@color/lightgray</item>  
+    </style>  
+    <style name="sm_line_vertical_img">
+		<item name="android:layout_width">@dimen/list_linesize</item>
+    	<item name="android:layout_height">fill_parent</item>  
+    	<item name="android:background">@drawable/sm_vertical</item>  
+    	<item name="android:layout_gravity">center</item>  
+    	<item name="android:layout_marginTop">@dimen/margin_middle</item> 
+    	<item name="android:layout_marginBottom">@dimen/margin_middle</item>  
+    </style>  
+    <style name="sm_line_horizontal_img">
+		<item name="android:layout_width">fill_parent</item>
+    	<item name="android:layout_height">@dimen/list_linesize</item>  
+    	<item name="android:background">@drawable/sm_horizontal</item>  
+    	<item name="android:layout_gravity">center</item>  
+    	<item name="android:layout_marginLeft">@dimen/margin_middle</item> 
+    	<item name="android:layout_marginRight">@dimen/margin_middle</item>  
+    </style>                  
+    <style name="sm_style">
+    	<item name="android:textSize">@dimen/txSize_body</item>
+    	<item name="android:layout_width">@dimen/width_basic</item>
+    	<item name="android:layout_height">@dimen/height_basic</item>
+    </style> 
+    <style name="sm_linear">
+    	<item name="android:textSize">@dimen/txSize_body</item>
+    	<item name="android:layout_width">@dimen/width_linear</item>
+    	<item name="android:layout_height">wrap_content</item>
+    	<item name="android:layout_marginTop">@dimen/margin_small</item>
+    	<item name="android:layout_marginLeft">@dimen/margin_basic</item>
+    	<item name="android:layout_marginRight">@dimen/margin_basic</item>
+    </style> 
+    <style name="sm_linear2">
+    	<item name="android:textSize">@dimen/txSize_body</item>
+    	<item name="android:layout_width">@dimen/width_linear</item>
+    	<item name="android:layout_height">wrap_content</item>
+    	<item name="android:minHeight">@dimen/height_linear</item>
+    	<item name="android:layout_marginTop">@dimen/margin_small</item>
+    	<item name="android:layout_marginLeft">@dimen/margin_basic</item>
+    	<item name="android:layout_marginRight">@dimen/margin_basic</item>
+    </style>  
+    <style name="sm_linear_list">
+    	<item name="android:textSize">@dimen/txSize_body</item>
+    	<item name="android:layout_width">fill_parent</item>
+    	<item name="android:layout_height">wrap_content</item>
+    	<item name="android:layout_marginLeft">@dimen/margin_middle</item>
+    	<item name="android:layout_marginRight">@dimen/margin_middle</item>
+    </style> 
+	<style name="sm_linear_list_sub">
+    	<item name="android:textSize">@dimen/txSize_body</item>
+    	<item name="android:layout_width">fill_parent</item>
+    	<item name="android:layout_height">wrap_content</item>
+    </style>    
+    <style name="sm_linear_com">
+    	<item name="android:orientation">vertical</item>
+    	<item name="android:layout_width">fill_parent</item>
+    	<item name="android:layout_height">wrap_content</item>
+    	<item name="android:layout_centerHorizontal">true</item>
+    	<item name="android:layout_centerVertical">true</item>
+    	<item name="android:layout_weight">1</item>    	 
+    	<item name="android:background">@drawable/sm_press_topmenu</item> 
+    </style>              
+    <style name="sm_textview" parent="sm_txstyle_textview">
+    	<item name="android:layout_width">wrap_content</item>
+    	<item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="sm_textview_submenu" parent="sm_txstyle_textview">
+    	<item name="android:layout_width">wrap_content</item>
+    	<item name="android:layout_height">wrap_content</item>
+    	<item name="android:textSize">10dip</item>
+    	<item name="android:textColor">@color/white</item>
+    	<item name="android:gravity">center|left</item>
+    	<item name="android:layout_gravity">center</item>
+    </style>    
+    <style name="sm_textview_com" parent="sm_txstyle_textview">
+    	<item name="android:textSize">10dip</item>
+    	<item name="android:layout_width">wrap_content</item>
+    	<item name="android:layout_height">wrap_content</item>
+    	<item name="android:layout_gravity">center|top</item>
+    	<item name="android:layout_centerHorizontal">true</item>
+    	<item name="android:layout_centerVertical">true</item>    	
+    	<item name="android:maxLines">1</item>    	
+    	<item name="android:layout_marginBottom">@dimen/margin_middle</item> 
+    </style>    
+    <style name="sm_textview_forlist_title" 	parent="sm_txstyle_textview">
+    	<item name="android:textSize">@dimen/txSize_list_title</item>
+    	<item name="android:layout_width">fill_parent</item>   
+    	<item name="android:layout_height">wrap_content</item>  
+    	<item name="android:textStyle">bold</item>    
+    	<item name="android:maxLines">1</item>	
+    	<item name="android:ellipsize">end</item>
+    </style>  
+    <style name="sm_textview_forlist_memo_title" parent="sm_txstyle_textview">
+    	<item name="android:textSize">@dimen/txSize_list_title</item>	
+    	<item name="android:layout_width">fill_parent</item>   
+    	<item name="android:layout_height">wrap_content</item>   
+    	<item name="android:textStyle">bold</item> 
+    	<item name="android:typeface">normal</item> 
+    </style>       
+    <style name="sm_textview_forlist" parent="sm_txstyle_textview">
+    	<item name="android:textSize">@dimen/txSize_list_body</item>
+    	<item name="android:layout_width">wrap_content</item>   
+    	<item name="android:layout_height">wrap_content</item> 
+    	<item name="android:textColor">@color/listtext</item>     	
+    </style>    
+    <style name="sm_textview_forlist2" parent="sm_txstyle_textview">
+    	<item name="android:textSize">@dimen/txSize_list_body</item>
+    	<item name="android:layout_width">140dip</item>
+    	<item name="android:layout_height">wrap_content</item>    	
+    </style>  
+    <style name="sm_textview_forlist_w" parent="sm_txstyle_textview">
+    	<item name="android:textSize">@dimen/txSize_list_body</item>
+    	<item name="android:layout_width">wrap_content</item>  
+    	<item name="android:layout_height">wrap_content</item>     	
+    </style>   
+    <style name="sm_textview_list_nodata" parent="sm_txstyle_textview">
+    	<item name="android:layout_width">wrap_content</item>
+    	<item name="android:layout_height">wrap_content</item>
+    	<item name="android:textColor">@color/lightgray</item>  
+    	<item name="android:layout_gravity">center</item>
+		<item name="android:layout_centerHorizontal">true</item>
+    	<item name="android:layout_centerVertical">true</item>	
+    </style>         
+    <style name="sm_edittext">
+    	<item name="android:textSize">@dimen/txSize_edittext</item>
+    	<item name="android:layout_width">@dimen/width_edittext</item>
+    	<item name="android:layout_height">wrap_content</item>
+    	<item name="android:maxLines">1</item>
+    	<item name="android:scrollHorizontally">true</item>
+    	<item name="android:ellipsize">end</item>
+    </style>
+    <style name="sm_edittext_long">
+    	<item name="android:textSize">@dimen/txSize_edittext</item>
+    	<item name="android:layout_width">@dimen/width_edittext</item>
+    	<item name="android:layout_height">wrap_content</item>
+    	<item name="android:scrollHorizontally">false</item>
+    </style>    
+    <style name="sm_edittext2">
+    	<item name="android:textSize">@dimen/txSize_edittext</item>
+    	<item name="android:layout_width">200dip</item>
+    	<item name="android:layout_height">wrap_content</item>
+    </style> 
+    <style name="sm_edittext_memo">
+    	<item name="android:textSize">@dimen/txSize_edittext</item>
+    	<item name="android:layout_width">fill_parent</item>
+    	<item name="android:layout_height">wrap_content</item>
+    	<item name="android:minHeight">@dimen/height_edittext</item>
+    	<item name="android:minLines">3</item>
+    	<item name="android:maxLines">10</item>
+    	<item name="android:selectAllOnFocus">true</item>
+    	<item name="android:gravity">left|top</item>
+    	<item name="android:layout_marginBottom">@dimen/margin_middle</item>
+    </style> 
+    <style name="sm_edittext_memo_sms">
+    	<item name="android:textSize">@dimen/txSize_edittext</item>
+    	<item name="android:layout_width">fill_parent</item>
+    	<item name="android:layout_height">fill_parent</item>
+    	<item name="android:gravity">left|top</item>
+    </style>     
+    <style name="sm_edittext_date">
+    	<item name="android:textSize">@dimen/txSize_togglebtn</item>
+    	<item name="android:layout_width">140dip</item>
+    	<item name="android:layout_height">wrap_content</item>
+    </style> 
+    <style name="sm_edittext_date_basic">
+    	<item name="android:textSize">@dimen/txSize_textview</item>
+    	<item name="android:layout_width">180dip</item>
+    	<item name="android:layout_height">wrap_content</item>
+    </style>            
+    <style name="sm_spinner">
+    	<item name="android:textSize">@dimen/txSize_edittext</item>
+    	<item name="android:layout_width">180dip</item>
+    	<item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="sm_checkbox">
+   		<item name="android:textSize">@dimen/txSize_togglebtn</item>
+    	<item name="android:layout_width">wrap_content</item>
+    	<item name="android:layout_height">wrap_content</item>
+    </style>     
+    <style name="sm_checkbox_forlist">
+    	<item name="android:layout_width">30dip</item>
+    	<item name="android:layout_height">30dip</item>
+    	<item name="android:button">@drawable/sm_checkbox</item>
+    	<item name="android:layout_alignParentRight">true</item>
+    	<item name="android:layout_alignParentTop">true</item>
+    	<item name="android:layout_alignParentBottom">true</item>
+    	<item name="android:clickable">true</item>
+    	<item name="android:focusable">false</item>
+    </style>    
+    <style name="sm_btn">
+   		<item name="android:textSize">@dimen/txSize_textview</item>
+    	<item name="android:layout_width">@dimen/width_btn</item>
+    	<item name="android:layout_height">@dimen/height_btn</item>
+    	<item name="android:layout_gravity">center</item>
+    </style> 
+    <style name="sm_btn2">
+    	<item name="android:textSize">@dimen/txSize_edittext</item>
+    	<item name="android:layout_width">@dimen/width_btn2</item>
+    	<item name="android:layout_height">@dimen/height_btn2</item>
+    	<item name="android:layout_gravity">center</item>
+    </style>   
+    <style name="sm_btn3">
+    	<item name="android:textSize">@dimen/txSize_togglebtn</item>
+    	<item name="android:layout_width">@dimen/width_btn3</item>
+    	<item name="android:layout_height">@dimen/height_btn3</item>
+    	<item name="android:layout_gravity">center</item>
+    </style>  
+    <style name="sm_togglebtn">
+    	<item name="android:textSize">@dimen/txSize_togglebtn</item>
+    	<item name="android:layout_width">@dimen/width_btn3</item>
+    	<item name="android:layout_height">@dimen/height_btn3</item>
+    	<item name="android:layout_gravity">center</item>
+    	<item name="android:background">@drawable/sm_toggle_bg</item>
+    </style>     
+    <style name="sm_btn_one">
+    	<item name="android:layout_width">fill_parent</item>
+    	<item name="android:layout_height">@dimen/height_btn</item>
+    	<item name="android:layout_gravity">center</item>
+    </style>                 
+    <style name="sm_img_list">
+    	<item name="android:layout_width">wrap_content</item>
+    	<item name="android:layout_height">wrap_content</item>
+    	<item name="android:layout_gravity">center|right</item>
+    </style>  
+	<style name="sm_img">
+    	<item name="android:layout_width">@dimen/width_img</item>
+    	<item name="android:layout_height">@dimen/height_img</item>
+    	<item name="android:padding">@dimen/padding_basic</item>
+    </style>     
+    <style name="sm_img_com"> 
+    	<item name="android:layout_width">25dip</item>
+    	<item name="android:layout_height">25dip</item>
+    	<item name="android:layout_gravity">center|top</item>
+    	<item name="android:layout_marginTop">@dimen/margin_middle</item> 
+    </style>            
+    <style name="sm_footeLin" parent="sm_style">
+    	<item name="android:layout_width">fill_parent</item>
+    	<item name="android:layout_height">@dimen/height_linear2</item>
+    	<item name="android:layout_gravity">bottom</item>
+    	<item name="android:background">#00000000</item>
+    </style>       
+    <style name="sm_HeadLin" parent="sm_style">
+    	<item name="android:layout_width">@dimen/width_linear2</item>
+    	<item name="android:layout_height">@dimen/height_linear2</item>
+    	<item name="android:layout_marginBottom">@dimen/margin_basic</item>
+    	<item name="android:layout_gravity">top</item>
+    	<item name="android:background">#6699FF</item>
+    </style>   
+    <style name="sm_imageLin" parent="sm_linear">
+    	<item name="android:layout_width">@dimen/width_linear</item>
+    	<item name="android:layout_height">@dimen/height_basic2</item>
+    	<item name="android:layout_margin">@dimen/margin_basic</item>
+    	<item name="android:background">#6699CC</item>
+    </style>      
+    <!-- date bar style
+    <item name="android:background">@drawable/sm_datebar_back</item>
+    <item name="android:background">@color/temp1</item>
+    <item name="android:background">@drawable/sm_daybar</item>
+     -->
+    <style name="sm_dateBarlin" >
+     	<item name="android:layout_width">fill_parent</item>
+     	<item name="android:layout_height">30dip</item>
+     	<item name="android:background">@drawable/sm_daybar</item>
+		<item name="android:gravity">center</item>
+    </style>
+    <style name="sm_listBarlin" >
+     	<item name="android:layout_width">fill_parent</item>
+     	<item name="android:layout_height">30dip</item>
+     	<item name="android:background">@color/listtop</item>
+		<item name="android:gravity">center</item>
+    </style>    
+    <style name="sm_dateBarBtn" >
+     	<item name="android:layout_width">50dip</item>
+     	<item name="android:layout_height">25dip</item>
+     	<item name="android:background">#00000000</item>
+		<item name="android:layout_alignParentLeft">true</item>
+    </style> 
+    <style name="sm_dateBarImgBtn" >
+     	<item name="android:layout_width">20dip</item>
+     	<item name="android:layout_height">wrap_content</item>
+     	<item name="android:background">#00000000</item>
+		<item name="android:adjustViewBounds">true</item>
+    </style>     
+    <style name="sm_dateBarText" >
+     	<item name="android:textSize">18dip</item>
+     	<item name="android:textStyle">bold</item>
+     	<item name="android:textColor">@color/white</item>
+     	<!-- <item name="android:textColor">@color/datebartext</item> -->
+     	<item name="android:layout_width">wrap_content</item>
+     	<item name="android:layout_height">wrap_content</item>
+    </style>    
+    <style name="sm_listview" >
+     	<item name="android:layout_width">fill_parent</item>
+     	<item name="android:layout_height">fill_parent</item>
+     	<item name="android:drawSelectorOnTop">true</item>
+     	<item name="android:cacheColorHint">#00000000</item>
+     	<item name="android:listSelector">#00000000</item>
+    </style>          
+    <!-- alert view style --> 
+    <style name="sm_alertview_t" >
+     	<item name="android:textSize">@dimen/txSize_body</item>
+     	<item name="android:layout_width">fill_parent</item>
+     	<item name="android:layout_height">@dimen/height_textview</item>
+     	<item name="android:padding">@dimen/padding_basic</item>
+     	
+    </style>   
+    <style name="sm_alertview_d" > 
+    	<item name="android:textSize">@dimen/txSize_body</item>
+     	<item name="android:layout_width">fill_parent</item>
+     	<item name="android:layout_height">wrap_content</item>
+     	<item name="android:padding">@dimen/padding_basic</item>
+     	<item name="android:gravity">top</item>
+    </style>     
+	<!-- widget style -->	
+    <style name="sm_widget_logo" > 
+     	<item name="android:layout_width">wrap_content</item>
+     	<item name="android:layout_height">wrap_content</item>
+     	<item name="android:orientation">horizontal</item>
+     	<item name="android:gravity">right|top</item> 
+     	<item name="android:background">@drawable/widget_logo</item>
+    </style> 	 
+    <style name="sm_widget_usercolor" > 
+     	<item name="android:layout_width">2dip</item>
+     	<item name="android:layout_height">wrap_content</item>
+     	<item name="android:textSize">10dip</item> 
+     	<item name="android:layout_gravity">center|center_vertical</item>
+     	<item name="android:layout_marginRight">@dimen/margin_triplesmall</item> 
+    </style> 
+    <style name="sm_widget_usercolor2" > 
+     	<item name="android:layout_width">2dip</item>
+     	<item name="android:layout_height">wrap_content</item>
+     	<item name="android:textSize">8dip</item> 
+     	<item name="android:alpha">0.7</item>
+     	<item name="android:layout_gravity">center|center_vertical</item>
+     	<item name="android:layout_marginRight">@dimen/margin_doublesmall</item> 
+     	<item name="android:layout_marginTop">@dimen/margin_small</item> 
+     	<item name="android:layout_marginBottom">@dimen/margin_small</item> 
+    </style>    
+     <style name="sm_widget_datetextview" > 
+     	<item name="android:layout_width">fill_parent</item>
+     	<item name="android:layout_height">fill_parent</item> 
+     	<item name="android:textSize">10dip</item> 
+     	<item name="android:textColor">@color/lightgray</item> 
+     	<item name="android:layout_gravity">center</item> 
+     	<item name="android:shadowColor">@color/caldaytext</item> 
+     	<item name="android:shadowDx">0.5</item> 
+     	<item name="android:shadowDy">0.5</item> 
+     	<item name="android:shadowRadius">0.1</item>  
+    </style>
+     <style name="sm_widget_weektextview" > 
+     	<item name="android:layout_width">fill_parent</item>
+     	<item name="android:layout_height">fill_parent</item> 
+     	<item name="android:textSize">10dip</item> 
+     	<item name="android:textColor">@color/lightgray</item> 
+     	<item name="android:layout_gravity">center</item> 
+     	<item name="android:gravity">center</item> 
+     	<item name="android:shadowColor">@color/caldaytext</item> 
+     	<item name="android:shadowDx">0.5</item> 
+     	<item name="android:shadowDy">0.5</item> 
+     	<item name="android:shadowRadius">0.1</item>  
+    </style>         
+    <style name="sm_widget_textview" > 
+     	<item name="android:layout_width">wrap_content</item>
+     	<item name="android:layout_height">wrap_content</item> 
+     	<item name="android:textSize">10dip</item> 
+     	<item name="android:textColor">@color/white</item> 
+     	<item name="android:singleLine">true</item>
+     	<item name="android:ellipsize">end</item> 
+     	<item name="android:gravity">left</item> 
+     	<item name="android:layout_gravity">center|center_vertical</item>  
+     	<!--    	
+     	<item name="android:shadowColor">@color/caldaytext</item> 
+     	<item name="android:shadowDx">0.5</item> 
+     	<item name="android:shadowDy">0.5</item> 
+     	<item name="android:shadowRadius">0.1</item>  
+     	-->  
+    </style>         	          
+     <!-- 테마 -->
+	<style name="Titlebar_Background">
+		<item name="android:background">@color/navy</item>
+	</style>
+	<style name="Titlebar_Text" parent="sm_txstyle_textview">
+		<item name="android:textColor">@color/lavender</item>
+		<item name="android:textSize">11dip</item>
+	</style>	 
+	<style name="Action_Background">
+		<item name="android:background">@color/white</item>
+	</style>	
+	
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  user list row -->
+<LinearLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/sm_background_forlistrow"  
+    android:orientation="vertical"
+    android:id="@+id/lin_main">
+	<LinearLayout
+		style="@style/sm_linear_list"  
+	 	android:id="@+id/lin_user" 
+	 	android:orientation="horizontal"
+	 	android:background="@drawable/sm_user_list"
+	 	android:layout_marginTop="10dip"
+	 	android:layout_marginBottom="10dip"
+	 	android:layout_marginLeft="10dip"
+	 	android:layout_marginRight="10dip"> 	 	
+	     <TextView 
+	     style="@style/sm_textview_forlist"
+	     android:layout_width="30dip"
+	     android:id="@+id/relation" 
+	     android:text="" 
+	     android:textSize="11dip"  
+	     android:textColor="@color/white"
+	     android:ellipsize="end" 
+	     android:gravity="center"	     
+	     android:layout_gravity="center"
+	     android:layout_centerHorizontal="true"
+	     android:layout_centerVertical="true"
+	     android:layout_marginLeft="@dimen/margin_middle"
+	     android:layout_marginRight="@dimen/margin_middle"/> 
+	    <LinearLayout 
+	    	style="@style/sm_line_hz" 
+	    	android:id="@+id/lin_line"  
+	    	android:layout_gravity="center"
+	    	android:layout_marginTop="@dimen/margin_middle"
+	    	android:layout_marginBottom="@dimen/margin_middle"
+	    	android:layout_marginLeft="@dimen/margin_middle"
+	    	android:layout_marginRight="@dimen/margin_middle"/>		     
+		<TextView 
+	     style="@style/sm_textview_forlist_title"
+	     android:id="@+id/username" 
+	     android:layout_width="wrap_content"
+	     android:text="" 
+	     android:textColor="@color/white"
+	     android:ellipsize="end" 
+		 android:maxLines="1"
+		 android:singleLine="true"
+	     android:gravity="center"
+	     android:layout_gravity="center"
+	     android:layout_centerHorizontal="true"
+	     android:layout_centerVertical="true"
+	     android:layout_marginTop="10dip"
+	 	 android:layout_marginBottom="10dip"
+	     android:layout_marginLeft="@dimen/margin_middle"
+	     android:layout_marginRight="@dimen/margin_middle"/>		     
+	</LinearLayout>
+</LinearLayout>

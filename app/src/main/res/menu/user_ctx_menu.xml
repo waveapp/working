@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+ <!-- 
+   <item
+        android:id="@+id/menu_schedule_new"
+        android:title="@string/add"/> 
+ -->   
+   <item
+        android:id="@+id/menu_user_modify"
+        android:title="@string/modify" /> 
+   <item
+        android:id="@+id/menu_user_copy"
+        android:title="@string/copy"/>
+   <item
+        android:id="@+id/menu_user_delete"
+        android:title="@string/delete"/>       	     	      	   	
+</menu>
+ 

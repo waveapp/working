@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- full width : 320 -->
+<LinearLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/sm_background"  
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    	<TextView
+    	style="@style/sm_textview_forlist_w" 
+	    android:id="@+id/date_top" 
+	    android:text="" 
+	    android:layout_weight="1"/>
+		<TextView 
+	     style="@style/sm_textview_forlist_w"
+	     android:id="@+id/dday" 
+	     android:text=""  
+	     android:gravity="left"
+	     android:layout_weight="1"/> 	    
+ </LinearLayout>

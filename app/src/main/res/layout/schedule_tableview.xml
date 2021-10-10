@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/viewroot" 
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+	<ScrollView
+	  android:layout_height="wrap_content" 
+	  android:layout_width="fill_parent"
+	  android:drawSelectorOnTop="false" 
+	  android:cacheColorHint="#00000000"
+	  android:listSelector="#00000000"
+	  android:orientation="vertical">
+	<LinearLayout
+	  android:layout_height="wrap_content" 
+	  android:layout_width="fill_parent" 
+	  android:orientation="vertical" > 		  	    
+<!--  시간이 설정되지 않은 스케줄 (공휴일,기념일,종일스케줄)-->
+		<LinearLayout 
+		android:layout_height="wrap_content" 
+	  	android:layout_width="fill_parent" 
+	  	android:orientation="horizontal" >		
+			<LinearLayout 
+				android:id="@+id/ntime_lLayout" 
+				android:layout_height="wrap_content" 
+		   		android:layout_width="40dip"
+				android:orientation="vertical"
+				android:background="@color/darkblue">
+			</LinearLayout>
+			<LinearLayout
+			  android:id="@+id/nvline_lLayout" 
+			  android:layout_height="fill_parent" 
+			  android:layout_width="1dip"
+			  android:orientation="vertical" >	
+			</LinearLayout>	
+			<LinearLayout
+			  android:id="@+id/nschedule_lLayout" 
+			  android:layout_height="wrap_content" 
+			  android:layout_width="fill_parent"
+			  android:orientation="vertical" 
+			android:background="@color/whiteblue">		
+		 	</LinearLayout> 	
+	 	</LinearLayout>
+<!--  시간이 설정된 스케줄 -->
+	  <ScrollView
+	  android:layout_height="fill_parent" 
+	  android:layout_width="fill_parent"
+	  android:drawSelectorOnTop="false" 
+	  android:cacheColorHint="#00000000"
+	  android:listSelector="#00000000"
+	  android:orientation="horizontal">
+		<LinearLayout 
+		android:layout_height="wrap_content" 
+	  	android:layout_width="fill_parent" 
+	  	android:orientation="horizontal" >
+			<LinearLayout 
+				android:id="@+id/time_lLayout" 
+				android:layout_height="fill_parent" 
+		   		android:layout_width="40dip"
+				android:orientation="vertical"
+				android:background="@color/darkblue">
+			</LinearLayout>
+			<LinearLayout
+			  android:id="@+id/vline_lLayout" 
+			  android:layout_height="fill_parent" 
+			  android:layout_width="1dip"
+			  android:orientation="vertical" >	
+			</LinearLayout>			
+			<LinearLayout
+			  android:id="@+id/schedule_lLayout" 
+			  android:layout_height="fill_parent" 
+			  android:layout_width="fill_parent"
+			  android:orientation="horizontal" 
+			android:background="@color/whiteblue">		
+		 	</LinearLayout> 
+		 </LinearLayout> 
+		 </ScrollView>
+	 </LinearLayout> 	 
+	</ScrollView> 
+	<LinearLayout 
+	    style="@style/sm_line_full" 
+	    android:id="@+id/lin_line"    
+	    android:orientation="vertical"/>	 	
+	    		
+</LinearLayout>

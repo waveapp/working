@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  할일관리 (사용자등록,수정,삭제)  -->
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  style="@style/sm_background"
+  android:id="@+id/viewroot"  
+  android:orientation="vertical" >
+    <!--  공통 title : 고정 -->
+	<include 
+	  android:layout_width="fill_parent" 
+	  layout="@layout/common_top" />   
+    <!--  공통 menu: 고정 -->
+	<include 
+	  android:layout_width="fill_parent" 
+	  layout="@layout/common_menu"/>  
+ 	<ScrollView
+	  android:layout_height="fill_parent" 
+	  android:layout_width="fill_parent" 
+	  android:layout_weight="1">	
+	<LinearLayout
+	  style="@style/sm_background" 
+	  android:orientation="vertical" >
+	    <LinearLayout 
+	    	style="@style/sm_linear2" 
+	    	android:id="@+id/lin_memo"    
+	    	android:orientation="vertical">
+	        <TextView 	
+	        style="@style/sm_textview"
+	        android:text="@string/memo" 
+	        android:id="@+id/tv_memo" />
+	        <EditText 
+	        style="@style/sm_edittext_memo"
+	        android:id="@+id/memo"         
+	        android:hint="@string/hint_memo"/>
+	    </LinearLayout>
+	    
+	    <LinearLayout 
+	    	style="@style/sm_line" 
+	    	android:id="@+id/lin_line"    
+	    	android:orientation="horizontal"/>
+	    <LinearLayout 
+	    	style="@style/sm_linear" 
+	    	android:id="@+id/lin_date"    
+	    	android:orientation="vertical">	    	
+	        <RadioGroup
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:id="@+id/termyn"
+	        android:orientation="horizontal" 
+	        android:checkedButton="@string/exist_termyn">	
+				<RadioButton 
+				android:id="@+id/exist_termyn" 
+				android:layout_width="wrap_content" 
+				android:text="@string/exist_termyn" 
+				android:layout_height="wrap_content" 
+				android:checked="true"/>
+		      	<RadioButton 
+		      	android:id="@+id/notexist_termyn" 
+		      	android:layout_width="wrap_content" 
+		      	android:text="@string/notexist_termyn" 
+		      	android:layout_height="wrap_content"
+		      	android:layout_marginLeft="20dip"/>   
+	        </RadioGroup> 	    	        
+	        <Button 
+	        style="@style/sm_edittext_date_basic"
+	        android:id="@+id/finishterm"/>      
+	    </LinearLayout>	    	
+	    <LinearLayout 
+	    	style="@style/sm_line" 
+	    	android:id="@+id/lin_line"    
+	    	android:orientation="horizontal"/>
+	    <!--
+	    <LinearLayout 
+	    	style="@style/sm_linear" 
+	    	android:id="@+id/lin_repeat"    
+	    	android:orientation="vertical">
+	        <RadioGroup
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:id="@+id/repeat"
+	        android:orientation="horizontal" 
+	        android:checkedButton="@string/exist_termyn">	
+				<RadioButton 
+				android:id="@+id/no_repeat" 
+				android:layout_width="wrap_content" 
+				android:text="@string/no_repeat" 
+				android:layout_height="wrap_content" 
+				android:checked="true"/>
+		      	<RadioButton 
+		      	android:id="@+id/everymonth" 
+		      	android:layout_width="wrap_content" 
+		      	android:text="@string/everymonth" 
+		      	android:layout_height="wrap_content"
+		      	android:layout_marginLeft="20dip"/>   
+	        </RadioGroup>    
+			<Spinner 
+	        style="@style/sm_spinner"
+	        android:id="@+id/repeatdateSpinner"
+	        android:clipToPadding="false"/>
+	    </LinearLayout>	
+	    <LinearLayout 
+	    	style="@style/sm_line" 
+	    	android:id="@+id/lin_line"    
+	    	android:orientation="vertical"/>	
+  -->	    	    
+	    <LinearLayout 
+	    	style="@style/sm_linear" 
+	    	android:id="@+id/lin_alarm"    
+	    	android:orientation="vertical">
+	        <TextView 	
+	        style="@style/sm_textview"
+	        android:text="@string/alarm" 
+	        android:id="@+id/tv_alarm" >
+	        </TextView>
+	        <Spinner 
+	        style="@style/sm_spinner"
+	        android:id="@+id/alarmSpinner" 
+	        android:clipToPadding="false"/>
+	    </LinearLayout>	 	    	   	   
+	    <LinearLayout 
+	    	style="@style/sm_line" 
+	    	android:id="@+id/lin_line"    
+	    	android:orientation="vertical"/>	    
+	    <LinearLayout 
+	    	style="@style/sm_linear" 
+	    	android:id="@+id/lin_finish"    
+	    	android:orientation="horizontal">
+	        <CheckBox 
+	        style="@style/sm_checkbox"
+	        android:id="@+id/finish"         
+	        android:text="@string/todoend"/>
+	    </LinearLayout>	 
+	    <LinearLayout 
+	    	style="@style/sm_line" 
+	    	android:id="@+id/lin_line"    
+	    	android:orientation="vertical"/>		    
+	</LinearLayout> 
+	</ScrollView> 
+	
+	<!--  footer  -->	
+    <LinearLayout 
+    style="@style/sm_footeLin"
+    android:id="@+id/lin_btn"
+    android:orientation="horizontal"
+    android:layout_weight="0">
+        <Button 
+		style="@style/sm_btn" 
+		android:layout_marginLeft="@dimen/margin_basic"
+        android:id="@+id/confirm" 
+        android:text="@string/register"/>
+        <Button 
+        style="@style/sm_btn" 
+        android:id="@+id/cancel" 
+        android:text="@string/cancel"/>
+    </LinearLayout>	
+</LinearLayout>

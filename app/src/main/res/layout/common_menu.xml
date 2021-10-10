@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+   xmlns:android="http://schemas.android.com/apk/res/android"
+   android:orientation="vertical"
+   android:layout_width="fill_parent" 
+   android:layout_height="wrap_content">
+	<LinearLayout 
+	   android:orientation="horizontal"
+	   android:layout_width="fill_parent" 
+	   android:layout_height="52dip"
+	   android:id="@+id/com_lin"
+	   android:background="@drawable/sm_top_back"  >
+			<LinearLayout
+			style="@style/sm_linear_com" 
+		    android:id="@+id/com_lin_calendar">	   
+		 	    <TextView 
+		 	    style="@style/sm_img_com"
+		 	    android:background="@drawable/sm_top_calendar" 
+		 	    android:id="@+id/com_calendar" />
+				<TextView
+				style="@style/sm_textview_com"
+			    android:id="@+id/tv_calendar" 
+			    android:text="@string/calendar"
+			    android:textColor="@color/topmenu"/>  		 	    
+	 	    </LinearLayout> 
+    		<LinearLayout 
+    		style="@style/sm_line_vertical_img" 
+	    	android:id="@+id/lin_line"/>		 	    
+			<LinearLayout 
+		    style="@style/sm_linear_com" 
+		    android:id="@+id/com_lin_user">	   	 	    
+		 	    <TextView 
+		 	    style="@style/sm_img_com"
+		 	    android:background="@drawable/sm_top_userlist" 
+		 	    android:id="@+id/com_user"/> 
+		 	    <TextView 
+				style="@style/sm_textview_com" 
+			    android:id="@+id/tv_user" 
+			    android:text="@string/user" 
+			    android:textColor="@color/topmenu"/>  		 	    
+		 	</LinearLayout>
+    		<LinearLayout 
+    		style="@style/sm_line_vertical_img" 
+	    	android:id="@+id/lin_line2"/>		 		 	
+			<LinearLayout 
+		    style="@style/sm_linear_com" 
+		    android:id="@+id/com_lin_todo">	   		 	       
+		 	    <TextView 
+		 	    style="@style/sm_img_com"
+		 	    android:background="@drawable/sm_top_todo" 
+		 	    android:id="@+id/com_todo"/> 
+				<TextView
+				style="@style/sm_textview_com"
+			    android:id="@+id/tv_todo" 
+			    android:text="@string/todo"
+			    android:textColor="@color/topmenu"/> 		 	    
+		 	</LinearLayout>
+    		<LinearLayout 
+    		style="@style/sm_line_vertical_img" 
+	    	android:id="@+id/lin_line3"/>			 	
+			<LinearLayout 
+		    style="@style/sm_linear_com" 
+		    android:id="@+id/com_lin_specialday">		 	     	       
+		 	    <TextView
+		 	    style="@style/sm_img_com" 
+		 	    android:background="@drawable/sm_top_anniversary" 
+		 	    android:id="@+id/com_specialday"/> 
+				<TextView
+				style="@style/sm_textview_com"
+			    android:id="@+id/tv_specialday" 
+			    android:text="@string/specialday"
+			    android:textColor="@color/topmenu" /> 			 	    
+		 	</LinearLayout>
+    		<LinearLayout 
+    		style="@style/sm_line_vertical_img" 
+	    	android:id="@+id/lin_line4"/>	 
+
+		 	<!-- 구 정보메뉴 -> 서브메뉴로 변경	    		
+			<LinearLayout 
+		    style="@style/sm_linear_com" 
+		    android:id="@+id/com_lin_info">	   		 	            
+		 	    <TextView 
+		 	    style="@style/sm_img_com"
+		 	    android:background="@drawable/sm_top_info"
+		 	    android:id="@+id/com_information"/>
+				<TextView
+				style="@style/sm_textview_com"
+			    android:id="@+id/tv_information" 
+			    android:text="@string/information"
+			    android:textColor="@color/topmenu" /> 		 	    
+		 	</LinearLayout> -->
+ 	
+			<LinearLayout 
+		    style="@style/sm_linear_com" 
+		    android:id="@+id/com_lin_submenu">	   		 	            
+		 	    <TextView 
+		 	    style="@style/sm_img_com"
+		 	    android:background="@drawable/sm_top_submenu"
+		 	    android:id="@+id/com_submenu"/>
+				<TextView
+				style="@style/sm_textview_com"
+			    android:id="@+id/tv_submenu" 
+			    android:text="@string/title_more"
+			    android:textColor="@color/topmenu" /> 		 	    
+		 	</LinearLayout>			 	
+		 	<!--  
+			<View
+			android:layout_width="15dip" 
+	   		android:layout_height="fill_parent" 
+		    android:id="@+id/com_view_right"/>	
+		    -->
+	</LinearLayout>	
+</LinearLayout>	

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="Theme.SmStyle" parent="android:Theme.Light">
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowBackground">@color/defaultback</item>				
+		<!-- 
+		
+		<item name="android:windowTitleStyle">@style/Titlebar_Text</item>
+		<item name="android:windowTitleBackgroundStyle">@style/Titlebar_Background</item>
+			
+		<item name="android:windowTitleSize">15dip</item> 
+		<item name="android:colorForeground">@color/white</item>	
+		<item name="android:colorBackground">@color/white</item>
+		
+		<item name="android:windowBackground">@color/white</item>	
+		<item name="android:windoTextColor">@color/black</item>		-->	
+	</style>	
+</resources>

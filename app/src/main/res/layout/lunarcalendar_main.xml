@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <!--  공통 title : 고정 -->
+	<include 
+	  android:layout_width="fill_parent"
+	  layout="@layout/common_top"
+		tools:ignore="IncludeLayoutParam" />
+    <!--  공통 menu: 고정 -->
+	<include 
+	  android:layout_width="fill_parent" 
+	  layout="@layout/common_menu"
+		tools:ignore="IncludeLayoutParam" />
+	<!--  날짜 bar -->
+	<LinearLayout
+		style="@style/sm_dateBarlin"
+		android:id="@+id/lin_date" > 
+	    <TextView
+		    android:layout_width="wrap_content" 
+		    android:layout_height="wrap_content" 
+		    android:id="@+id/gangi_tv" 
+		    android:textSize="10dip"
+		    android:text="" />	    
+	    <TextView
+		    android:layout_width="wrap_content" 
+		    android:layout_height="wrap_content" 
+		    android:id="@+id/gabza_tv" 
+		    android:textSize="10dip"
+		    android:text="60" 
+		    android:textColor="@color/white"/>		
+		<ImageButton 
+	        style="@style/sm_dateBarImgBtn"
+	        android:id="@+id/previousyear" 
+	        android:src="@drawable/sm_press_left_doublearrow"
+	        android:layout_weight="1"/>	
+        <ImageButton
+	        style="@style/sm_dateBarImgBtn"
+	        android:id="@+id/previousmonth" 
+	        android:src="@drawable/sm_press_left_arrow"
+	        android:layout_weight="1"/>		        		
+	    <RelativeLayout 
+		    android:id="@+id/rel_date" 
+		    android:layout_width="wrap_content" 
+		    android:layout_height="wrap_content" 
+		    android:layout_centerHorizontal="true" 
+		    android:layout_centerVertical="true"
+		    android:layout_weight="1"
+		    android:gravity="center">
+		    <TextView 
+		    style="@style/sm_dateBarText"
+		    android:id="@+id/year" 
+		    android:text="yyyy" />
+		    <TextView 
+		    style="@style/sm_dateBarText"
+		    android:id="@+id/year_tv" 
+		    android:text="@string/year"/>
+		    <TextView 
+		    android:layout_width="10dip" 
+		    android:layout_height="wrap_content" 
+		    android:id="@+id/gap" 
+		    android:text="" />			    
+		    <TextView 
+		    style="@style/sm_dateBarText"
+		    android:id="@+id/month" 
+		    android:text="MM"/>
+		    <TextView
+		    style="@style/sm_dateBarText" 
+		    android:id="@+id/month_tv" 
+		    android:text="@string/month" />
+	    </RelativeLayout>
+
+		<ImageButton 
+        style="@style/sm_dateBarImgBtn"
+        android:id="@+id/nextmonth" 
+        android:src="@drawable/sm_press_right_arrow"
+        android:layout_weight="1"/>   
+		<ImageButton 
+        style="@style/sm_dateBarImgBtn"
+        android:id="@+id/nextyear" 
+        android:src="@drawable/sm_press_right_doublearrow"
+        android:layout_weight="1"/>
+       	<TextView 
+		android:layout_width="40dip" 
+		android:layout_height="wrap_content" 
+		android:id="@+id/rightgap" 
+		android:text="" 
+		android:layout_weight="1"/>	       
+	</LinearLayout>		
+	<!--  다음페이지효과 추가 : 20110626 -->  
+	<FrameLayout
+		android:id="@+id/fl_cal"  
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:orientation="vertical"> 
+		<ViewFlipper
+			android:id="@+id/vf_cal"  
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"> 
+		    <ScrollView
+		      android:id="@+id/sc_cal"  
+			  android:layout_height="wrap_content" 
+			  android:layout_width="fill_parent">	    
+			<LinearLayout
+			  android:layout_height="wrap_content" 
+			  android:layout_width="fill_parent"
+			  android:orientation="vertical" > 	
+			  	  	
+				<LinearLayout 
+				android:orientation="vertical" 
+				android:layout_height="wrap_content" 
+				android:layout_width="fill_parent">
+					<LinearLayout 
+					android:layout_width="fill_parent" 
+					android:layout_height="1px" 
+					android:background="#99999999">
+					</LinearLayout>
+					<LinearLayout 
+					android:id="@+id/calendar_lLayout" 
+					android:layout_width="wrap_content" 
+					android:layout_height="wrap_content">
+					</LinearLayout>
+					<LinearLayout 
+					android:layout_height="1px" 
+					android:layout_width="fill_parent" 
+					android:background="#99999999">
+					</LinearLayout>
+				</LinearLayout>
+				
+				<LinearLayout
+					android:orientation="horizontal" 
+					android:layout_width="wrap_content" 
+					android:layout_height="wrap_content"
+					android:layout_gravity="bottom"> 
+					<TextView
+					    android:layout_width="wrap_content" 
+					    android:layout_height="wrap_content" 
+					    android:id="@+id/description" 
+					    android:text="한자설명" 
+					    android:textSize="9dip"/>		
+				</LinearLayout>	
+					
+		 	</LinearLayout> 
+			</ScrollView>
+		</ViewFlipper>	
+    </FrameLayout>	
+
+</LinearLayout>

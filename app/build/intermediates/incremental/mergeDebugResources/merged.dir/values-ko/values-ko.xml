@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="arr_alarm">
+    		<item>알람없음</item>
+    		<item>정시</item>
+            <item>5분전</item>
+            <item>10분전</item>         
+            <item>30분전</item>        
+            <item>1시간전</item>
+            <item>6시간전</item>
+            <item>1일전</item>
+    </string-array>
+    <string-array name="arr_alarm_key">
+    		<item/>
+    		<item>0</item>
+            <item>5</item> 
+			<item>10</item>      
+            <item>30</item>        
+            <item>60</item> 
+            <item>360</item>
+            <item>1440</item>
+    </string-array>
+    <string-array name="arr_alarmmode">
+            <item>소리</item>        
+            <item>진동</item> 
+            <item>소리+진동</item>  
+    </string-array>
+    <string-array name="arr_alarmmode_key">
+            <item>S</item>        
+            <item>B</item> 
+            <item>SB</item>  
+    </string-array>
+    <string-array name="arr_calendar">
+            <item>@string/pre_sub_phonecalendar</item>   
+    </string-array>
+    <string-array name="arr_calendar_key">
+            <item>phone</item> 
+    </string-array>
+    <string-array name="arr_event">
+    		<item>@string/anniversaryday</item>
+            <item>@string/birthday</item>       
+            <item>@string/deathday</item>
+    </string-array>
+    <string-array name="arr_event_key">
+            <item>0</item>        
+            <item>1</item>        
+            <item>2</item>
+    </string-array>
+    <string-array name="arr_language">
+            <item>@string/pre_sub_korean</item>        
+            <item>@string/pre_sub_english</item>  
+    </string-array>
+    <string-array name="arr_language_key">
+            <item>ko</item>        
+            <item>en</item>  
+    </string-array>
+    <string-array name="arr_leap">
+            <item>양력</item>        
+            <item>음력</item>        
+            <item>음력(윤)</item> 
+    </string-array>
+    <string-array name="arr_leap_key">
+            <item>0</item>        
+            <item>1</item>        
+            <item>2</item>
+    </string-array>
+    <string-array name="arr_relation">
+            <item>본인</item>
+            <item>가족</item>        
+            <item>기타</item>
+    </string-array>
+    <string-array name="arr_relation_key">
+            <item>0</item>        
+            <item>1</item>        
+            <item>10</item>
+    </string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"홈 탐색"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"위로 탐색"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"옵션 더보기"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"완료"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"전체 보기"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"앱 선택"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"사용 안함"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"사용"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"삭제"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"입력"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"스페이스바"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"검색..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"검색어 삭제"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"검색어"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"검색"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"검색어 보내기"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"음성 검색"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"공유 대상"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>와(과) 공유"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"접기"</string>
+    <string name="add">추가</string>
+    <string name="address">주소</string>
+    <string name="alarm">알람</string>
+    <string name="alarm_description">(입력 시간을 기준으로 알람을 등록하실 수 있습니다.)</string>
+    <string name="alarm_service_finished">SMCalendar알람이 종료되었습니다.</string>
+    <string name="alarm_service_started">SMCalendar알람이 시작되었습니다.</string>
+    <string name="all">전체</string>
+    <string name="allday">종일</string>
+    <string name="allget">전체\n가져오기</string>
+    <string name="am">오전</string>
+    <string name="anniversaryday">기념일</string>
+    <string name="app">SM Calendar</string>
+    <string name="app_name">SM Calendar</string>
+    <string name="app_sdpathlite">smcalendarlite</string>
+    <string name="app_sdpathnormal">smcalendar</string>
+    <string name="arr_0dbefore">당일</string>
+    <string name="arr_1">1일</string>
+    <string name="arr_10">10일</string>
+    <string name="arr_10mbefore">10분전</string>
+    <string name="arr_11">11일</string>
+    <string name="arr_12">12일</string>
+    <string name="arr_13">13일</string>
+    <string name="arr_14">14일</string>
+    <string name="arr_15">15일</string>
+    <string name="arr_16">16일</string>
+    <string name="arr_17">17일</string>
+    <string name="arr_18">18일</string>
+    <string name="arr_19">19일</string>
+    <string name="arr_1dbefore">1일전</string>
+    <string name="arr_1hbefore">1시간전</string>
+    <string name="arr_2">2일</string>
+    <string name="arr_20">20일</string>
+    <string name="arr_21">21일</string>
+    <string name="arr_22">22일</string>
+    <string name="arr_23">23일</string>
+    <string name="arr_24">24일</string>
+    <string name="arr_25">25일</string>
+    <string name="arr_26">26일</string>
+    <string name="arr_27">27일</string>
+    <string name="arr_28">28일</string>
+    <string name="arr_29">29일</string>
+    <string name="arr_2dbefore">2일전</string>
+    <string name="arr_3">3일</string>
+    <string name="arr_30">30일</string>
+    <string name="arr_30mbefore">30분전</string>
+    <string name="arr_31">31일</string>
+    <string name="arr_3dbefore">3일전</string>
+    <string name="arr_4">4일</string>
+    <string name="arr_4dbefore">4일전</string>
+    <string name="arr_5">5일</string>
+    <string name="arr_5dbefore">5일전</string>
+    <string name="arr_5mbefore">5분전</string>
+    <string name="arr_6">6일</string>
+    <string name="arr_6dbefore">6일전</string>
+    <string name="arr_6hbefore">6시간전</string>
+    <string name="arr_7">7일</string>
+    <string name="arr_7dbefore">일주일전</string>
+    <string name="arr_8">8일</string>
+    <string name="arr_9">9일</string>
+    <string name="arr_colleague">동료</string>
+    <string name="arr_endmonth">월말</string>
+    <string name="arr_family">가족</string>
+    <string name="arr_friend">친구</string>
+    <string name="arr_myself">본인</string>
+    <string name="arr_none">알람없음</string>
+    <string name="arr_onetime">정시</string>
+    <string name="arr_other">기타</string>
+    <string name="birthdate">생년월일</string>
+    <string name="birthday">생일</string>
+    <string name="calendar">달력</string>
+    <string name="cancel">취소</string>
+    <string name="charcnt">0/400byte</string>
+    <string name="choiceget">선택\n가져오기</string>
+    <string name="color">스타일</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>에서 Google Play 서비스를 사용하는 데 문제가 있습니다. 다시 시도하세요."</string>
+    <string name="confirm">확인</string>
+    <string name="content">내용</string>
+    <string name="copy">복사</string>
+    <string name="copy_prefix">의 복사</string>
+    <string name="cost">비용</string>
+    <string name="count">건</string>
+    <string name="day">일</string>
+    <string name="dayofweek">요일</string>
+    <string name="deathday">기일</string>
+    <string name="defaultalarm_description">(설정에서 알람시간을 변경하실 수 있습니다.)</string>
+    <string name="defaultuser">기본사용자</string>
+    <string name="delete">삭제</string>
+    <string name="email">이메일</string>
+    <string name="endtime">일정종료</string>
+    <string name="err_batchholiday">기념일이 반영되지 않았습니다\n(관리자에게 문의 바랍니다)</string>
+    <string name="err_birthday">생년월일이 오늘보다 빠른 날짜로 입력되었습니다. 다시</string>
+    <string name="err_date">날짜나 시간정보 오류로 일정을 가져올 수 없습니다.</string>
+    <string name="err_email">이메일을 입력하지 않았거나 잘못 입력하셨습니다. 다시 </string>
+    <string name="err_enddate">시작일이 종료일보다 빠른 날짜로 입력되었습니다. 다시</string>
+    <string name="err_endtime">시작시간이 종료시간보다 빠른 시간으로 입력되었습니다. 다시</string>
+    <string name="err_gubun">구분값오류</string>
+    <string name="err_httpconnection">네트워크 연결이 원활하지 않아 작업이 중단되었습니다.\n확인 후 다시 시작해주시기 바랍니다.</string>
+    <string name="err_memo">메모를</string>
+    <string name="err_mustweekcheck">매주 반복되는 스케줄은 요일을 선택해 주셔야합니다. 다시</string>
+    <string name="err_name">이름을</string>
+    <string name="err_not_evernote">에버노트가 존재하지 않습니다.</string>
+    <string name="err_not_existfile">SD카드에 백업파일이 존재하지 않습니다.</string>
+    <string name="err_not_existfilelite">SD카드에 Lite백업 파일이 존재하지 않거나
+						\nLite 어플이 존재하지 않습니다.</string>
+    <string name="err_not_existsdcard">SD카드가 존재하지 않거나 
+							\n파일쓰기가 금지되어\n요청하신 작업이 중지되었습니다.</string>
+    <string name="err_not_existsdcard2">SD카드가 존재하지 않거나
+							 \n파일읽기가 불가능해\n요청하신 작업이 중지되었습니다.</string>
+    <string name="err_not_kakaotalk">카카오톡이 존재하지 않습니다.</string>
+    <string name="err_notvaliddata">가져올 수 있는 스케줄이 없습니다.</string>
+    <string name="err_nouser">등록된 사용자가 없습니다. 사용자정보를 먼저</string>
+    <string name="err_password">패스워드를</string>
+    <string name="err_period">매주,매월일정은 시작,종료일을 같은날짜로 등록할 수 없습니다. 다시</string>
+    <string name="err_phone">전화번호를</string>
+    <string name="err_schedulename">스케줄명을</string>
+    <string name="err_specialdayname">기념일명을</string>
+    <string name="err_style">스타일을</string>
+    <string name="err_unknown">네트워크 연결이 원활하지 않아 작업이 중단되었습니다.(%1$s).\n확인 후 다시 시작해주시기 바랍니다.</string>
+    <string name="err_user">사용자를</string>
+    <string name="errer">오류</string>
+    <string name="evernote">에버노트</string>
+    <string name="everymonth">매월</string>
+    <string name="everyweek">매주</string>
+    <string name="everyyear">매년</string>
+    <string name="exist_termyn">기한있음</string>
+    <string name="finish">완료</string>
+    <string name="finishterm">기한</string>
+    <string name="friday">금</string>
+    <string name="get">가져오기</string>
+    <string name="getotherschedule">● %1$s >> SM Calendar</string>
+    <string name="googlelogin">구글로그인</string>
+    <string name="group">그룹</string>
+    <string name="hello">SM Calendar에 오신걸 환영합니다.\n공지사항을 확인해 주시기 바랍니다.</string>
+    <string name="hint_memo">메모 입력(최대3줄)</string>
+    <string name="hint_text">내용 입력(최대20자)</string>
+    <string name="hint_text_long">내용 입력(최대100자)</string>
+    <string name="holiday">휴일</string>
+    <string name="hour">시</string>
+    <string name="info">알림</string>
+    <string name="info_backup">SD카드로 데이터 백업 중 입니다.\n잠시 기다려주시기 바랍니다.</string>
+    <string name="info_backup_end">SD카드로 데이터 백업이 완료되었습니다.</string>
+    <string name="info_batchholiday">기념일 반영 중 입니다.\n잠시 기다려주시기 바랍니다.</string>
+    <string name="info_batchlunar">음력 반영 중 입니다.\n잠시 기다려주시기 바랍니다.</string>
+    <string name="info_createdatabase">자료를 내려받고 있습니다.\n잠시 기다려주시기 바랍니다.\n(최초실행시에만 1회 수행됨)</string>
+    <string name="info_httpconnection">네트워크연결중..</string>
+    <string name="info_installcancel">중단되었습니다.</string>
+    <string name="info_restore">데이터복구 중 입니다.\n잠시 기다려주시기 바랍니다.</string>
+    <string name="info_restore_end">데이터복구가 완료되었습니다.</string>
+    <string name="info_restorefromlite">Lite일정을 가져오고 있습니다.\n잠시 기다려주시기 바랍니다.</string>
+    <string name="info_restorefromlite_end">Lite일정 가져오기가 완료되었습니다.</string>
+    <string name="information">정보</string>
+    <string name="inputcheck">필수</string>
+    <string name="isempty">내용없음</string>
+    <string name="kakaotalk">카카오톡</string>
+    <string name="latest">최근</string>
+    <string name="list">목록</string>
+    <string name="lunar">음</string>
+    <string name="lunar2">음(윤)</string>
+    <string name="lunarcalendar">음력 달력</string>
+    <string name="lunarf">음력</string>
+    <string name="lunarf2">음력(윤)</string>
+    <string name="memo">메모</string>
+    <string name="menu_schedule_add">스케줄</string>
+    <string name="menu_schedule_day">일정상세</string>
+    <string name="menu_specialday_add">기념일</string>
+    <string name="menu_todo_add">내할일</string>
+    <string name="menu_weekschedule">주간일정</string>
+    <string name="minite">분</string>
+    <string name="modify">편집</string>
+    <string name="monday">월</string>
+    <string name="month">월</string>
+    <string name="more">더보기</string>
+    <string name="msg_alardialog">%1$s</string>
+    <string name="msg_cancel">취소되었습니다.</string>
+    <string name="msg_confirm">%1$s  \n계속진행하시겠습니까?</string>
+    <string name="msg_deletecomplete">삭제되었습니다 </string>
+    <string name="msg_deleteconfirm">삭제하시겠습니까? </string>
+    <string name="msg_endcomplete">종료되었습니다 </string>
+    <string name="msg_endconfirm">%1$s 처리하시겠습니까? </string>
+    <string name="msg_err">%1$s  \n오류가 발생하였습니다.</string>
+    <string name="msg_exit">종료하시겠습니까?</string>
+    <string name="msg_finishcomplete">완료되었습니다 </string>
+    <string name="msg_finishconfirm">%1$s 처리하시겠습니까? </string>
+    <string name="msg_getallschedule">유효한 전체스케줄(%1$s건)을 가져오시겠습니까?</string>
+    <string name="msg_googleloginfail">로그인에 실패했습니다. </string>
+    <string name="msg_info">%1$s  \n알려드립니다.</string>
+    <string name="msg_inputcheck">%1$s 입력해 주시기 바랍니다.</string>
+    <string name="msg_limite_getschedule">**)한번 또는 주반복 일정만 가져오기가 가능합니다.\n   (매월반복, 특정일반복,격주 일정은 가져올 수 없습니다.)</string>
+    <string name="msg_lite_limite">Lite버전에서는 제한된 기능입니다.(정식버전에서는 사용하실 수 있습니다)</string>
+    <string name="msg_litedatabackup">등록된 데이터가 모두 삭제됩니다.
+        				\nSmCalendar Lite에서 백업하신 일정으로 변경하시겠습니까?</string>
+    <string name="msg_notselected">선택된 정보가 없습니다.</string>
+    <string name="msg_pleasewating">잠시 기다려주시기 바랍니다.</string>
+    <string name="msg_savecomplete">저장되었습니다 </string>
+    <string name="msg_sdbackup">기존 백업파일은 삭제됩니다.
+						\nSD카드로 자료를 백업하시겠습니까?</string>
+    <string name="msg_sdrestore">등록된 데이터가 모두 삭제됩니다.
+    					\n데이터복구를 진행하시겠습니까? </string>
+    <string name="msg_sendsms">문자메시지가 전송되었습니다.</string>
+    <string name="msg_warining">%1$s  \n유의 하시기 바랍니다.</string>
+    <string name="name">이름</string>
+    <string name="no_data">등록된 데이터가 없습니다.</string>
+    <string name="no_repeat">반복없음</string>
+    <string name="no_schedule">등록된 스케줄이 없습니다.</string>
+    <string name="no_specialday">등록된 기념일이 없습니다.</string>
+    <string name="no_todo">등록된 할일메모가 없습니다.</string>
+    <string name="no_user">등록된 사용자정보가 없습니다.</string>
+    <string name="notexist_termyn">기한없음</string>
+    <string name="onetime">한번만</string>
+    <string name="password">패스워드</string>
+    <string name="period">기간</string>
+    <string name="perweek">주마다</string>
+    <string name="phone">연락처</string>
+    <string name="pm">오후</string>
+    <string name="pos">번째</string>
+    <string name="pre_alarmset_summary">알람모드를 선택할 수 있습니다(소리,진동)</string>
+    <string name="pre_alarmtime_summary">기본알람시간을 선택할 수 있습니다(기념일,할일)</string>
+    <string name="pre_autobackup_summary">자동백업을 원하시면 체크해주십시요.</string>
+    <string name="pre_category_alarm">알람</string>
+    <string name="pre_category_basic">일반</string>
+    <string name="pre_category_conservation">백업 및 복구</string>
+    <string name="pre_category_synchronization">일정공유</string>
+    <string name="pre_category_view">화면제어</string>
+    <string name="pre_fullcalendar_summary">이전,다음 달을 포함해서 볼 지 이번 달만 볼 지 선택하실 수 있습니다.</string>
+    <string name="pre_getcalendar_summary">다른달력 일정을 SM Calendar에 복사할 수 있습니다.</string>
+    <string name="pre_holiday">국가공휴일</string>
+    <string name="pre_language">언어선택</string>
+    <string name="pre_notice">공지</string>
+    <string name="pre_notice_summary">변경,이벤트정보를 확인할 수 있습니다.</string>
+    <string name="pre_sdbackup_summary">클릭하시면 SD카드(단 일부기종은 내부메모리)로 백업을 할 수 있습니다.
+    							\n단,기존백업자료는 삭제됩니다.</string>
+    <string name="pre_sdrestore_summary">클릭하시면 SD카드(단 일부기종은 내부메모리)에서 데이터 복원을 할 수 있습니다.
+    							\n단,등록된 데이터가 모두 삭제됩니다.</string>
+    <string name="pre_sendcalendar_summary">SM Calendar 일정을 다른달력으로 복사하실 수 있습니다.</string>
+    <string name="pre_sub_alarmset">알람모드설정</string>
+    <string name="pre_sub_alarmtime">기본알람시간</string>
+    <string name="pre_sub_america">미국</string>
+    <string name="pre_sub_autobackup">자동백업(주1회)</string>
+    <string name="pre_sub_backup">백업</string>
+    <string name="pre_sub_china">중국</string>
+    <string name="pre_sub_chinese">중국어</string>
+    <string name="pre_sub_english">영어</string>
+    <string name="pre_sub_fullcalendar">전체달력</string>
+    <string name="pre_sub_getcalendar">일정가져오기</string>
+    <string name="pre_sub_googlecalendar">구글캘린더</string>
+    <string name="pre_sub_japan">일본</string>
+    <string name="pre_sub_japanese">일본어</string>
+    <string name="pre_sub_korea">한국</string>
+    <string name="pre_sub_korean">한국어(대한민국)</string>
+    <string name="pre_sub_litecalendar">Lite Version</string>
+    <string name="pre_sub_phonecalendar">내달력</string>
+    <string name="pre_sub_restore">복구</string>
+    <string name="pre_sub_sdbackup">데이터백업 </string>
+    <string name="pre_sub_sdrestore">데이터복구</string>
+    <string name="pre_sub_sendcalendar">일정내보내기</string>
+    <string name="pre_sub_unitedkingdom">영국</string>
+    <string name="pre_sub_widgetback">위젯배경</string>
+    <string name="pre_version">버전정보</string>
+    <string name="pre_version_summary">어플리케이션 버전을 확인할 수 있습니다.</string>
+    <string name="pre_widgetback_summary">바탕화면 위젯의 배경을 선택하실 수 있습니다.\n
+		    		스타일은 배경색(폰트컬러)로 되어있습니다.(기본:반투명회색(흰색))</string>
+    <string name="preference">설정</string>
+    <string name="previous">이전</string>
+    <string name="register">등록</string>
+    <string name="relation">분류</string>
+    <string name="repeat">반복</string>
+    <string msgid="368094699078615544" name="s1">"이미지 저장"</string>
+    <string msgid="4550830452390689489" name="s2">"광고에서 사진 갤러리에 이미지를 저장하도록 허용하시겠습니까?"</string>
+    <string msgid="2435407834265420668" name="s3">"동의"</string>
+    <string msgid="9167523597401839819" name="s4">"거부"</string>
+    <string msgid="1566682516266724847" name="s5">"캘린더 일정 만들기"</string>
+    <string msgid="5996672174517137271" name="s6">"광고에서 캘린더 일정을 만들도록 허용하시겠습니까?"</string>
+    <string msgid="7163549807207034258" name="s7">"테스트 광고"</string>
+    <string name="saturday">토</string>
+    <string name="schedule">스케줄</string>
+    <string name="schedulename">스케줄명</string>
+    <string msgid="146198913615257606" name="search_menu_title">"검색"</string>
+    <string name="second">초</string>
+    <string name="send">보내기</string>
+    <string name="sendotherschedule">● SM Calendar >> %1$s</string>
+    <string name="share">공유..</string>
+    <string name="sms">메시지</string>
+    <string name="solar">양력</string>
+    <string name="sound">소리</string>
+    <string name="sound_vibmix">소리+진동</string>
+    <string name="specialday">기념일</string>
+    <string name="starttime">일정시작</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="sunday">일</string>
+    <string name="table">시간</string>
+    <string name="termyn">종료일</string>
+    <string name="thursday">목</string>
+    <string name="time">시간</string>
+    <string name="title_allschedule">전체스케줄</string>
+    <string name="title_allspecialday">전체기념일</string>
+    <string name="title_dayschedule">일정조회</string>
+    <string name="title_getotherschedule">일정가져오기</string>
+    <string name="title_more">추가기능</string>
+    <string name="title_schedule">스케줄관리</string>
+    <string name="title_sendotherschedule">일정보내기</string>
+    <string name="title_sms">문자서비스</string>
+    <string name="title_specialday">기념일관리</string>
+    <string name="title_todo">할일관리</string>
+    <string name="title_user">사용자관리</string>
+    <string name="title_weekschedule">주간일정</string>
+    <string name="to">언제까지</string>
+    <string name="today">오늘</string>
+    <string name="todayschedule">오늘 일정</string>
+    <string name="todo">할일</string>
+    <string name="todoend">할일종료</string>
+    <string name="tuesday">화</string>
+    <string name="user">사용자</string>
+    <string name="username">사용자명</string>
+    <string name="vibration">진동</string>
+    <string name="warning">경고</string>
+    <string name="weddingday">결혼</string>
+    <string name="wednesday">수</string>
+    <string name="week">주</string>
+    <string name="whosschedule">의 스케줄</string>
+    <string name="wig_trans_black">투명(Black)</string>
+    <string name="wig_trans_white">투명(White)</string>
+    <string name="wig_transgray_white">반투명회색(White)</string>
+    <string name="year">년</string>
+    <string name="yun">윤</string>
+</resources>

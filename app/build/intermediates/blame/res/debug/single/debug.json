@@ -1,0 +1,2210 @@
+[
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_sub_menu_list.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\sub_menu_list.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sm_press_listrow.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable\\sm_press_listrow.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_small_downarrow.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_small_downarrow.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_today_cell.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_today_cell.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_top.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\23a1ea102a4d9b582119758c1215fe10\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_gangi_tiger.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_gangi_tiger.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_list_repeat_foryear.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_list_repeat_foryear.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_switch_thumb_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_specialday_exlist_child_back.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\specialday_exlist_child_back.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_switch_track.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_event_anniversary.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_event_anniversary.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\23a1ea102a4d9b582119758c1215fe10\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_slidebar_title.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_slidebar_title.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\23a1ea102a4d9b582119758c1215fe10\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sm_toggle_bg.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable\\sm_toggle_bg.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_pop_dayofweek.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_pop_dayofweek.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_widget_weekly_daycell.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\widget_weekly_daycell.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_dlg_view.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\dlg_view.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sm_press_left_arrow.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable\\sm_press_left_arrow.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_specialday_exlist_child.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\specialday_exlist_child.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_browser_actions_context_menu_row.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\4d214dacdb608d690edaa0cff55b5957\\res\\layout\\browser_actions_context_menu_row.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_premonth_back.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_premonth_back.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_adv_addmob.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\adv_addmob.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sm_press_left_doublearrow.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable\\sm_press_left_doublearrow.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sm_press_topmenu.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable\\sm_press_topmenu.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_specialdaymanager.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\specialdaymanager.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_notice_list.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\notice_list.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_schedule_userlist_group.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\schedule_userlist_group.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_seek_thumb.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_tooltip_enter.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\anim\\abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_gangi_monkey.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_gangi_monkey.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_top_btn.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_top_btn.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_right_arrow.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_right_arrow.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_top_preferences.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_top_preferences.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_phone_contact.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_phone_contact.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_top_todo.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_top_todo.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_nodata_add.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_nodata_add.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_menu_delete.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_menu_delete.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_menu_preferences.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_menu_preferences.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_schedule_dayofweekview.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\schedule_dayofweekview.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_todo_row.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\todo_row.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_menu_overflow_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_more_list.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\more_list.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_common_menu.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\common_menu.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_pop_day.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_pop_day.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_clear_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_gangi_snake.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_gangi_snake.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_go_search_api_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sm_press_weekdatetoday.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable\\sm_press_weekdatetoday.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_check_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_calendar_row.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\calendar_row.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\xml_widget_config_4x1.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\xml\\widget_config_4x1.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_specialday_exlist_group.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\specialday_exlist_group.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_widget_weekly_4x1.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\widget_weekly_4x1.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_event_birth.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_event_birth.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\23a1ea102a4d9b582119758c1215fe10\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_week_date.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_week_date.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_widget_calendar_4x4.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\widget_calendar_4x4.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\23a1ea102a4d9b582119758c1215fe10\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\anim_disappear_to_left.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\anim\\disappear_to_left.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\23a1ea102a4d9b582119758c1215fe10\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_sm_cal_schedule_cell.9.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-ldpi\\sm_cal_schedule_cell.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sm_checkbox.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable\\sm_checkbox.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sm_toggle.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable\\sm_toggle.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_tooltip_exit.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\anim\\abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sm_press_right_arrow.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable\\sm_press_right_arrow.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_option_btn.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_option_btn.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\menu_todo_ctx_menu.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\menu\\todo_ctx_menu.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\23a1ea102a4d9b582119758c1215fe10\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sm_press_add.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable\\sm_press_add.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_light.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_userlist.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_userlist.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_phone_call.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_phone_call.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_list.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\user_list.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_daybar.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_daybar.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_top_back.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_top_back.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_light.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_small_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_gangi_mouse.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_gangi_mouse.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_popview.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\popview.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_checkbox_false.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_checkbox_false.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_default.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_light.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_top_btn2.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_top_btn2.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_text_cursor_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_btn_checkable.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_gangi_chicken.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_gangi_chicken.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_othercalendar_row.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\othercalendar_row.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_time_schedule_cell.9.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_time_schedule_cell.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\anim_appear_from_right.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\anim\\appear_from_right.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\menu_com_option_menu.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\menu\\com_option_menu.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_light.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_search_api_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_row.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\user_row.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_text_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_menu_notice.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_menu_notice.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_widget_calendar_daycell.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\widget_calendar_daycell.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_schedule_datelist_child.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\schedule_datelist_child.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_specialday_alllist_child.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\specialday_alllist_child.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\23a1ea102a4d9b582119758c1215fe10\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\23a1ea102a4d9b582119758c1215fe10\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_notice_group.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\notice_group.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\menu_schedule_ctx_menu.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\menu\\schedule_ctx_menu.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_gangi_dog.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_gangi_dog.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_search_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\menu_user_ctx_menu.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\menu\\user_ctx_menu.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_top_submenu.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_top_submenu.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\23a1ea102a4d9b582119758c1215fe10\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_widget_weekly_vertical.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\widget_weekly_vertical.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_top_calendar.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_top_calendar.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_left_doublearrow.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_left_doublearrow.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_cal_schedule_cell.9.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_cal_schedule_cell.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_specialday_alllist.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\specialday_alllist.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_schedule_tableview.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\schedule_tableview.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_list_dayofweek.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_list_dayofweek.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\23a1ea102a4d9b582119758c1215fe10\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_widget_today.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_widget_today.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_usermanager.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\usermanager.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\anim_disappear_to_right.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\anim\\disappear_to_right.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_gangi_cat.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_gangi_cat.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_action_del2.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_action_del2.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\23a1ea102a4d9b582119758c1215fe10\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sm_cal_schedule_cell.9.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-mdpi\\sm_cal_schedule_cell.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\xml_widget_config_4x4.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\xml\\widget_config_4x4.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_in.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_action_add2.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_action_add2.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_top_info.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_top_info.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_list_repeat.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_list_repeat.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_notify_calendar.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_notify_calendar.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\raw_lunar19201980.txt.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\raw\\lunar19201980.txt"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_notice_cnt.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_notice_cnt.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_widget_weekly_today.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\widget_weekly_today.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_small_uparrow.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_small_uparrow.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20_abc_dialog_material_background.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-watch-v20\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\raw_lunar19812020.txt.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\raw\\lunar19812020.txt"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_gangi_bull.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_gangi_bull.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_schedulemanager.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\schedulemanager.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sm_tabchange.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable\\sm_tabchange.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_titlebar.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_titlebar.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\23a1ea102a4d9b582119758c1215fe10\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\menu_cal_ctx_menu.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\menu\\cal_ctx_menu.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_menu_day.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_menu_day.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_schedule_datelist_group.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\schedule_datelist_group.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_left_arrow2.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_left_arrow2.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_specialday_alllist_group.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\specialday_alllist_group.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_browser_actions_context_menu_page.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\4d214dacdb608d690edaa0cff55b5957\\res\\layout\\browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_top_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sm_press_right_doublearrow.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable\\sm_press_right_doublearrow.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\23a1ea102a4d9b582119758c1215fe10\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_info_menu_popup.9.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_info_menu_popup.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_checkbox_true.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_checkbox_true.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_widget_daily_4x1.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\widget_daily_4x1.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_othercalendar_list.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\othercalendar_list.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_out.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\23a1ea102a4d9b582119758c1215fe10\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_radio_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_color_list.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\color_list.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_top_userlist.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_top_userlist.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_calendar_mini.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\calendar_mini.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_vertical.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_vertical.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sm_press_today.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable\\sm_press_today.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\menu_specialday_ctx_menu.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\menu\\specialday_ctx_menu.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_widget_back.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_widget_back.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_common_top.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\common_top.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_toggle_off.9.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_toggle_off.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_list_divider_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_vector_test.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\xml_widget_config_4x2.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\xml\\widget_config_4x2.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_indicator_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\23a1ea102a4d9b582119758c1215fe10\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_widget_weekly_4x2.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\widget_weekly_4x2.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_calendar_main.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\calendar_main.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_right_doublearrow2.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_right_doublearrow2.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_adv_cauly.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\adv_cauly.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_dark.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_event_deathday.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_event_deathday.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\xml_widget_config_5x4.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\xml\\widget_config_5x4.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sm_press_weekdate.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable\\sm_press_weekdate.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\main.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_right_arrow2.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_right_arrow2.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_schedule_popup_row.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\schedule_popup_row.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_top_anniversary.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_top_anniversary.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_tick_mark_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_action_add.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_action_add.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_google_login.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\google_login.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_schedule_tabview.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\schedule_tabview.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_close.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_close.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_notice_child.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\notice_child.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_list_alarm.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_list_alarm.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_spinner.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout-v26\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_schedule_datelist.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\schedule_datelist.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_dark.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_abc_control_background_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_toggle_on.9.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_toggle_on.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_widget_calendar_bdaycell.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\widget_calendar_bdaycell.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_light.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_right_doublearrow.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_right_doublearrow.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\23a1ea102a4d9b582119758c1215fe10\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\23a1ea102a4d9b582119758c1215fe10\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_tab_indicator_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_gangi_horse.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_gangi_horse.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_borderless_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout-watch-v20\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_cal_specialday_cell.9.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_cal_specialday_cell.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_specialday_exlist.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\specialday_exlist.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_horizontal.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_horizontal.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_menu_more.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_menu_more.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_search_url_text.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_left_doublearrow2.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_left_doublearrow2.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\23a1ea102a4d9b582119758c1215fe10\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_voice_search_api_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_color_highlight_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_cascading_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_todomanager.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\todomanager.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_tooltip.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_click_cell.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_click_cell.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\23a1ea102a4d9b582119758c1215fe10\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_thumb_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_color_row.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\color_row.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\23a1ea102a4d9b582119758c1215fe10\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_user_list.9.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_user_list.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\raw_holiday2014.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\raw\\holiday2014.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_alert_dialog.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_alert_dialog.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_track_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_left_arrow.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_left_arrow.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_dialog_material_background.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_schedule_popup.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\schedule_popup.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\xml_widget_config_5x2.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\xml\\widget_config_5x2.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_action_del.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_action_del.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_schedule_userlist_child.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\schedule_userlist_child.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_todo_list.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\todo_list.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_enter.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_dark.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_light.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\23a1ea102a4d9b582119758c1215fe10\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_menu_dayofweek.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_menu_dayofweek.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_widget_logo.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\widget_logo.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_option_btn2.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_option_btn2.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\xml_widget_config_5x1.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\xml\\widget_config_5x1.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_schedule_userlist.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\schedule_userlist.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_info_menu_list.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\info_menu_list.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\23a1ea102a4d9b582119758c1215fe10\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_specialday_dayrow.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\specialday_dayrow.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\23a1ea102a4d9b582119758c1215fe10\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_gangi_pig.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_gangi_pig.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_gangi_rabbit.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_gangi_rabbit.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_list_repeat_formonth.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_list_repeat_formonth.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_sendsms.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\sendsms.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sm_press_del.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable\\sm_press_del.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_lunarcalendar_main.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\lunarcalendar_main.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\23a1ea102a4d9b582119758c1215fe10\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\23a1ea102a4d9b582119758c1215fe10\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_gangi_dragon.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_gangi_dragon.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_widget_calendar_5x4.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\layout\\widget_calendar_5x4.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_edittext.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_gangi_sheep.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_gangi_sheep.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sm_menu_allschedule.png.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\drawable-hdpi\\sm_menu_allschedule.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\qkrwl\\.gradle\\caches\\transforms-2\\files-2.1\\167641784eb30b9e3d2af97430fc5393\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\build\\intermediates\\res\\merged\\debug\\anim_appear_from_left.xml.flat",
+        "source": "C:\\adapp\\AndroidStudioProjects\\SMCalendar\\app\\src\\main\\res\\anim\\appear_from_left.xml"
+    }
+]

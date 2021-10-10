@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 리스트  -->
+<LinearLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/sm_background"
+    android:orientation="vertical">
+    <!--  공통 title : 고정 -->
+	<include 
+	  android:layout_width="fill_parent" 
+	  layout="@layout/common_top" />
+   
+ 	<!--  날짜 및 버튼 bar -->
+	<LinearLayout
+		style="@style/sm_dateBarlin"
+		android:id="@+id/lin_date" >
+		<LinearLayout
+		style="@style/sm_linear_basic"
+		android:id="@+id/lin_where"
+		android:gravity="left">
+		<TextView
+			style="@style/sm_textview_submenu"
+			android:id="@+id/tv_other" 
+			android:text=""
+			android:gravity="left"			
+			android:textSize="12dip"
+			android:layout_marginLeft="@dimen/margin_basic"/>	
+		</LinearLayout>
+		<!--  	
+		<LinearLayout
+		style="@style/sm_linear_basic"
+		android:layout_width="10dip"
+		android:id="@+id/lin_gap"
+		android:gravity="left"
+		android:layout_weight="1"/>	
+		-->		
+		<LinearLayout
+		style="@style/sm_linear_basic"
+		android:id="@+id/lin_allcheck"
+		android:gravity="right"
+		android:layout_weight="1">	    
+	    	<ImageButton
+			style="@style/sm_img_list"
+			android:id="@+id/all" 
+			android:clickable="false"
+			android:background="@drawable/sm_press_add"/>  
+			<TextView
+			style="@style/sm_textview_submenu"
+			android:id="@+id/tv_all" 
+			android:text=""/>
+		</LinearLayout>				
+		<LinearLayout
+		style="@style/sm_linear_basic"
+		android:id="@+id/lin_get"
+		android:gravity="right"
+		android:layout_weight="1">	    
+	    	<ImageButton
+			style="@style/sm_img_list"
+			android:id="@+id/confirm" 
+			android:clickable="false"
+			android:background="@drawable/sm_press_add"/>  
+			<TextView
+			style="@style/sm_textview_submenu"
+			android:id="@+id/tv_confirm" 
+			android:text=""			
+			android:layout_marginRight="@dimen/margin_basic"/>
+		</LinearLayout>	
+	</LinearLayout>	  
+	<LinearLayout
+	android:layout_height="wrap_content"
+	android:layout_width="fill_parent"
+	android:id="@+id/lin_user"
+	android:gravity="right"
+	android:background="@color/lightgray">	  
+       <Spinner 
+       style="@style/sm_spinner"
+       android:id="@+id/userspinner"
+       android:layout_gravity="right"/>
+    </LinearLayout>	 		  
+    <LinearLayout 
+    style="@style/sm_background"
+    android:id="@+id/lin_list" 
+    android:layout_weight="1"
+    android:orientation="vertical"
+    android:gravity="center">
+        <ListView 
+        style="@style/sm_listview"
+        android:id="@+id/android:list"/>
+
+    </LinearLayout>
+    <LinearLayout 
+    	style="@style/sm_line_full" 
+    	android:id="@+id/lin_line"    
+    	android:orientation="vertical"/>	    
+	<LinearLayout
+	android:layout_height="wrap_content"
+	android:layout_width="fill_parent"
+	android:id="@+id/lin_comment"
+	android:gravity="left"
+	android:layout_weight="0">	  
+        <TextView 
+        style="@style/sm_textview"
+        android:id="@+id/comment" 
+        android:textSize="11dip"
+        android:textColor="@color/red"
+        android:text="@string/msg_limite_getschedule"
+        android:layout_marginLeft="@dimen/margin_middle"
+        android:layout_marginRight="@dimen/margin_middle"
+        android:layout_marginTop="@dimen/margin_middle"
+        android:layout_marginBottom="@dimen/margin_middle"/>
+    </LinearLayout>	     
+</LinearLayout>

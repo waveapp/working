@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- full width : 320 -->
+<RelativeLayout 
+ xmlns:android="http://schemas.android.com/apk/res/android"
+ android:layout_width="fill_parent"
+ android:layout_height="wrap_content" 
+ android:id="@+id/rel_colrow" 
+ android:background="#AACCFF" >
+     <TextView 
+     android:layout_height="wrap_content" 
+     android:layout_width="wrap_content"
+     android:textSize="9dip"
+     android:id="@+id/schedulename" 
+     android:text="" />
+ </RelativeLayout>

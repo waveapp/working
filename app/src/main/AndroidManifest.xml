@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  위젯의 경우 노트용 별도 처리필요 -->
+<manifest  
+	  xmlns:android="http://schemas.android.com/apk/res/android"
+      android:versionCode="35"
+      android:versionName="1.6.01"
+      package="com.waveapp.smcalendar"
+	>
+
+    <!-- 
+ 	<supports-screens 
+			android:smallScreens="false" 
+			android:normalScreens="true" 
+			android:largeScreens="true" 
+			android:xlargeScreens="true"
+			android:anyDensity="true" /> 
+ -->
+
+	<uses-feature android:name="android.hardware.telephony"  		 />
+	<uses-feature android:name="android.hardware.screen.portrait" 	 />
+	<uses-feature android:name="android.hardware.touchscreen" 		 />
+    
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+	<!-- 공유용-->
+	<uses-permission android:name="android.permission.READ_CALENDAR"/> 
+	<uses-permission android:name="android.permission.WRITE_CALENDAR"/>
+	  
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+	<uses-permission-sdk-23 android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission-sdk-23 android:name="android.permission.CHANGE_CONFIGURATION" />
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+	<uses-permission android:name="android.permission.SEND_SMS" />
+	<uses-permission android:name="android.permission.VIBRATE" />
+
+	<!--API28 이상은 아래 권한이 부여되어야 포그라운드서비스가능	-->
+	<uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+
+	<!--  google . addmob-->
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.ACCESS_FIND_LOCATION" />
+	<uses-permission android:name="com.android.vending.BILLING" />
+
+	<!-- ARM-->
+	<uses-permission-sdk-23 android:name="android.permission.ACCESS_WIFI_STATE"/>
+
+	<!--  사용자정보삭제불가, app항상실행상태(persistent) -->
+    <application 
+    	android:icon="@drawable/icon" 
+    	android:label="@string/app_name"
+    	android:configChanges="keyboardHidden|orientation|locale"
+    	android:theme="@style/Theme.SmStyle"
+    	android:allowBackup="false"
+    	android:name=".SMApp">
+
+		<!-- Addmob adv. -->
+		<meta-data
+			android:name="com.google.android.gms.ads.APPLICATION_ID"
+			android:value="ca-app-pub-2960266420718368~8291820007"/>
+		<activity  android:name="com.google.ads.AdActivity"
+			android:configChanges="keyboard|keyboardHidden|orientation|locale|screenLayout|uiMode"/>
+
+        <!-- main (title, main)  -->
+         <activity  android:name=".ARMValidation" 
+             android:screenOrientation="portrait">
+            <intent-filter>
+                <action   android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        	 
+		<!--  alarm service  -->
+		<service android:name=".service.SmAlarm_Service" 
+				 android:process=":remote" 
+				 android:enabled="true">
+		</service>	
+		    
+		<!--  Widget -->	
+		<service android:name=".service.SmWidgetUpdate_Service" 
+				 android:process=":remote" 
+				 android:enabled="true">
+		</service>
+		
+		    	
+		<!--  Widget layout 1 (normal) 	-->	 
+		<receiver 	android:name=".widget.DailyAppWidgetProvider"
+		    		android:label="SM Cal.(Today4x1)"> 
+            <intent-filter>
+                <action   android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>	
+            <meta-data 
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_config_4x1"/>                  
+		</receiver>
+		<receiver 	android:name=".widget.SixDaysAppWidgetProvider"
+		    		android:label="SM Cal.(SixDays 4x1)"> 
+            <intent-filter>
+                <action   android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>	
+            <meta-data 
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_config_4x1"/>                  
+		</receiver>			
+		<receiver 	android:name=".widget.WeeklyAppWidgetProvider"
+		    		android:label="SM Cal.(Today+Weekly 4x2)"> 
+            <intent-filter>
+                <action   android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>	
+            <meta-data 
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_config_4x2"/>                  
+		</receiver>	
+
+		<receiver 	android:name=".widget.CalendarAppWidgetProvider"
+		    		android:label="SM Cal.(Calendar4x4)"> 
+            <intent-filter>
+                <action   android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>	
+            <meta-data 
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_config_4x4"/>	    
+		</receiver>
+		<!--
+		<receiver 	android:name=".widget.CalendarAppWidgetProvider"
+		    		android:label="SM Cal.(Calendar5x4)"> 
+            <intent-filter>
+                <action   android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>	
+            <meta-data 
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_config_5x4"/>	    
+		</receiver>
+		-->
+		<!--  Widget layout 2 (just note) 
+		<receiver 	android:name=".widget.DailyAppWidgetProvider"
+		    		android:label="SM Cal.(Today5x1)"> 
+            <intent-filter>
+                <action   android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>	
+            <meta-data 
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_config_5x1"/>                  
+		</receiver>
+		<receiver 	android:name=".widget.SixDaysAppWidgetProvider"
+		    		android:label="SM Cal.(SixDays 5x1)"> 
+            <intent-filter>
+                <action   android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>	
+            <meta-data 
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_config_5x1"/>                  
+		</receiver>			
+		<receiver 	android:name=".widget.WeeklyAppWidgetProvider"
+		    		android:label="SM Cal.(Today+Weekly 5x2)"> 
+            <intent-filter>
+                <action   android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>	
+            <meta-data 
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_config_5x2"/>                  
+		</receiver>	
+
+		<receiver 	android:name=".widget.CalendarAppWidgetProvider"
+		    		android:label="SM Cal.(Calendar)"> 
+            <intent-filter>
+                <action   android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>	
+            <meta-data 
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_config_5x5"/>	    
+		</receiver>
+		-->	
+		    
+		<!-- ����ȭ��   --> 
+		<activity android:name=".PreferenceMain"/>		
+		<activity android:name=".UserManager"
+				  android:windowSoftInputMode="stateHidden"/>
+		<activity android:name=".UserList"/>
+		<activity android:name=".ScheduleManager"
+				  android:windowSoftInputMode="stateHidden"/>
+		<activity android:name=".ScheduleListForUser"/>
+		<activity android:name=".CalendarMain"/>
+		<activity android:name=".ScheduleListForDate" />
+		<activity android:name=".SpecialdayManager"
+				  android:windowSoftInputMode="stateHidden"/> 	
+		<activity android:name=".SpecialdayList"/> 	
+		<activity android:name=".ColorList" /> 	
+		<activity android:name=".ScheduleTimeTable"/> 	
+		<activity android:name=".ScheduleTabForDate"/> 	
+		<activity android:name=".SdCardBackup" /> 
+		<activity android:name=".SdCardRestore" /> 	
+		<activity android:name=".TodoManager"
+				  android:windowSoftInputMode="stateHidden"/>
+		<activity android:name=".TodoList" /> 
+		<activity android:name=".LunarCalendarMain" /> 
+		<activity android:name=".ScheduleDayOfWeek" /> 				  	
+		<activity android:name=".Notice" /> 	
+		<activity android:name=".GetOtherCalendar" /> 	
+		<activity android:name=".SendOtherCalendar" /> 				  			  	
+		<activity android:name=".link.SMSLink"/> 					  
+		<activity android:name=".service.SmAlarm_Dialog"/> 
+		<activity android:name=".GoogleLogin"
+				  android:windowSoftInputMode="stateHidden"/>
+		<activity android:name=".SMCalendar"
+				  android:screenOrientation="portrait"/>
+		<activity android:name=".SpecialdayAllList" /> 		
+		
+    </application>
+</manifest>

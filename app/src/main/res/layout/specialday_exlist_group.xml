@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- full width : 320 -->
+<LinearLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/sm_background"  
+    android:id="@+id/lin_group"
+    android:orientation="vertical"
+	android:background="@color/listtop">
+    <TextView
+    	style="@style/sm_textview" 
+	    android:id="@+id/month_top" 
+	    android:text="" 
+	    android:textColor="@color/white"
+	    android:textStyle="bold"
+	    android:textSize="12dip"
+	    android:layout_marginLeft="@dimen/margin_basic"
+	    android:layout_marginBottom="@dimen/margin_small"/>
+ </LinearLayout>

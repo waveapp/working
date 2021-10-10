@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen
+        xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 일반 category --> 
+    <PreferenceCategory
+    		android:key="category_basic"
+            android:title="@string/pre_category_basic">
+        <!-- 공지사항       
+        <Preference 
+        		android:key="notice_pref"
+                android:title="@string/pre_notice"
+                android:summary="@string/pre_notice_summary">
+        </Preference> 
+        --> 
+        <!-- 버전정보 -->       
+        <Preference 
+        		android:key="version_pref"
+                android:title="@string/pre_version"
+                android:summary="@string/pre_version_summary"/>                                          
+        <!-- 언어선택 : 한국어,영어(list)   -->           
+        <ListPreference
+                android:key="lang_pref"
+                android:title="@string/pre_language"
+                android:summary=""
+                android:entries="@array/arr_language"
+                android:entryValues="@array/arr_language_key"
+                android:dialogTitle=""/> 
+        <!-- 기념일국가 : 대한민국,미국,중국,일본   -->           
+        <ListPreference
+                android:key="holiday_pref"
+                android:title="@string/pre_holiday"
+                android:summary=""
+                android:entries="@array/arr_country"
+                android:entryValues="@array/arr_country_key"
+                android:dialogTitle=""/>                  
+                
+   </PreferenceCategory> 
+   <!-- SD백업-->  
+   <PreferenceCategory
+    		android:key="category_conservation"
+            android:title="@string/pre_category_conservation">               
+        <!-- 백업주기선택-->  
+        <!-- 
+        <CheckBoxPreference
+                android:key="autobackup_pref"
+                android:title="@string/pre_sub_autobackup"
+                android:summary="@string/pre_autobackup_summary" 
+                android:defaultValue="true"/>  
+          -->          
+        <!-- 백업처리 -->       
+        <Preference 
+        		android:key="sdbackup_pref"
+                android:title="@string/pre_sub_sdbackup"
+                android:summary="@string/pre_sdbackup_summary"/>
+ 		<!-- 복원처리 -->       
+        <Preference 
+        		android:key="sdrestore_pref"
+                android:title="@string/pre_sub_sdrestore"
+                android:summary="@string/pre_sdrestore_summary"/>                  
+    </PreferenceCategory> 
+    
+    <!-- 동기화 : 핸드폰캘린더,구글캘린더 -->
+    <PreferenceCategory
+    		android:key="category_synchronization"
+            android:title="@string/pre_category_synchronization">
+        <!-- 캘린더정보 가져오기 -->  
+        <ListPreference
+                android:key="fromcalendar_pref"
+                android:title="@string/pre_sub_getcalendar"
+                android:summary="@string/pre_getcalendar_summary"
+                android:entries="@array/arr_calendar"
+                android:entryValues="@array/arr_calendar_key"
+                android:dialogTitle=""/>     
+        <!-- 캘린더정보 내보내기 -->  
+        <!--  
+        <ListPreference
+                android:key="tocalendar_pref"
+                android:title="@string/pre_sub_sendcalendar"
+                android:summary="@string/pre_sendcalendar_summary"
+                android:entries="@array/arr_calendar"
+                android:entryValues="@array/arr_calendar_key"
+                android:dialogTitle=""/>   
+		-->                                                      
+    </PreferenceCategory>  
+    
+    <!-- 알람설정 -->
+    <PreferenceCategory
+    		android:key="category_alarm"
+            android:title="@string/pre_category_alarm">
+        <!-- 알람모드 설정 -->  
+        <ListPreference
+                android:key="alarm_pref"
+                android:title="@string/pre_sub_alarmset"
+                android:summary="@string/pre_alarmset_summary"
+                android:entries="@array/arr_alarmmode"
+                android:entryValues="@array/arr_alarmmode_key"
+                android:defaultValue="S"
+                android:dialogTitle=""/>   
+        <!-- 기본알람시간 설정 -->  
+        <EditTextPreference
+                android:key="alarmtime_pref"
+                android:title="@string/pre_sub_alarmtime"
+                android:summary="@string/pre_alarmtime_summary"/>                                           
+    </PreferenceCategory>  
+    
+    <!-- 화면설정 -->  
+    <PreferenceCategory
+    		android:key="category_view"
+            android:title="@string/pre_category_view">
+        <CheckBoxPreference
+                android:key="fullcalendar_pref"
+                android:title="@string/pre_sub_fullcalendar"
+                android:summary="@string/pre_fullcalendar_summary" 
+                android:defaultValue="true"/>
+        <!-- Widget설정 -->  
+        <ListPreference
+                android:key="widgetback_pref"
+                android:title="@string/pre_sub_widgetback"
+                android:summary="@string/pre_widgetback_summary"
+                android:entries="@array/arr_widgetback"
+                android:entryValues="@array/arr_widgetback_key"
+                android:dialogTitle=""/>  
+        <!--  메인메뉴 설정  
+        
+        arr_widgetback
+        <ListPreference
+                android:key="topmenuview_pref"
+                android:title="@string/pre_sub_topmenuview"
+                android:summary="@string/pre_topmenuview_summary"
+                android:entries="@array/arr_topmunuvisible"
+                android:entryValues="@array/arr_topmunuvisible_key"
+                android:defaultValue="0"
+                android:dialogTitle=""/> 
+           -->                              
+    </PreferenceCategory> 
+                 
+</PreferenceScreen>

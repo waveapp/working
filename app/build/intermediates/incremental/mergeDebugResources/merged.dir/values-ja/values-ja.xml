@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ホームへ移動"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"上へ移動"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"その他のオプション"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完了"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"すべて表示"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"アプリの選択"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ON"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"Space"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"検索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"検索キーワード"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"検索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"検索キーワードを送信"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"音声検索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"共有"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>と共有"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"折りたたむ"</string>
+    <string name="add">追加</string>
+    <string name="address">住所</string>
+    <string name="alarm">アラーム</string>
+    <string name="alarm_description">(アラーム時刻ごと登録することができます入力する.)</string>
+    <string name="alarm_service_finished">SM Calendarアラームが終了しました.</string>
+    <string name="alarm_service_started">SM Calendarアラームが起動されています.</string>
+    <string name="all">全体の</string>
+    <string name="allday">一日中</string>
+    <string name="allget">完全な\nインポート</string>
+    <string name="am">午前</string>
+    <string name="anniversaryday">記念日</string>
+    <string name="app">SM Calendar</string>
+    <string name="app_name">SM Calendar</string>
+    <string name="app_sdpathlite">smcalendarlite</string>
+    <string name="app_sdpathnormal">smcalendar</string>
+    <string name="arr_0dbefore">当日</string>
+    <string name="arr_1">1日</string>
+    <string name="arr_10">10日</string>
+    <string name="arr_10mbefore">10分前</string>
+    <string name="arr_11">11日</string>
+    <string name="arr_12">12日</string>
+    <string name="arr_13">13日</string>
+    <string name="arr_14">14日</string>
+    <string name="arr_15">15日</string>
+    <string name="arr_16">16日</string>
+    <string name="arr_17">17日</string>
+    <string name="arr_18">18日</string>
+    <string name="arr_19">19日</string>
+    <string name="arr_1dbefore">1日前</string>
+    <string name="arr_1hbefore">1時間前</string>
+    <string name="arr_2">2日</string>
+    <string name="arr_20">20日</string>
+    <string name="arr_21">21日</string>
+    <string name="arr_22">22日</string>
+    <string name="arr_23">23日</string>
+    <string name="arr_24">24日</string>
+    <string name="arr_25">25日</string>
+    <string name="arr_26">26日</string>
+    <string name="arr_27">27日</string>
+    <string name="arr_28">28日</string>
+    <string name="arr_29">29日</string>
+    <string name="arr_2dbefore">2日前</string>
+    <string name="arr_3">3日</string>
+    <string name="arr_30">30日</string>
+    <string name="arr_30mbefore">30分前</string>
+    <string name="arr_31">31日</string>
+    <string name="arr_3dbefore">3日前</string>
+    <string name="arr_4">4日</string>
+    <string name="arr_4dbefore">4日前</string>
+    <string name="arr_5">5日</string>
+    <string name="arr_5dbefore">5日前</string>
+    <string name="arr_5mbefore">5分前</string>
+    <string name="arr_6">6日</string>
+    <string name="arr_6dbefore">6日前</string>
+    <string name="arr_6hbefore">6時間前</string>
+    <string name="arr_7">7日</string>
+    <string name="arr_7dbefore">一週間前</string>
+    <string name="arr_8">8日</string>
+    <string name="arr_9">9日</string>
+    <string name="arr_colleague">同僚</string>
+    <string name="arr_endmonth">月末</string>
+    <string name="arr_family">家族</string>
+    <string name="arr_friend">友人</string>
+    <string name="arr_myself">本人</string>
+    <string name="arr_none">アラームなし</string>
+    <string name="arr_onetime">定時</string>
+    <string name="arr_other">その他</string>
+    <string name="birthdate">誕生日</string>
+    <string name="birthday">誕生日</string>
+    <string name="calendar">カレンダー</string>
+    <string name="cancel">キャンセル</string>
+    <string name="charcnt">0/400byte</string>
+    <string name="choiceget">選択\nインポート</string>
+    <string name="color">スタイル</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」で Google Play 開発者サービスに問題が発生しています。もう一度お試しください。"</string>
+    <string name="confirm">確認する</string>
+    <string name="content">内容</string>
+    <string name="copy">コピー</string>
+    <string name="copy_prefix">のコピー</string>
+    <string name="cost">費用</string>
+    <string name="count">エ</string>
+    <string name="day">日</string>
+    <string name="dayofweek">曜日</string>
+    <string name="deathday">期日</string>
+    <string name="defaultalarm_description">(設定は、アラーム時刻を変更することができます.)</string>
+    <string name="defaultuser">デフォルトのユーザー</string>
+    <string name="delete">削除</string>
+    <string name="email">メール</string>
+    <string name="endtime">スケジュール終了</string>
+    <string name="err_batchholiday">ニョンギ記念日が反映されていません\n(開発者にお問い合わせください)</string>
+    <string name="err_birthday">誕生日が今日よりも早い日付に入力されています.もう一度</string>
+    <string name="err_date">日付や時刻の情報にエラーでスケジュールをインポートすることはできません.</string>
+    <string name="err_email">メールアドレスを入力していないか、正しく入力されました.再び</string>
+    <string name="err_enddate">開始日が終了日よりも早い日付に入力されています.もう一度</string>
+    <string name="err_endtime">開始時刻が終了時刻よりも早い時間に入力されています.もう一度</string>
+    <string name="err_gubun">区切りの値のエラー</string>
+    <string name="err_httpconnection">ネットワーク接続が円滑ではなく、処理が中断されています.\n確認してから再起動してください.</string>
+    <string name="err_memo">メモを</string>
+    <string name="err_mustweekcheck">毎週定期的なスケジュールは、曜日を選択していただく必要があります.もう一度</string>
+    <string name="err_name">名</string>
+    <string name="err_not_evernote">EverNoteは存在しません.</string>
+    <string name="err_not_existfile">SDカードにバックアップファイルが存在しません.</string>
+    <string name="err_not_existfilelite">SDカードへのLit0 eのバックアップファイルが存在しないか、
+								\nLiteアプリが存在しません.</string>
+    <string name="err_not_existsdcard">SDカードが存在しないか
+								\nファイルの書き込みが禁止され、\n要求された操作が停止されています.</string>
+    <string name="err_not_existsdcard2">SDカードが存在しないか
+								\nファイルの読み取りが不可能で、\n要求された操作が停止されています.</string>
+    <string name="err_not_kakaotalk">カカオトークが存在しません.</string>
+    <string name="err_notvaliddata">インポート可能なスケジュールはありません.</string>
+    <string name="err_nouser">登録されたユーザーは存在しません.ユーザー情報を最初に</string>
+    <string name="err_password">パスワード</string>
+    <string name="err_period">週次, 月次スケジュールの開始日, 終了日, 同じことがこれまでに登録することはできません.再び</string>
+    <string name="err_phone">の電話番号を</string>
+    <string name="err_schedulename">スケジュール名を</string>
+    <string name="err_specialdayname">記念日名を</string>
+    <string name="err_style">スタイル</string>
+    <string name="err_unknown">ネットワーク接続が円滑ではなく、作業が中断される(%1$s)\n確認してから再起動してください.</string>
+    <string name="err_user">ユーザーを</string>
+    <string name="errer">エラー</string>
+    <string name="evernote">EverNote </string>
+    <string name="everymonth">毎月</string>
+    <string name="everyweek">毎週</string>
+    <string name="everyyear">毎年</string>
+    <string name="exist_termyn">期限有り</string>
+    <string name="finish">完了</string>
+    <string name="finishterm">期限</string>
+    <string name="friday">金</string>
+    <string name="get">インポート</string>
+    <string name="getotherschedule">● %1$s >> SM Calendar</string>
+    <string name="googlelogin">Googleのログイン</string>
+    <string name="group">グループ</string>
+    <string name="hello">SM Calendarへようこそ!\n告知事項を確認してください.</string>
+    <string name="hint_memo">メモ入力(最大3行)</string>
+    <string name="hint_text">情報の入力(最大20文字)</string>
+    <string name="hint_text_long">情報の入力(100文字以内)</string>
+    <string name="holiday">休日</string>
+    <string name="hour">時</string>
+    <string name="info">お知らせ</string>
+    <string name="info_backup">SDカードにデータをバックアップ中です.\nしばらくお待ちください.</string>
+    <string name="info_backup_end">SDカードにデータのバックアップは完了です.</string>
+    <string name="info_batchholiday">記念日に適用中です.\nしばらくお待ちください.</string>
+    <string name="info_batchlunar">旧暦の適用中です.\nしばらくお待ちください.</string>
+    <string name="info_createdatabase">データをダウンロード中です.\nしばらくお待ちください.\n(最初の実行時にのみ1回実行)</string>
+    <string name="info_httpconnection">ネトゥウォクヨンギョルジュン..</string>
+    <string name="info_installcancel">中断されています.</string>
+    <string name="info_restore">データ復旧中です.\nしばらくお待ちください.</string>
+    <string name="info_restore_end">データ復旧が完了しました.</string>
+    <string name="info_restorefromlite">Liteのスケジュールを取得しています.\nしばらくお待ちください.</string>
+    <string name="info_restorefromlite_end">Liteのスケジュールのインポートが完了しました.</string>
+    <string name="information">情報</string>
+    <string name="inputcheck">必須</string>
+    <string name="isempty">情報なし</string>
+    <string name="kakaotalk">カカオトーク </string>
+    <string name="latest">最近の</string>
+    <string name="list">リスト</string>
+    <string name="lunar">旧</string>
+    <string name="lunar2">旧(閏)</string>
+    <string name="lunarcalendar">旧暦</string>
+    <string name="lunarf">旧暦</string>
+    <string name="lunarf2">旧暦(ユン)</string>
+    <string name="memo">メモ</string>
+    <string name="menu_schedule_add">スケジュール</string>
+    <string name="menu_schedule_day">詳細スケジュール</string>
+    <string name="menu_specialday_add">記念日</string>
+    <string name="menu_todo_add">ToDo</string>
+    <string name="menu_weekschedule">週間スケジュール</string>
+    <string name="minite">分</string>
+    <string name="modify">修正</string>
+    <string name="monday">月</string>
+    <string name="month">月</string>
+    <string name="more">続きを読む</string>
+    <string name="msg_alardialog">%1$s</string>
+    <string name="msg_cancel">キャンセルされました.</string>
+    <string name="msg_confirm">%1$s  \n続行しますか?</string>
+    <string name="msg_deletecomplete">削除されました</string>
+    <string name="msg_deleteconfirm">削除しますか？</string>
+    <string name="msg_endcomplete">終了しました.</string>
+    <string name="msg_endconfirm">あなたは, %1$sを終了したいと思います? </string>
+    <string name="msg_err">%1$s  \nエラーが発生しました.</string>
+    <string name="msg_exit">終了してよろしい?</string>
+    <string name="msg_finishcomplete">完了しました</string>
+    <string name="msg_finishconfirm">%1$s 再度実行します? </string>
+    <string name="msg_getallschedule">有効な全体スケジュール(%1$s건)をインポートしますか?</string>
+    <string name="msg_googleloginfail">ログインに失敗しました.</string>
+    <string name="msg_info">%1$s  \nお知らせいたします.</string>
+    <string name="msg_inputcheck">%1$s 入力してください.</string>
+    <string name="msg_limite_getschedule">**)一度、またはジュバンボク日程だけのインポートが可能です.\n(毎月繰り返し、特定の日の繰り返し、隔週のスケジュールをインポートすることはできません.)</string>
+    <string name="msg_lite_limite">Liteバージョンでは、制限された機能です.(完全版では、使用することができます)</string>
+    <string name="msg_litedatabackup">登録されたデータがすべて削除されます.
+        					\nSM Calendar Liteでバックアップされた予定表に変更しますか？</string>
+    <string name="msg_notselected">選択された情報がありません.</string>
+    <string name="msg_pleasewating">しばらくお待ちください.</string>
+    <string name="msg_savecomplete">保存されています </string>
+    <string name="msg_sdbackup">既存のバックアップファイルは削除されます.
+							\nSDカードにデータをバックアップしますか？</string>
+    <string name="msg_sdrestore">登録されたデータがすべて削除されます.
+    						\nデータの復旧を続行しますか？ </string>
+    <string name="msg_sendsms">テキストメッセージが送信されています.</string>
+    <string name="msg_warining">%1$s  \n注意してください.</string>
+    <string name="name">名</string>
+    <string name="no_data">登録されたデータがありません.</string>
+    <string name="no_repeat">全く繰り返さない</string>
+    <string name="no_schedule">登録されたスケジュールがありません.</string>
+    <string name="no_specialday">登録された記念日はありません.</string>
+    <string name="no_todo">登録されてやるメモがありません.</string>
+    <string name="no_user">登録されたユーザー情報はありません.</string>
+    <string name="notexist_termyn">期限なし</string>
+    <string name="onetime">一度だけ</string>
+    <string name="password">パスワード</string>
+    <string name="period">期間</string>
+    <string name="perweek">週ごとに</string>
+    <string name="phone">お問い合わせ</string>
+    <string name="pm">午後</string>
+    <string name="pos">目</string>
+    <string name="pre_alarmset_summary">アラームモードを選択することができます(音、振動)</string>
+    <string name="pre_alarmtime_summary">あなたは,デフォルトのアラーム時間（記念日,To-do）を選択することができます</string>
+    <string name="pre_autobackup_summary">自動バックアップを希望する場合はチェックしなさい.</string>
+    <string name="pre_category_alarm">アラーム</string>
+    <string name="pre_category_basic">一般</string>
+    <string name="pre_category_conservation">バックアップとリカバリ</string>
+    <string name="pre_category_synchronization">スケジュールの共有</string>
+    <string name="pre_category_view">画面制御</string>
+    <string name="pre_fullcalendar_summary">以前は、次の月を含めて見ることか今回の月だけ見るか選択することができます.</string>
+    <string name="pre_getcalendar_summary">他のカレンダーのスケジュールを SM Calendarにコピーすることができます.</string>
+    <string name="pre_holiday">国民の祝日</string>
+    <string name="pre_language">言語を選択</string>
+    <string name="pre_notice">お知らせ</string>
+    <string name="pre_notice_summary">の変更、イベントの情報を確認できます.</string>
+    <string name="pre_sdbackup_summary">クリックすると、SDカードにバックアップを行うことができます.
+    					\nただし、既存のバックアップデータは削除されます.</string>
+    <string name="pre_sdrestore_summary">クリックすると、データの復元を行うことができます.
+    					\nただし、登録されたデータがすべて削除されます.</string>
+    <string name="pre_sendcalendar_summary">SM Calendar 予定表を別のカレンダーにコピーすることができます.</string>
+    <string name="pre_sub_alarmset">アルラムソルジョン</string>
+    <string name="pre_sub_alarmtime">デフォルトのアラーム時間</string>
+    <string name="pre_sub_america">アメリカ</string>
+    <string name="pre_sub_autobackup">自動バックアップ(週1回)</string>
+    <string name="pre_sub_backup">バックアップ</string>
+    <string name="pre_sub_china">中国</string>
+    <string name="pre_sub_chinese">中国語</string>
+    <string name="pre_sub_english">英語</string>
+    <string name="pre_sub_fullcalendar">全体のカレンダー</string>
+    <string name="pre_sub_getcalendar">スケジュールのインポート</string>
+    <string name="pre_sub_googlecalendar">Googleカレンダー</string>
+    <string name="pre_sub_japan">日本</string>
+    <string name="pre_sub_japanese">日本語</string>
+    <string name="pre_sub_korea">韓国</string>
+    <string name="pre_sub_korean">韓国語</string>
+    <string name="pre_sub_litecalendar">Lite Version</string>
+    <string name="pre_sub_phonecalendar">ネダルリョク</string>
+    <string name="pre_sub_restore">復元</string>
+    <string name="pre_sub_sdbackup">データのバックアップ(SDカード)</string>
+    <string name="pre_sub_sdrestore">データの復元</string>
+    <string name="pre_sub_sendcalendar">スケジュールのエクスポート</string>
+    <string name="pre_sub_unitedkingdom">英国</string>
+    <string name="pre_sub_widgetback">ウィジェットの背景</string>
+    <string name="pre_version">バージョン情報</string>
+    <string name="pre_version_summary">アプリケーションのバージョンを確認することができます.</string>
+    <string name="pre_widgetback_summary">デスクトップウィジェットの背景を選択することができます.\n
+						スタイルは、背景色(フォントカラー)となっています(デフォルト:半透明グレー(白))</string>
+    <string name="preference">設定</string>
+    <string name="previous">前の</string>
+    <string name="register">登録</string>
+    <string name="relation">分類</string>
+    <string name="repeat">繰り返す</string>
+    <string msgid="368094699078615544" name="s1">"画像の保存"</string>
+    <string msgid="4550830452390689489" name="s2">"広告が画像ギャラリーに画像を保存することを許可しますか？"</string>
+    <string msgid="2435407834265420668" name="s3">"許可する"</string>
+    <string msgid="9167523597401839819" name="s4">"許可しない"</string>
+    <string msgid="1566682516266724847" name="s5">"カレンダーの予定の作成"</string>
+    <string msgid="5996672174517137271" name="s6">"広告がカレンダーの予定を作成することを許可しますか？"</string>
+    <string msgid="7163549807207034258" name="s7">"テスト広告"</string>
+    <string name="saturday">土</string>
+    <string name="schedule">スケジュール</string>
+    <string name="schedulename">スケジュルミョン</string>
+    <string msgid="146198913615257606" name="search_menu_title">"検索"</string>
+    <string name="second">秒</string>
+    <string name="send">エクスポート</string>
+    <string name="sendotherschedule">● SM Calendar >> %1$s</string>
+    <string name="share">共有..</string>
+    <string name="sms">メッセージ</string>
+    <string name="solar">新暦</string>
+    <string name="sound">音</string>
+    <string name="sound_vibmix">音+振動</string>
+    <string name="specialday">記念日</string>
+    <string name="starttime">スケジュール開始</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="sunday">日</string>
+    <string name="table">時間</string>
+    <string name="termyn">終了日</string>
+    <string name="thursday">木</string>
+    <string name="time">時間</string>
+    <string name="title_allschedule">全体スケジュール</string>
+    <string name="title_allspecialday">全体記念日</string>
+    <string name="title_dayschedule">スケジュール照会</string>
+    <string name="title_getotherschedule">スケジュールのインポート</string>
+    <string name="title_more">その他の機能</string>
+    <string name="title_schedule">スケジュール管理</string>
+    <string name="title_sendotherschedule">スケジュールのエクスポート</string>
+    <string name="title_sms">文字サービス</string>
+    <string name="title_specialday">記念日の管理</string>
+    <string name="title_todo">やるメモ</string>
+    <string name="title_user">ユーザーの管理</string>
+    <string name="title_weekschedule">週間スケジュール</string>
+    <string name="to">いつまでも</string>
+    <string name="today">今日</string>
+    <string name="todayschedule">今日のスケジュール</string>
+    <string name="todo">ToDo</string>
+    <string name="todoend">TODOの終了</string>
+    <string name="tuesday">火</string>
+    <string name="user">ユーザー</string>
+    <string name="username">ユーザ名</string>
+    <string name="vibration">振動</string>
+    <string name="warning">警告</string>
+    <string name="weddingday">結婚</string>
+    <string name="wednesday">水</string>
+    <string name="week">週</string>
+    <string name="whosschedule">のスケジュール</string>
+    <string name="wig_trans_black">透明(Black)</string>
+    <string name="wig_trans_white">透明(White)</string>
+    <string name="wig_transgray_white">半透明グレー(White)</string>
+    <string name="year">年</string>
+    <string name="yun">ユン</string>
+</resources>

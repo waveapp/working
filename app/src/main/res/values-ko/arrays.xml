@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- relation spinner -->
+    <string-array name="arr_relation" >
+            <item>본인</item>
+            <item>가족</item>        
+            <item>기타</item>
+    </string-array> 
+    <string-array name="arr_relation_key" >
+            <item>0</item>        
+            <item>1</item>        
+            <item>10</item>
+    </string-array>     
+       
+<!-- alarm spinner -->
+    <string-array name="arr_alarm" >
+    		<item>알람없음</item>
+    		<item>정시</item>
+            <item>5분전</item>
+            <item>10분전</item>         
+            <item>30분전</item>        
+            <item>1시간전</item>
+            <item>6시간전</item>
+            <item>1일전</item>
+    </string-array>  
+    <string-array name="arr_alarm_key" >
+    		<item></item>
+    		<item>0</item>
+            <item>5</item> 
+			<item>10</item>      
+            <item>30</item>        
+            <item>60</item> 
+            <item>360</item>
+            <item>1440</item>
+    </string-array>   
+<!-- lunar spinner -->
+    <string-array name="arr_leap" >
+            <item>양력</item>        
+            <item>음력</item>        
+            <item>음력(윤)</item> 
+    </string-array> 
+    <string-array name="arr_leap_key" >
+            <item>0</item>        
+            <item>1</item>        
+            <item>2</item>
+    </string-array>  
+     
+<!-- Anniversary spinner -->
+    <string-array name="arr_event" >
+    		<item>@string/anniversaryday</item>
+            <item>@string/birthday</item>       
+            <item>@string/deathday</item>
+    </string-array> 
+    <string-array name="arr_event_key" >
+            <item>0</item>        
+            <item>1</item>        
+            <item>2</item>
+    </string-array>  
+        
+<!-- preference --> 
+    <string-array name="arr_language" >
+            <item>@string/pre_sub_korean</item>        
+            <item>@string/pre_sub_english</item>  
+    </string-array> 
+    <string-array name="arr_language_key" >
+            <item>ko</item>        
+            <item>en</item>  
+    </string-array>         
+
+    <string-array name="arr_calendar" >
+            <item>@string/pre_sub_phonecalendar</item>   
+    </string-array> 
+    <string-array name="arr_calendar_key" >
+            <item>phone</item> 
+    </string-array>   
+    
+    <string-array name="arr_alarmmode" >
+            <item>소리</item>        
+            <item>진동</item> 
+            <item>소리+진동</item>  
+    </string-array> 
+    <string-array name="arr_alarmmode_key" >
+            <item>S</item>        
+            <item>B</item> 
+            <item>SB</item>  
+    </string-array>     
+</resources>

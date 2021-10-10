@@ -1,0 +1,11 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AndroidDomInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AndroidLintDuplicateIds" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintEnforceUTF8" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="BooleanMethodIsAlwaysInverted" enabled="true" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="UseOfJDBCDriverClass" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="XmlPathReference" enabled="false" level="ERROR" enabled_by_default="false" />
+  </profile>
+</component>

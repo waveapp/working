@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+   <item
+        android:id="@+id/menu_schedule_date"
+        android:title="@string/menu_schedule_day" />  
+   <item
+        android:id="@+id/menu_schedule_new"
+        android:title="@string/menu_schedule_add" /> 
+   <item
+        android:id="@+id/menu_specialday_new"
+        android:title="@string/menu_specialday_add" />    
+   <item
+        android:id="@+id/menu_todo_new"
+        android:title="@string/menu_todo_add"/>
+          
+</menu>

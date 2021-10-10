@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- main -->
+<!-- full width : 320*100 316dip-->
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"  
+  android:layout_width="fill_parent" 
+  android:layout_height="98dip" 
+  android:id="@+id/lin_main"
+  android:orientation="vertical"	 	
+  android:background="@drawable/sm_widget_back" >  
+  	<LinearLayout
+	 	android:id="@+id/lin_section1"	
+	 	android:layout_width="fill_parent" 	
+	 	android:layout_height="fill_parent"
+	 	android:orientation="horizontal"	
+	 	android:layout_weight="1"> 	
+	</LinearLayout>
+	<LinearLayout 
+	 	android:id="@+id/lin_horizontalline"
+	 	android:layout_width="fill_parent"
+	 	android:layout_height="1dip"
+	 	android:orientation="vertical"
+	 	android:background="@drawable/sm_horizontal"/> 	
+  	<LinearLayout
+	 	android:id="@+id/lin_section2"	
+	 	android:layout_width="fill_parent" 	
+	 	android:layout_height="fill_parent"
+	 	android:orientation="horizontal"	
+	 	android:layout_weight="1"
+	 	android:layout_marginBottom="@dimen/margin_triplesmall">
+	</LinearLayout>	
+</LinearLayout>

@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"关闭"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"开启"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"Delete 键"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Enter 键"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Fn+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"空格键"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"使用<ns1:g id="APPLICATION_NAME">%s</ns1:g>分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收起"</string>
+    <string name="add">添加</string>
+    <string name="address">地址</string>
+    <string name="alarm">报警</string>
+    <string name="alarm_description">(输入报警时间的基础上可以注册.)</string>
+    <string name="alarm_service_finished">SM Calendar报警已经结束.</string>
+    <string name="alarm_service_started">SM Calendar日历报警开始.</string>
+    <string name="all">全体</string>
+    <string name="allday">终日</string>
+    <string name="allget">让所有</string>
+    <string name="am">上午</string>
+    <string name="anniversaryday">纪念日</string>
+    <string name="app">SM Calendar</string>
+    <string name="app_name">SM Calendar</string>
+    <string name="app_sdpathlite">smcalendarlite</string>
+    <string name="app_sdpathnormal">smcalendar</string>
+    <string name="arr_0dbefore">天</string>
+    <string name="arr_1">1天</string>
+    <string name="arr_10">10天</string>
+    <string name="arr_10mbefore">提前 10分钟</string>
+    <string name="arr_11">11天</string>
+    <string name="arr_12">12天</string>
+    <string name="arr_13">13天</string>
+    <string name="arr_14">14天</string>
+    <string name="arr_15">15天</string>
+    <string name="arr_16">16天</string>
+    <string name="arr_17">17天</string>
+    <string name="arr_18">18天</string>
+    <string name="arr_19">19天</string>
+    <string name="arr_1dbefore">提前 1天</string>
+    <string name="arr_1hbefore">提前 1小时</string>
+    <string name="arr_2">2天</string>
+    <string name="arr_20">20天</string>
+    <string name="arr_21">21天</string>
+    <string name="arr_22">22天</string>
+    <string name="arr_23">23天</string>
+    <string name="arr_24">24天</string>
+    <string name="arr_25">25天</string>
+    <string name="arr_26">26天</string>
+    <string name="arr_27">27天</string>
+    <string name="arr_28">28天</string>
+    <string name="arr_29">29天</string>
+    <string name="arr_2dbefore">提前 2天</string>
+    <string name="arr_3">3天</string>
+    <string name="arr_30">30天</string>
+    <string name="arr_30mbefore">提前 30分钟</string>
+    <string name="arr_31">31天</string>
+    <string name="arr_3dbefore">提前 3天</string>
+    <string name="arr_4">4天</string>
+    <string name="arr_4dbefore">提前 4天</string>
+    <string name="arr_5">5天</string>
+    <string name="arr_5dbefore">提前 5天</string>
+    <string name="arr_5mbefore">提前 5分钟</string>
+    <string name="arr_6">6天</string>
+    <string name="arr_6dbefore">提前 6天</string>
+    <string name="arr_6hbefore">提前 6小时</string>
+    <string name="arr_7">7天</string>
+    <string name="arr_7dbefore">一周前</string>
+    <string name="arr_8">8天</string>
+    <string name="arr_9">9天</string>
+    <string name="arr_colleague">同事</string>
+    <string name="arr_endmonth">结束</string>
+    <string name="arr_family">家庭</string>
+    <string name="arr_friend">朋友</string>
+    <string name="arr_myself">本人</string>
+    <string name="arr_none">无</string>
+    <string name="arr_onetime">无</string>
+    <string name="arr_other">其他</string>
+    <string name="birthdate">出生日期</string>
+    <string name="birthday">生日</string>
+    <string name="calendar">日历</string>
+    <string name="cancel">取消</string>
+    <string name="charcnt">0/400byte</string>
+    <string name="choiceget">获得选择</string>
+    <string name="color">色相 </string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>无法访问 Google Play 服务，请重试。"</string>
+    <string name="confirm">确认</string>
+    <string name="content">內容</string>
+    <string name="copy">副本</string>
+    <string name="copy_prefix">复制</string>
+    <string name="cost">成本</string>
+    <string name="count">计数</string>
+    <string name="day">日</string>
+    <string name="dayofweek">星期</string>
+    <string name="deathday">忌日</string>
+    <string name="defaultalarm_description">(偏好就能改变闹铃时间.)</string>
+    <string name="defaultuser">默认用户</string>
+    <string name="delete">刪除</string>
+    <string name="email">E-Mail</string>
+    <string name="endtime">日历结束</string>
+    <string name="err_batchholiday">纪念日不能反映\n(请联系管理员).</string>
+    <string name="err_birthday">比今天的出生日期已输入更快.一次</string>
+    <string name="err_date">日历日期或时间上的错误信息无法导入.</string>
+    <string name="err_email">E-mail并不再进入或已经进入不正确.一次 </string>
+    <string name="err_enddate">结束日期的日期早于开始日期已输入. 一次</string>
+    <string name="err_endtime">开始时间结束时间是在较短的时间进入.一次</string>
+    <string name="err_gubun">分隔值错误</string>
+    <string name="err_httpconnection">网络连接被中止并不顺利.\n请确认后重新启动.</string>
+    <string name="err_memo">內容</string>
+    <string name="err_mustweekcheck">选择时间是每天必须重复. 一次</string>
+    <string name="err_name">名</string>
+    <string name="err_not_evernote">EverNote的不存在.</string>
+    <string name="err_not_existfile">SD卡上的备份文件不存在.</string>
+    <string name="err_not_existfilelite">在SD卡备份文件精简版不存在，或
+						\nLite的的应用程序不存在.</string>
+    <string name="err_not_existsdcard"> SD卡不存在或
+						\n是写保护的文件\n该请求的操作已被中止.</string>
+    <string name="err_not_existsdcard2">SD卡不存在或
+						\n这是不可能的读取文件\n请求的操作已被中止.</string>
+    <string name="err_not_kakaotalk">KakaoTalk不存在.</string>
+    <string name="err_notvaliddata">有一种意见认为可以导入时间表.</string>
+    <string name="err_nouser">非注册用户. 请前用户</string>
+    <string name="err_password">Password</string>
+    <string name="err_period">每周,每月的计划的开始日期,结束日期,同样可以不予登记的日期.再次</string>
+    <string name="err_phone">电话号码</string>
+    <string name="err_schedulename">附表名称</string>
+    <string name="err_specialdayname">纪念日名</string>
+    <string name="err_style">颜色</string>
+    <string name="err_unknown">网络连接被中止并不顺利(%1$s).\n请确认后重新启动.</string>
+    <string name="err_user">用户</string>
+    <string name="errer">错误</string>
+    <string name="evernote">EverNote</string>
+    <string name="everymonth">每月</string>
+    <string name="everyweek">每周</string>
+    <string name="everyyear">每年</string>
+    <string name="exist_termyn">有期</string>
+    <string name="finish">截止日</string>
+    <string name="finishterm">期限</string>
+    <string name="friday">五</string>
+    <string name="get">获得</string>
+    <string name="getotherschedule">● %1$s >> SM Calendar</string>
+    <string name="googlelogin">Google Login</string>
+    <string name="group">组</string>
+    <string name="hello">欢迎 SM Calendar.\n请检查公告.</string>
+    <string name="hint_memo">内容输入(最高3行)</string>
+    <string name="hint_text">内容输入(最高20信)</string>
+    <string name="hint_text_long">内容输入(最高100信)</string>
+    <string name="holiday">假期</string>
+    <string name="hour">小时</string>
+    <string name="info">公告</string>
+    <string name="info_backup">数据备份到SD卡.\n请稍等片刻.</string>
+    <string name="info_backup_end">SD卡数据备份已经完成.</string>
+    <string name="info_batchholiday">在纪念日体现.\n请稍等片刻.</string>
+    <string name="info_batchlunar">在农历体现.\n请稍等片刻.</string>
+    <string name="info_createdatabase">数据正在下载.\n请稍等片刻.\n只有当进行第一次运行</string>
+    <string name="info_httpconnection">网络连接正在进行中..</string>
+    <string name="info_installcancel">已经停产.</string>
+    <string name="info_restore">数据恢复是.\n请稍等片刻.</string>
+    <string name="info_restore_end">数据恢复完成.</string>
+    <string name="info_restorefromlite">Lite可以得到的时间表.\n请稍等片刻.</string>
+    <string name="info_restorefromlite_end">获取 Lite日程已经完成.</string>
+    <string name="information">资料</string>
+    <string name="inputcheck">要求</string>
+    <string name="isempty">没有信息</string>
+    <string name="kakaotalk">KakaoTalk</string>
+    <string name="latest">最新</string>
+    <string name="list">列表</string>
+    <string name="lunar">月</string>
+    <string name="lunar2">月(闰)</string>
+    <string name="lunarcalendar">阴历</string>
+    <string name="lunarf">月球</string>
+    <string name="lunarf2">月球(闰)</string>
+    <string name="memo">内容</string>
+    <string name="menu_schedule_add">时间表</string>
+    <string name="menu_schedule_day">日</string>
+    <string name="menu_specialday_add">纪念日</string>
+    <string name="menu_todo_add">我事</string>
+    <string name="menu_weekschedule">周</string>
+    <string name="minite">分</string>
+    <string name="modify">修改</string>
+    <string name="monday">一</string>
+    <string name="month">月</string>
+    <string name="more">更多</string>
+    <string name="msg_alardialog">%1$s</string>
+    <string name="msg_cancel">已被取消.</string>
+    <string name="msg_confirm">%1$s  \n你要继续吗?</string>
+    <string name="msg_deletecomplete">已被删除 </string>
+    <string name="msg_deleteconfirm">你确定要删除吗?</string>
+    <string name="msg_endcomplete">被终止.</string>
+    <string name="msg_endconfirm">你想完成 %1$s? </string>
+    <string name="msg_err">%1$s  \n发生错误.</string>
+    <string name="msg_exit">你确定要退出吗?</string>
+    <string name="msg_finishcomplete">已经完成</string>
+    <string name="msg_finishconfirm">你想为%1$s的交易?</string>
+    <string name="msg_getallschedule">提供完整的时间表(%1$s的东西),并希望进口?</string>
+    <string name="msg_googleloginfail">登录失败. </string>
+    <string name="msg_info">%1$s  \n请注意.</string>
+    <string name="msg_inputcheck">%1$s 请输入您的.</string>
+    <string name="msg_limite_getschedule">**)或重复的时间表一旦导入共享可用\n(每月重复,重复的某一天,每隔一周日程无法导入.)</string>
+    <string name="msg_lite_limite">Lite是一个功能有限的版本(完整版可以使用)</string>
+    <string name="msg_litedatabackup">注册数据将被删除.
+        				\nSM Calendar精简版是否要改变对你的日程安排备份?</string>
+    <string name="msg_notselected">信息没有被选中.</string>
+    <string name="msg_pleasewating">请稍等片刻.</string>
+    <string name="msg_savecomplete">已保存 </string>
+    <string name="msg_sdbackup">现有的备份文件将被删除.
+						\nSD卡你要备份你的数据?</string>
+    <string name="msg_sdrestore">注册数据将被删除.
+    					\n是否要恢复数据? </string>
+    <string name="msg_sendsms">短信息已发送.</string>
+    <string name="msg_warining">%1$s  \n请注意意.</string>
+    <string name="name">名称</string>
+    <string name="no_data">没有注册的数据.</string>
+    <string name="no_repeat">不重复</string>
+    <string name="no_schedule">没有注册的时间表.</string>
+    <string name="no_specialday">沒有註冊的紀念日.</string>
+    <string name="no_todo">没有注册的事记录.</string>
+    <string name="no_user">没有注册的数据.</string>
+    <string name="notexist_termyn">无期</string>
+    <string name="onetime">同一时间</string>
+    <string name="password">Password</string>
+    <string name="period">期间</string>
+    <string name="perweek">每周</string>
+    <string name="phone">接触</string>
+    <string name="pm">下午</string>
+    <string name="pos">每</string>
+    <string name="pre_alarmset_summary">报警模式可以选择(声音,振动)</string>
+    <string name="pre_alarmtime_summary">您可以选择预设的闹铃时间 (纪念日,To-do)</string>
+    <string name="pre_autobackup_summary">请检查您是否要自动备份.</string>
+    <string name="pre_category_alarm">报警</string>
+    <string name="pre_category_basic">一般</string>
+    <string name="pre_category_conservation">备份和恢复</string>
+    <string name="pre_category_synchronization">分享您的日历</string>
+    <string name="pre_category_view">屏幕控制</string>
+    <string name="pre_fullcalendar_summary">此前，有观点包括以下一个月，有观点包括以下一个月.</string>
+    <string name="pre_getcalendar_summary">其他日历事件可以被复制到SM Calendar.</string>
+    <string name="pre_holiday">节假日</string>
+    <string name="pre_language">语言选择</string>
+    <string name="pre_notice">公告</string>
+    <string name="pre_notice_summary">变化，事件的详细资料.</string>
+    <string name="pre_sdbackup_summary">点击备份 SD卡，你可以
+    							\n但是，现有的备份资料将被删除.</string>
+    <string name="pre_sdrestore_summary">您可以点击数据恢复.
+    							\n然而，注册资料将被删除.</string>
+    <string name="pre_sendcalendar_summary">附表可以复制到不同的SM Calendar日历.</string>
+    <string name="pre_sub_alarmset">报警设定</string>
+    <string name="pre_sub_alarmtime">预设的闹铃时间</string>
+    <string name="pre_sub_america">United State</string>
+    <string name="pre_sub_autobackup">自动备份(每周一次)</string>
+    <string name="pre_sub_backup">备份</string>
+    <string name="pre_sub_china">中国</string>
+    <string name="pre_sub_chinese">中国(繁体)</string>
+    <string name="pre_sub_english">English</string>
+    <string name="pre_sub_fullcalendar">全历</string>
+    <string name="pre_sub_getcalendar">导入日历</string>
+    <string name="pre_sub_googlecalendar">Google Calendar</string>
+    <string name="pre_sub_japan">日本</string>
+    <string name="pre_sub_japanese">日语</string>
+    <string name="pre_sub_korea">한국</string>
+    <string name="pre_sub_korean">한국어(대한민국)</string>
+    <string name="pre_sub_litecalendar">Lite Version</string>
+    <string name="pre_sub_phonecalendar">我的手机日历</string>
+    <string name="pre_sub_restore">恢复</string>
+    <string name="pre_sub_sdbackup">数据备份(SD卡) </string>
+    <string name="pre_sub_sdrestore">数据恢复</string>
+    <string name="pre_sub_sendcalendar">出口计划</string>
+    <string name="pre_sub_unitedkingdom">United Kingdom</string>
+    <string name="pre_sub_widgetback">构件的背景</string>
+    <string name="pre_version">版本信息</string>
+    <string name="pre_version_summary">您可以检查应用程序的版本.</string>
+    <string name="pre_widgetback_summary">桌面小工具的背景可以选择.\n
+							背景颜色(字体颜色)样式中(默认:半透明灰(白))</string>
+    <string name="preference">偏好</string>
+    <string name="previous">以前</string>
+    <string name="register">注册</string>
+    <string name="relation">分类</string>
+    <string name="repeat">重复</string>
+    <string msgid="368094699078615544" name="s1">"保存图片"</string>
+    <string msgid="4550830452390689489" name="s2">"允许广告将图片存储在图库中吗？"</string>
+    <string msgid="2435407834265420668" name="s3">"接受"</string>
+    <string msgid="9167523597401839819" name="s4">"拒绝"</string>
+    <string msgid="1566682516266724847" name="s5">"创建日历活动"</string>
+    <string msgid="5996672174517137271" name="s6">"允许广告创建日历活动吗？"</string>
+    <string msgid="7163549807207034258" name="s7">"测试广告"</string>
+    <string name="saturday">六</string>
+    <string name="schedule">日历</string>
+    <string name="schedulename">名称时间表</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜索"</string>
+    <string name="second">秒</string>
+    <string name="send">发送</string>
+    <string name="sendotherschedule">● SM Calendar >> %1$s</string>
+    <string name="share">份額..</string>
+    <string name="sms">短信</string>
+    <string name="solar">太阳</string>
+    <string name="sound">​​声音</string>
+    <string name="sound_vibmix">​​声音+振动</string>
+    <string name="specialday">纪念日</string>
+    <string name="starttime">日历开始</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="sunday">日</string>
+    <string name="table">表</string>
+    <string name="termyn">完</string>
+    <string name="thursday">四</string>
+    <string name="time">时间</string>
+    <string name="title_allschedule">所有赛程</string>
+    <string name="title_allspecialday">充分周年</string>
+    <string name="title_dayschedule">查看时间表</string>
+    <string name="title_getotherschedule">导入日历</string>
+    <string name="title_more">附加组件</string>
+    <string name="title_schedule">日历管理</string>
+    <string name="title_sendotherschedule">發送日历</string>
+    <string name="title_sms">短信</string>
+    <string name="title_specialday">纪念日管理</string>
+    <string name="title_todo">事管理</string>
+    <string name="title_user">用户管理</string>
+    <string name="title_weekschedule">日历周</string>
+    <string name="to">结束日期</string>
+    <string name="today">今日</string>
+    <string name="todayschedule">今天的时间表</string>
+    <string name="todo">要做到</string>
+    <string name="todoend">完</string>
+    <string name="tuesday">二</string>
+    <string name="user">用户</string>
+    <string name="username">用户名</string>
+    <string name="vibration">振动</string>
+    <string name="warning">警告</string>
+    <string name="weddingday">結婚</string>
+    <string name="wednesday">三</string>
+    <string name="week">周</string>
+    <string name="whosschedule">附表</string>
+    <string name="wig_trans_black">透明(黑)</string>
+    <string name="wig_trans_white">透明(白色)</string>
+    <string name="wig_transgray_white">半透明的灰色(白色)</string>
+    <string name="year">年</string>
+    <string name="yun">闰</string>
+</resources>

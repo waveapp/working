@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- common -->
+	<string name="app">SM Calendar</string>
+	<string name="app_name">SM Calendar</string>
+	<string name="app_sdpathnormal">smcalendar</string>
+	<string name="app_sdpathlite">smcalendarlite</string>
+	  
+	<!-- non common --> 
+    <string name="hello">Welcome, SM Calendar.\nPlease check notices.</string>
+	<string name="no_data">Not a registered data.</string>
+	<string name="copy_prefix"> Copy</string>
+	<string name="charcnt">0/400byte</string>
+	 
+	<!-- usermanager -->
+	<string name="title_user">User Management</string>
+	<string name="user">User</string>
+	<string name="no_user">Not a registered user.</string>
+    <string name="username"	>User Name</string>
+    <string name="defaultuser">Default User</string>
+    
+    <!-- schedulemanager -->
+    <string name="title_schedule">Schedule Management</string>
+	<string name="no_schedule">Not a registered schedule.</string>
+	<string name="title_allschedule">Full Schedule</string>
+    <string name="isempty">No Title</string>
+    
+    <!-- specialdaymanager -->
+    <string name="title_specialday">Anniversary Management</string>       
+    <string name="title_allspecialday">Full Anniversary</string>
+	<string name="no_specialday">Not a registered anniversary.</string>
+	
+	<!-- todomanager -->
+    <string name="title_todo">Todo Manager</string>    
+	<string name="no_todo">Not a registered memo.</string>
+	
+	<!-- schedule list -->
+	<string name="title_dayschedule">Day Schedule</string>
+	<string name="title_weekschedule">Week Schedule</string>
+	
+	<!-- calendar -->
+	<string name="calendar">Calendar</string>
+	<string name="lunarcalendar">Lunar Calendar</string>
+	
+	<!-- share -->
+	<string name="kakaotalk">KakaoTalk</string>
+	<string name="evernote"	>EverNote</string>
+	<string name="title_sms">SMS</string> 
+	<string name="sms"		>SMS</string>	
+	<string name="whosschedule">s Schedule</string>
+	
+	<!-- other menu title -->
+	<string name="title_more">more</string>
+	<string name="title_getotherschedule">Import Schedule</string>
+	<string name="title_sendotherschedule">Export Schedule</string>
+
+	<!-- preference -->
+	<string name="preference">Preference</string>
+	<!-- information -->
+	<string name="information">Information</string>		
+	
+    <!-- word -->
+    <string name="register"		>Register</string>
+    <string name="confirm"		>Confirm</string>
+    <string name="add"			>Add</string> 
+    <string name="modify"		>Edit</string> 
+    <string name="copy"			>Copy</string> 
+    <string name="delete"		>Delete</string>   
+    <string name="cancel"		>Cancel</string> 
+    <string name="share"		>Share..</string> 
+    <string name="send"			>Export</string> 
+	<string name="get"			>Import</string>
+	<string name="allget"		>Full\nImport</string>
+	<string name="choiceget"	>Select\nImport</string>
+	<string name="getotherschedule"	>● %1$s >> SM Calendar</string>
+	<string name="sendotherschedule">● SM Calendar >> %1$s</string>
+    <string name="todayschedule">Today Schedule</string>
+    
+     <!-- menu --> 
+    <string name="menu_specialday_add"	>Anniversary</string>
+    <string name="menu_todo_add" 		>Todo</string>      
+    <string name="menu_schedule_add" 	>Schedule</string>
+    <string name="menu_schedule_day" 	>Day</string>
+    <string name="menu_weekschedule" 	>Week</string> 
+    
+    <string name="inputcheck">Required</string> 
+    <string name="info"		>Info</string> 
+    <string name="warning"	>Warning</string> 
+    <string name="errer"	>Error</string>  	
+ 	
+ 	<!-- hint -->
+    <string name="hint_memo">Enter Description(Max 3 Lines)</string>  
+    <string name="hint_text">Enter Contents(Max 20 letter)</string> 
+    <string name="hint_text_long">Enter Contents(Max 100 letter)</string> 
+    
+    <!-- view name -->
+    <string name="name">Name</string>
+    <string name="relation">Relation</string>
+    <string name="color">Style</string>
+    <string name="address">Address</string>
+    <string name="memo">Description</string>
+    <string name="content">Contents</string>
+    <string name="birthdate">Birthday</string>
+    <string name="schedulename">Contents</string>
+    <string name="period">Period</string> 
+    <string name="time">Time</string>
+    <string name="alarm">Alarm</string> 
+    <string name="starttime">Start schedule</string>
+    <string name="endtime">End schedule</string>
+    <string name="phone">Phone</string>
+    <string name="cost">Cost</string>
+    <string name="more">More</string>
+    <string name="list">List</string>
+    <string name="table">Table</string>
+    <string name="count">Number</string>
+    <string name="termyn">Time limit</string>
+    <string name="finishterm">Set a term</string>
+    <string name="finish">Finish</string>
+    <string name="todoend">Finish</string>
+    <string name="all">All</string> 
+    <string name="latest">Latest</string> 
+    <string name="previous">Previous</string>  
+	<string name="googlelogin">Google Login</string>   
+    <string name="email">E-mail</string>  
+    <string name="password">Password</string>  
+     	
+    <string name="anniversaryday">Anniversary</string>
+    <string name="birthday">Birth day</string>  
+    <string name="weddingday">Wedding Day</string>  
+    <string name="deathday">Death Day</string>	
+ 
+	<string name="exist_termyn">In period</string>
+	<string name="notexist_termyn">No date</string>
+	<string name="repeat">Repeat</string>
+	<string name="no_repeat">No repeat</string>
+	           
+	<!-- exception msg -->
+	<string name="err_gubun">Separated Value Error</string>
+	<string name="err_nouser">Not a registered user.</string>
+	<string name="err_schedulename">Schedule name</string>
+	<string name="err_user">User</string>
+	<string name="err_specialdayname">Anniversary name</string>
+	<string name="err_name">name</string>
+	<string name="err_memo">description</string>
+	<string name="err_phone">phone</string>
+	<string name="err_style">style</string>
+	<string name="err_email">Enter the e-mail, or it would not have entered. Again </string>
+	<string name="err_password">Password</string>
+	<string name="err_date">Bad date or time schedule can not be imported.</string>
+	<string name="err_birthday">Faster than today s date of birth was entered. Again</string>
+	<string name="err_mustweekcheck">Select a repeating schedule, will be required of the week. Again</string>
+	<string name="err_enddate">Start date to a date earlier than the schedule end date has been entered. Again</string>
+	<string name="err_endtime">Start time, end time is entered in less time. Again</string>
+	<string name="err_not_existfile">SD card backup file does not exist.</string>
+	<string name="err_not_existfilelite">SD card lite backup file does not exist 
+	    				\nor does not exist Lite applications.</string>
+	
+	<string name="err_not_existsdcard">SD card does not exist or 
+						\nWrite-protected file you requested has stopped working</string>
+	<string name="err_not_existsdcard2">SD card does not exist or 
+						\nRead-protected file you requested has stopped working</string>
+	<string name="err_not_kakaotalk">KakaoTalk does not exist</string>
+	<string name="err_not_evernote">EverNote does not exist</string>
+	<string name="err_httpconnection">The network connection was aborted does not facilitate.\nPlease restart after checking.</string>
+	<string name="err_unknown">The network connection was aborted does not facilitate.(%1$s).\nPlease restart after checking.</string>
+	<string name="err_notvaliddata">There is a schedule that can be imported.</string>
+	<string name="err_batchholiday">Anniversary are not reflected.\n(Please contact the developer)</string>
+	<string name="err_period">Weekly, monthly schedule start date, end date, the same can not be registered to date. Again</string>
+	    	
+	<string name="holiday"	>Holiday</string>
+	<string name="schedule"	>Schedule</string>
+	<string name="specialday">Anniversary</string>
+	<string name="todo">Todo</string>  
+		
+	<string name="sunday"	>Sun</string>
+	<string name="monday"	>Mon</string>
+	<string name="tuesday"	>Tue</string>
+	<string name="wednesday">Wed</string>
+	<string name="thursday"	>Thu</string>
+	<string name="friday"	>Fri</string>
+	<string name="saturday"	>Sat</string>
+	
+	<string name="year"	>Year</string>
+	<string name="month">Month</string>
+	<string name="day"	>Day</string>
+	<string name="hour"	>Hour</string>
+	<string name="minite">Minite</string>
+	<string name="second">Second</string>
+	<string name="dayofweek">Day of week</string>
+	<string name="week">Week</string>
+	<string name="today"	>Today</string>
+	<string name="everyyear">Every year</string>
+	<string name="everymonth">Every month</string>
+	<string name="everyweek">Every week</string>
+	<string name="onetime"	>Only once</string>
+	<string name="allday"	>All Day</string>
+	<string name="am"	>AM</string>
+	<string name="pm"	>PM</string>
+	<string name="to"	>To</string>
+	<string name="perweek">per week</string>
+	<string name="pos"	>th</string>
+	<string name="sound">Sound</string>
+	<string name="vibration">Vibration</string>
+	<string name="sound_vibmix">Sound+Vibration</string>
+	<string name="yun">Yun</string>	
+	
+    <!--  message  -->
+	<string name="info_httpconnection">Network Connectioning..</string>
+    <string name="info_createdatabase">Downloading the data\nPlease wait..\n(first run only when performed)</string>
+    <string name="info_installcancel">Has been discontinued.</string>
+    <string name="info_batchholiday">Anniversary is being reflected.\nPlease wait..</string>
+    <string name="info_batchlunar">Lunar calendar is being reflected.\nPlease wait..</string>
+    <string name="info_backup">SD card data is being backed up.\nPlease wait..</string>
+    <string name="info_backup_end">SD card data backup has been completed.</string>
+    <string name="info_restore">Data is being restore.\nPlease wait..</string>
+    <string name="info_restore_end">Data restore is complete.</string>    
+    <string name="info_restorefromlite">Importing Lite data.\nPlease wait..</string>
+    <string name="info_restorefromlite_end">Lite to import data has been completed.</string>
+    <string name="msg_inputcheck"	>Please enter the %1$s.</string>
+    <string name="msg_notselected">Information is not selected.</string>
+	<string name="msg_deleteconfirm">Are you sure you want to delete? </string>
+    <string name="msg_deletecomplete">Has been Deleted.</string>
+    <string name="msg_savecomplete">Has been Saved.</string> 
+ 	<string name="msg_finishconfirm">Would you like to complete? </string>
+    <string name="msg_finishcomplete">Has been completed.</string> 	
+    <string name="msg_endconfirm">Would you like to finish %1$s? </string>
+    <string name="msg_endcomplete">Was terminated.</string> 
+	<string name="msg_googleloginfail">Login failed.</string>
+               
+    <string name="msg_sdbackup">Existing backup file will be deleted.
+    				\nAre you sure you want to back up data to an SD card?</string>
+    <string name="msg_sdrestore">Registered data are deleted.
+					\nDo you want to restore the data?</string>
+    <string name="msg_litedatabackup">Registered data are deleted.
+        					\nIn SmCalendar Lite Do you want to change back into your schedule?</string>    
+    <string name="msg_info"			>Please note that \n%1$s </string>
+    <string name="msg_warining"		>Please note that \n%1$s .</string>
+    <string name="msg_err"			>An error has occurred %1$s</string>
+    <string name="msg_confirm"		>Do you want to continue \n%1$s</string>
+    <string name="msg_exit"			>Are you sure you want to quit?</string>
+    <string name="msg_sendsms"		>SMS has been sent.</string>
+    <string name="msg_alardialog"	>%1$s</string>
+    <string name="msg_lite_limite">Lite version is a limited functionality. (Full version can be used)</string> 
+	<string name="msg_limite_getschedule">**) Repeat once or weekly schedules will be importing.\n   ( Monthly recurring, repeating certain day, bi-weekly schedule can not be imported.)</string>  
+	<string name="msg_getallschedule">Complete schedule available \n(%1$s cases) and want to import?</string>
+	<string name="msg_pleasewating">Please wait..</string>  
+	<string name="msg_cancel">Has been canceled.</string>  
+	    
+    <!--  preference  -->
+    <string name="pre_category_basic">General</string>
+     <string name="pre_notice">Notice</string>   
+     <string name="pre_notice_summary">Changes or notification information can be found.</string> 
+     <string name="pre_version">Version Information</string>   
+     <string name="pre_version_summary">You can find out which version of the application.</string> 
+     
+     <string name="pre_language">Language</string>  
+    	<string name="pre_sub_korea">Korean</string>
+    	<string name="pre_sub_english">English</string>
+    	<string name="pre_sub_chinese">Chinese</string>
+    	<string name="pre_sub_japanese">Japanese</string>     
+     <string name="pre_holiday">National holidays</string>  
+     	<string name="pre_sub_korean">South Korea</string>   	
+        <string name="pre_sub_america">United States</string>         
+        <string name="pre_sub_unitedkingdom">United Kingdom</string> 
+        <string name="pre_sub_china">China</string> 
+        <string name="pre_sub_japan">Japan</string>    	    
+    	
+    <string name="pre_category_conservation">Backup and Restore</string>
+     	<string name="pre_sub_backup">Backup</string>
+    	<string name="pre_sub_autobackup">Automatic Backup\n(Once a week)</string>
+    	<string name="pre_autobackup_summary">Please check if you want automatic backups.</string> 
+    	<string name="pre_sub_sdbackup">Backup to SDCard</string>
+    	<string name="pre_sdbackup_summary">If you click you can backup the data to the SD card.
+    									However, the existing backup data will be deleted.</string> 
+    	
+    	<string name="pre_sub_restore">Restore</string>
+    	<string name="pre_sub_sdrestore">Restore from SDCard</string>
+    	<string name="pre_sdrestore_summary">If you click you can restore the data.
+    									 However, the registered data are deleted.</string> 
+    									
+      <string name="pre_category_synchronization">Share</string>
+     	 <string name="pre_sub_getcalendar">Import calendar</string>  
+		 <string name="pre_getcalendar_summary">Other calendar schedule can be copied to the SM Calendar.</string>       
+		 <string name="pre_sub_sendcalendar">Export calendar</string>  
+		 <string name="pre_sendcalendar_summary">SM Calendar schedule can be copied to a different calendar.</string>      		       
+	     <string name="pre_sub_phonecalendar">My Calendar</string>
+	     <string name="pre_sub_litecalendar">Lite Version</string>
+	     <string name="pre_sub_googlecalendar">Google Calendar</string>   
+
+     <string name="pre_category_alarm">Alarm</string> 
+    	<string name="pre_sub_alarmset">Alarm Mode</string>
+		<string name="pre_alarmset_summary">You can select the alarm mode (sound, vibration)</string>
+		<string name="pre_sub_alarmtime">The default alarm time</string>
+		<string name="pre_alarmtime_summary">You can select the default alarm time (Anniversary,To-do)</string>  		
+     <string name="pre_category_view">View Control</string> 
+    	<string name="pre_sub_fullcalendar">Full Calendar</string>
+		<string name="pre_fullcalendar_summary">Previously, the view includes the following month, and decide whether you can view this month.</string>  		
+    	<string name="pre_sub_widgetback">Widget background</string>
+		<string name="pre_widgetback_summary">The background of desktop widgets you can choose.\n
+								 Style of the background color (font color) are in (default: translucent gray (white))</string> 
+	
+	<!--	   
+     <string name="pre_category_view">화면제어</string> 
+    	<string name="pre_sub_topmenuview">메인 메뉴</string>
+		<string name="pre_topmenuview_summary">메인 메뉴(Top)가 보일지 말지 변경하실 수 있습니다.</string>   
+		-->		
+ 	<string name="alarm_service_started">SM Calendar alarm has started.</string>
+    <string name="alarm_service_finished">SM Calendar alarm has been shut down.</string>	
+ 	<string name="alarm_description">(Enter the alarm time basis can register)</string> 
+ 	<string name="defaultalarm_description">(Preference will be able to change the alarm time in)</string>
+        
+    <!--  array part -->
+    <string name="group">Group</string>  
+    <string name="arr_myself">Myself</string>
+    <string name="arr_family">Family</string>
+    <string name="arr_friend">Friend</string>
+    <string name="arr_colleague">Colleague</string>
+    <string name="arr_other">Other</string>
+   
+    <!-- 일정알람 -->
+    <string name="arr_none">None</string>
+    <string name="arr_onetime">One Time</string>
+    <string name="arr_5mbefore">5 minutes ago</string>
+    <string name="arr_10mbefore">10 minutes ago</string>
+    <string name="arr_30mbefore">30 minutes ago</string>
+    <string name="arr_1hbefore">1 hour ago</string>
+    <string name="arr_6hbefore">6 hour ago</string>
+    <string name="arr_1dbefore">1 day ago</string>
+    
+    <!-- 기타알람 -->
+    <string name="arr_0dbefore">The day</string>
+    <string name="arr_2dbefore">2 days ago</string>
+    <string name="arr_3dbefore">3 days ago</string>
+    <string name="arr_4dbefore">4 days ago</string>
+    <string name="arr_5dbefore">5 days ago</string>
+    <string name="arr_6dbefore">6 days ago</string>
+    <string name="arr_7dbefore">A week ago</string> 
+    
+    <string name="solar">Solar</string>
+    <string name="lunarf">Lunar</string>
+    <string name="lunarf2">Lunar(Leap Month)</string>
+           
+    <string name="lunar"></string>
+    <string name="lunar2"></string>     
+    
+    <string name="arr_endmonth">The last day </string>
+    <string name="arr_1">1st</string>
+    <string name="arr_2">2nd</string>
+    <string name="arr_3">3rd</string>
+    <string name="arr_4">4th</string>
+    <string name="arr_5">5th</string>
+	<string name="arr_6">6th</string>
+    <string name="arr_7">7th</string>
+    <string name="arr_8">8th</string>
+    <string name="arr_9">9th</string>
+    <string name="arr_10">10th</string>
+	<string name="arr_11">11th</string>
+    <string name="arr_12">12th</string>
+    <string name="arr_13">13th</string>
+    <string name="arr_14">14th</string>
+    <string name="arr_15">15th</string>    
+ 	<string name="arr_16">16th</string>
+    <string name="arr_17">17th</string>
+    <string name="arr_18">18th</string>
+    <string name="arr_19">19th</string>
+    <string name="arr_20">20th</string>
+    <string name="arr_21">21st</string>
+    <string name="arr_22">22nd</string>
+    <string name="arr_23">23rd</string>
+    <string name="arr_24">24th</string>
+    <string name="arr_25">25th</string>
+    <string name="arr_26">26th</string>
+    <string name="arr_27">27th</string>
+    <string name="arr_28">28th</string>
+    <string name="arr_29">29th</string>
+    <string name="arr_30">30th</string>
+    <string name="arr_31">31st</string>   
+        
+    <!-- widget -->
+    <string name="wig_transgray_white">Translucent Gray (White)</string>
+    <string name="wig_trans_white">Transparent (White)</string>
+    <string name="wig_trans_black">Transparent (Black)</string>
+    
+</resources>

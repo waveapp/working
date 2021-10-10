@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  기념일  -->
+<LinearLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/viewroot"
+    style="@style/sm_background"
+    android:orientation="vertical">
+    <!--  공통 title : 고정 -->
+	<include 
+	  android:layout_width="fill_parent" 
+	  layout="@layout/common_top" />   
+    <!--  공통 menu: 고정 -->
+	<include 
+	  android:layout_width="fill_parent" 
+	  layout="@layout/common_menu"/>  
+ 	<!--  날짜 bar -->
+	<LinearLayout
+		style="@style/sm_dateBarlin"
+		android:id="@+id/lin_date" >
+		<TextView 
+		android:layout_width="80dip" 
+		android:layout_height="wrap_content"  	
+		android:id="@+id/rightgap" 
+		android:text="" 
+		android:layout_weight="1"/>			
+		<ImageButton 
+        style="@style/sm_dateBarImgBtn"
+        android:id="@+id/previousyear" 
+        android:src="@drawable/sm_press_left_doublearrow"
+        android:layout_weight="1"/>			
+		<LinearLayout 
+		    android:id="@+id/rel_date" 
+		    android:layout_width="wrap_content" 
+		    android:layout_height="wrap_content" 
+		    android:layout_centerHorizontal="true" 
+		    android:layout_centerVertical="true"
+		    android:layout_weight="1">
+		    <TextView 
+		    style="@style/sm_dateBarText"
+		    android:id="@+id/year" 
+		    android:text="yyyy" 
+		    android:layout_weight="1"
+		    android:gravity="center"/>	    
+	    </LinearLayout>
+		<ImageButton 
+        style="@style/sm_dateBarImgBtn"
+        android:id="@+id/nextyear" 
+        android:src="@drawable/sm_press_right_doublearrow"
+        android:layout_weight="1"/>
+		<TextView 
+		android:layout_width="40dip" 
+		android:layout_height="wrap_content"  	
+		android:id="@+id/rightgap" 
+		android:text="" 
+		android:layout_weight="1"/>	
+		<LinearLayout
+		style="@style/sm_linear_basic"
+		android:id="@+id/lin_add">			
+			<ImageButton
+			style="@style/sm_img_list"
+			android:id="@+id/add" 
+			android:text="@string/add"
+			android:clickable="false"
+			android:background="@drawable/sm_press_add"/> 
+			<TextView
+			style="@style/sm_textview_submenu"
+			android:id="@+id/tv_add" 
+			android:text="@string/add"
+			android:layout_marginRight="@dimen/margin_basic"/>	
+		</LinearLayout>						        
+	</LinearLayout>		
+    <LinearLayout 
+    style="@style/sm_background"
+    android:id="@+id/lin_list" 
+    android:layout_weight="1"
+    android:orientation="vertical"
+    android:gravity="center">
+		<ExpandableListView 
+		style="@style/sm_listview"
+		android:id="@+id/android:list"
+		android:scrollbars="vertical"/>
+		<!-- 
+        <TextView 
+        style="@style/sm_textview_list_nodata"
+        android:id="@+id/android:empty" 
+        android:text="@string/no_specialday"/>
+         -->
+    </LinearLayout>
+    <!--  광고배너 고정  -->
+	<LinearLayout
+		style="@style/sm_linear_basicwf"
+		android:id="@+id/lin_banner"
+		android:layout_weight="0">	
+		<include 
+	  		layout="@layout/adv_addmob"/> 
+		<include 
+	  		layout="@layout/adv_cauly"/> 	  		
+	</LinearLayout>    
+</LinearLayout>

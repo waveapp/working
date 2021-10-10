@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- full width : 320 -->
+<LinearLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/sm_background_forlistrow"
+    android:orientation="horizontal"> 
+	<LinearLayout 
+	    style="@style/sm_background_forlistrow">     
+	<LinearLayout
+		style="@style/sm_linear_list"
+	 	android:id="@+id/lin_left"
+	 	android:orientation="horizontal">
+		<LinearLayout
+	 	android:id="@+id/lin_schedule"
+	 	android:layout_width="fill_parent"
+	 	android:layout_height="fill_parent"
+	 	android:orientation="horizontal"		     
+	 	android:layout_weight="1"
+	 	android:layout_marginTop="@dimen/margin_middle"
+	 	android:layout_marginBottom="@dimen/margin_middle">	
+	 		<TextView 
+	 		 style="@style/sm_widget_usercolor"
+	 		 android:layout_width="3dip"
+		     android:id="@+id/usercolor"/> 		 	
+	 		<TextView 
+			 android:layout_width="60dip"
+			 android:layout_height="wrap_content"
+		     android:id="@+id/gubun"
+		     android:textSize="10dip"
+		     android:text=""
+		     android:singleLine="true"
+		     android:ellipsize="end"
+		     android:gravity="left"
+		     android:layout_gravity="center|center_vertical"/> 	
+	 		<TextView 
+			 android:layout_width="wrap_content"
+			 android:layout_height="wrap_content"
+		     android:id="@+id/schedulename"
+		     android:textSize="14dip"
+		     android:text=""
+		     android:singleLine="true"
+		     android:ellipsize="end"
+		     android:gravity="left"
+		     android:layout_gravity="center|center_vertical"/> 				     		 	
+	 	</LinearLayout>	 	
+	 	
+	</LinearLayout>
+</LinearLayout>	 
+</LinearLayout>

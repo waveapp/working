@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 리스트  -->
+<LinearLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:orientation="vertical"
+    android:background="@drawable/sm_info_menu_popup">
+    <LinearLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/lin_menu" 
+    android:orientation="vertical" > 
+        <TextView 
+        android:layout_width="fill_parent" 
+    	android:layout_height="wrap_content" 
+        android:id="@+id/lunarcalendar" 
+        android:text="@string/lunarcalendar"
+        android:textColor="@color/white"
+        android:textSize="13dip"
+        android:layout_marginTop="@dimen/margin_middle"
+        android:layout_marginLeft="@dimen/margin_middle"
+        android:layout_marginRight="@dimen/margin_middle"/>
+   		<LinearLayout 
+   		style="@style/sm_line_horizontal_img" 
+    	android:id="@+id/lin_line"    	
+        android:layout_marginBottom="@dimen/margin_middle"/>
+   		<!-- 	
+        <TextView 
+        android:layout_width="fill_parent" 
+    	android:layout_height="wrap_content" 
+        android:id="@+id/notice" 
+        android:text="@string/pre_notice"
+        android:textColor="@color/white"
+        android:textSize="13dip"
+        android:layout_marginLeft="@dimen/margin_middle"
+        android:layout_marginRight="@dimen/margin_middle"/>
+   		<LinearLayout 
+   		style="@style/sm_line_horizontal_img" 
+    	android:id="@+id/lin_line"    	
+        android:layout_marginBottom="@dimen/margin_middle"/>	
+         -->                
+    </LinearLayout>
+    
+</LinearLayout>
